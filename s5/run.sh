@@ -14,7 +14,7 @@ set -e # exit on error
 #local/rm_data_prep.sh /export/corpora5/LDC/LDC93S3A/rm_comp
 
 #local/rm_data_prep.sh /home/dpovey/data/LDC93S3A/rm_comp
-<<comment1
+#<<comment1
 
 
 utils/prepare_lang.sh data/local/dict '!SIL' data/local/lang data/lang
@@ -22,7 +22,7 @@ utils/prepare_lang.sh data/local/dict '!SIL' data/local/lang data/lang
 local/cm_prepare_lm.sh || exit 1
 local/cm_format_data.sh || exit 1
 
-comment1
+#comment1
 
 #local/rm_prepare_grammar.sh      # Traditional RM grammar (bigram word-pair)
 #local/rm_prepare_grammar_ug.sh   # Unigram grammar (gives worse results, but
@@ -44,6 +44,7 @@ for x in test train; do
   steps/compute_cmvn_stats.sh data/$x exp/make_feat/$x $featdir
 done
 
+co1
 
 # Make a combined data dir where the data from all the test sets goes-- we do
 # all our testing on this averaged set.  This is just less hassle.  We
@@ -61,7 +62,6 @@ steps/train_mono.sh --nj $trjobs --cmd "$train_cmd" data/train.1k data/lang exp/
 
 #show-transitions data/lang/phones.txt exp/tri2a/final.mdl  exp/tri2a/final.occs | perl -e 'while(<>) { if (m/ sil /) { $l = <>; $l =~ m/pdf = (\d+)/|| die "bad line $l";  $tot += $1; }} print "Total silence count $tot\n";'
 
-#co1
 
 utils/mkgraph.sh data/lang exp/mono exp/mono/graph
 
@@ -217,8 +217,6 @@ steps/decode.sh --config conf/decode.config --nj $tejobs --cmd "$decode_cmd" \
 # ## already-trained system.
 # #local/online/run_nnet2_wsj.sh
 
-co1
-<<comment
 
 #first, train UBM for fMMI experiments.
 steps/train_diag_ubm.sh --silence-weight 0.5 --nj 4 --cmd "$train_cmd" \
@@ -253,9 +251,6 @@ for iter in 3 4 5 6 7 8; do
    --transform-dir exp/tri3b/decode  exp/tri3b/graph data/test exp/tri3b_fmmi_d/decode_it$iter &
 done
 
-comment
-
-<<co2
 # Demo of "raw fMLLR"
 local/run_raw_fmllr.sh
 
@@ -266,7 +261,6 @@ local/run_sgmm2.sh
 #comment
 # The following script depends on local/run_raw_fmllr.sh having been run.
 #
-co2
 
 local/run_nnet2.sh
 #comment

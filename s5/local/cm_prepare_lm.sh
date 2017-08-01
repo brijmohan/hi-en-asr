@@ -20,15 +20,15 @@ order=3
 . utils/parse_options.sh
 
 # Prepare a LM training corpus from the transcripts _not_ in the test set
-cut -f2- -d' ' < data/test/text |\
-  sed -e 's:[ ]\+: :g' | sort -u > $loctmp/corpus.txt
+#cut -f2- -d' ' < data/test/text |\
+#  sed -e 's:[ ]\+: :g' | sort -u > $loctmp/corpus.txt
 
 # We are not removing the test utterances in the current version of the recipe
 # because this messes up with some of the later stages - e.g. too many OOV
 # words in tri2b_mmi
 cut -f2- -d' ' < data/train/text |\
    sed -e 's:[ ]\+: :g' |\
-   sort -u >> $loctmp/corpus.txt
+   sort -u > $loctmp/corpus.txt
 
 
 loc=`which ngram-count`;
