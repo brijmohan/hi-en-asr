@@ -1,0 +1,4 @@
+1.05-1.2-spk01 /home/brij/kaldi/egs/cm_dnn/s5/mfcc/nnet4b/cmvn_train_perturbed_fbank-1.05-1.2.ark:1393
+1.05-1.2-spk02 /home/brij/kaldi/egs/cm_dnn/s5/mfcc/nnet4b/cmvn_train_perturbed_fbank-1.05-1.2.ark:2079
+1.05-1.2-spk03 /home/brij/kaldi/egs/cm_dnn/s5/mfcc/nnet4b/cmvn_train_perturbed_fbank-1.05-1.2.ark:2765
+1.05-1.2-spk04 /home/brij/kaldi/egs/cm_dnn/s5/mfcc/nnet4b/cmvn_train_perturbed_fbank-1.05-1.2.ark:3451

@@ -1,0 +1,4 @@
+spk08 /home/brij/kaldi/egs/cm_dnn/s5/mfcc/cmvn_train.ark:2217
+spk09 /home/brij/kaldi/egs/cm_dnn/s5/mfcc/cmvn_train.ark:2462
+spk10 /home/brij/kaldi/egs/cm_dnn/s5/mfcc/cmvn_train.ark:2707
+spk11 /home/brij/kaldi/egs/cm_dnn/s5/mfcc/cmvn_train.ark:2952

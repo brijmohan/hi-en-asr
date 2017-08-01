@@ -1,0 +1,4 @@
+MALE-2 /home/brij/kaldi/egs/cm_dnn/s5/mfcc/cmvn_test_fbank.ark:7
+spk17 /home/brij/kaldi/egs/cm_dnn/s5/mfcc/cmvn_test_fbank.ark:684
+spk19 /home/brij/kaldi/egs/cm_dnn/s5/mfcc/cmvn_test_fbank.ark:1361
+spk20 /home/brij/kaldi/egs/cm_dnn/s5/mfcc/cmvn_test_fbank.ark:2038

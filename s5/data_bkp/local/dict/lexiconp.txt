@@ -1,0 +1,6072 @@
+!SIL 1.0	SIL
+A 1.0	A
+ABAra 1.0	A B A r a
+AE 1.0	A E
+AI 1.0	A I
+AKarI 1.0	A K a r I
+AKirI 1.0	A K i r I
+AKrI 1.0	A K r I
+AMKe 1.0	A M K e
+AMXra 1.0	A M X r a
+AMXrapraxeSa 1.0	A M X r a p r a x e S a
+AMkI 1.0	A M k I
+AMxolana 1.0	A M x o l a n a
+APIsara 1.0	A P I s a r a
+APaxA 1.0	A P a x A
+ARriwo 1.0	A R r i w o
+ASA 1.0	A S A
+ASAxa 1.0	A S A x a
+ASIRa 1.0	A S I R a
+ASaMkA 1.0	A S a M k A
+ASaMkAye 1.0	A S a M k A y e
+ASavAsana 1.0	A S a v A s a n a
+AScarya 1.0	A S c a r y a
+ASrama 1.0	A S r a m a
+ATa 1.0	A T a
+AUta 1.0	A U t a
+AWavADa 1.0	A W a v A D a
+AXAra 1.0	A X A r a
+AXAriwa 1.0	A X A r i w a
+AXI 1.0	A X I
+AXe 1.0	A X e
+AXunika 1.0	A X u n i k a
+AXyAwmika 1.0	A X y A w m i k a
+AXyAya 1.0	A X y A y a
+AXyOgika 1.0	A X y O g i k a
+AbAxI 1.0	A b A x I
+Aba 1.0	A b a
+AcAryA 1.0	A c A r y A
+AcArya 1.0	A c A r y a
+AdvANI 1.0	A d v A N I
+Ae 1.0	A e
+Aez 1.0	A e z
+AgAha 1.0	A g A h a
+AgAmI 1.0	A g A m I
+Aga 1.0	A g a
+AgarA 1.0	A g a r A
+Age 1.0	A g e
+Agraha 1.0	A g r a h a
+AgvAnI 1.0	A g v A n I
+AhUwi 1.0	A h U w i
+Ahe 1.0	A h e
+AjFA 1.0	A j F A
+AjZAxa 1.0	A j Z A x a
+AjZmI 1.0	A j Z m I
+Aja 1.0	A j a
+Ajakala 1.0	A j a k a l a
+AkASa 1.0	A k A S a
+AkASvANI 1.0	A k A S v A N I
+AkAra 1.0	A k A r a
+AkarRaNa 1.0	A k a r R a N a
+AkarRiwa 1.0	A k a r R i w a
+AkramaNa 1.0	A k r a m a N a
+Ala 1.0	A l a
+Alocaka 1.0	A l o c a k a
+AlocanA 1.0	A l o c a n A
+AlocnA 1.0	A l o c n A
+Ama 1.0	A m a
+AmaxanI 1.0	A m a x a n I
+AnaMxa 1.0	A n a M x a
+Anana 1.0	A n a n a
+Ananxa 1.0	A n a n x a
+Ane 1.0	A n e
+Anxolana 1.0	A n x o l a n a
+ApUrwI 1.0	A p U r w I
+Apa 1.0	A p a
+ApakA 1.0	A p a k A
+ApakI 1.0	A p a k I
+Apake 1.0	A p a k e
+Apako 1.0	A p a k o
+Apana 1.0	A p a n a
+Apane 1.0	A p a n e
+ApareSana 1.0	A p a r e S a n a
+ApasI 1.0	A p a s I
+Apasa 1.0	A p a s a
+Apase 1.0	A p a s e
+ApawwI 1.0	A p a w w I
+ApawwyoM 1.0	A p a w w y o M
+ApsI 1.0	A p s I
+ArWIka 1.0	A r W I k a
+ArWika 1.0	A r W i k a
+Ara 1.0	A r a
+AraMBa 1.0	A r a M B a
+AraMbika 1.0	A r a M b i k a
+AramBa 1.0	A r a m B a
+Arawa 1.0	A r a w a
+ArmI 1.0	A r m I
+Aropa 1.0	A r o p a
+Aropo 1.0	A r o p o
+AropoM 1.0	A r o p o M
+Arya 1.0	A r y a
+AsAnI 1.0	A s A n I
+AsAna 1.0	A s A n a
+AsAra 1.0	A s A r a
+Asa 1.0	A s a
+Asana 1.0	A s a n a
+AsapAsa 1.0	A s a p A s a
+Ase 1.0	A s e
+AspAsa 1.0	A s p A s a
+AstreliyA 1.0	A s t r e l i y A
+AvAjZe 1.0	A v A j Z e
+AvAja 1.0	A v A j a
+AvAsIya 1.0	A v A s I y a
+AvAsa 1.0	A v A s a
+AvSakwA 1.0	A v S a k w A
+AvaSakwAoM 1.0	A v a S a k w A o M
+AvaSyaka 1.0	A v a S y a k a
+AvaSyakawA 1.0	A v a S y a k a w A
+AvaSyakwA 1.0	A v a S y a k w A
+AvarIwa 1.0	A v a r I w a
+AviRkAra 1.0	A v i R k A r a
+Avinava 1.0	A v i n a v a
+AwA 1.0	A w A
+AwI 1.0	A w I
+Awa 1.0	A w a
+AwaMka 1.0	A w a M k a
+AwaMkavAxI 1.0	A w a M k a v A x I
+AwaMkavAxIyo 1.0	A w a M k a v A x I y o
+AwaMkavAxa 1.0	A w a M k a v A x a
+AwaMkavAxiyoM 1.0	A w a M k a v A x i y o M
+AwaMkvAxI 1.0	A w a M k v A x I
+AwaMkvAxa 1.0	A w a M k v A x a
+Awe 1.0	A w e
+AwmakaWA 1.0	A w m a k a W A
+AxA 1.0	A x A
+AxamI 1.0	A x a m I
+AxarSa 1.0	A x a r S a
+Axara 1.0	A x a r a
+AxeSa 1.0	A x e S a
+Axi 1.0	A x i
+AxyOgIka 1.0	A x y O g I k a
+AyA 1.0	A y A
+AyAwa 1.0	A y A w a
+AyAxa 1.0	A y A x a
+Ayakara 1.0	A y a k a r a
+Ayasu 1.0	A y a s u
+Aye 1.0	A y e
+AyegA 1.0	A y e g A
+AyegI 1.0	A y e g I
+Ayege 1.0	A y e g e
+Ayoga 1.0	A y o g a
+AyojIwa 1.0	A y o j I w a
+Ayojana 1.0	A y o j a n a
+Ayojiwa 1.0	A y o j i w a
+Ayukwa 1.0	A y u k w a
+Ayurvexa 1.0	A y u r v e x a
+AzKa 1.0	A z K a
+AzjAra 1.0	A z j A r a
+BAI 1.0	B A I
+BARA 1.0	B A R A
+BARAeM 1.0	B A R A e M
+BARAez 1.0	B A R A e z
+BARAoM 1.0	B A R A o M
+BARAparivAra 1.0	B A R A p a r i v A r a
+BAdZe 1.0	B A d Z e
+BAe 1.0	B A e
+BAgIxArI 1.0	B A g I x A r I
+BAga 1.0	B A g a
+BAgnA 1.0	B A g n A
+BAgne 1.0	B A g n e
+BAgo 1.0	B A g o
+BAgoM 1.0	B A g o M
+BAjapA 1.0	B A j a p A
+BAjpA 1.0	B A j p A
+BAkdA 1.0	B A k d A
+BArI 1.0	B A r I
+BAra 1.0	B A r a
+BArawIya 1.0	B A r a w I y a
+BArawa 1.0	B A r a w a
+BArawavarRa 1.0	B A r a w a v a r R a
+BAraweMxu 1.0	B A r a w e M x u
+BArwI 1.0	B A r w I
+BArwIya 1.0	B A r w I y a
+BAvBInIM 1.0	B A v B I n I M
+BAva 1.0	B A v a
+BAvanA 1.0	B A v a n A
+BAvpUrvaka 1.0	B A v p U r v a k a
+BAvuka 1.0	B A v u k a
+BI 1.0	B I
+BIKA 1.0	B I K A
+BIRaNa 1.0	B I R a N a
+BIRma 1.0	B I R m a
+BIma 1.0	B I m a
+BIwarI 1.0	B I w a r I
+BIwara 1.0	B I w a r a
+BIwrI 1.0	B I w r I
+BOgolika 1.0	B O g o l i k a
+BOwika 1.0	B O w i k a
+BUgola 1.0	B U g o l a
+BUla 1.0	B U l a
+BUmI 1.0	B U m I
+BUmIkA 1.0	B U m I k A
+BUmi 1.0	B U m i
+BUmikA 1.0	B U m i k A
+BUpa 1.0	B U p a
+BUpawi 1.0	B U p a w i
+BUpwi 1.0	B U p w i
+BUtAna 1.0	B U t A n a
+BUwapUrva 1.0	B U w a p U r v a
+BaI 1.0	B a I
+BaMdAra 1.0	B a M d A r a
+BaMvara 1.0	B a M v a r a
+BaNdA 1.0	B a N d A
+BadZaka 1.0	B a d Z a k a
+BagAne 1.0	B a g A n e
+BagAye 1.0	B a g A y e
+BagavAna 1.0	B a g a v A n a
+Bagawa 1.0	B a g a w a
+Bagawi 1.0	B a g a w i
+Bahawwara 1.0	B a h a w w a r a
+Bakwa 1.0	B a k w a
+Bale 1.0	B a l e
+BarA 1.0	B a r A
+BarI 1.0	B a r I
+Bara 1.0	B a r a
+BarawIya 1.0	B a r a w I y a
+Barawa 1.0	B a r a w a
+Barawahi 1.0	B a r a w a h i
+BaraxvAja 1.0	B a r a x v A j a
+Bare 1.0	B a r e
+Barne 1.0	B a r n e
+BarosA 1.0	B a r o s A
+Barosa 1.0	B a r o s a
+BarwI 1.0	B a r w I
+BarwIya 1.0	B a r w I y a
+BatanAgara 1.0	B a t a n A g a r a
+BatnAgara 1.0	B a t n A g a r a
+BavAnI 1.0	B a v A n I
+BavAni 1.0	B a v A n i
+Bavana 1.0	B a v a n a
+BavarlAla 1.0	B a v a r l A l a
+BaviRya 1.0	B a v i R y a
+Bavya 1.0	B a v y a
+BayAnaka 1.0	B a y A n a k a
+Baya 1.0	B a y a
+BayaU 1.0	B a y a U
+Bayau 1.0	B a y a u
+BeMta 1.0	B e M t a
+BejA 1.0	B e j A
+Beja 1.0	B e j a
+BejegA 1.0	B e j e g A
+Bejne 1.0	B e j n e
+Beta 1.0	B e t a
+BexI 1.0	B e x I
+Bexa 1.0	B e x a
+Bexo 1.0	B e x o
+BhI 1.0	B h I
+Bi 1.0	B i
+BikArAma 1.0	B i k A r A m a
+BimBara 1.0	B i m B a r a
+Binna 1.0	B i n n a
+BinnawA 1.0	B i n n a w A
+BogI 1.0	B o g I
+Bojana 1.0	B o j a n a
+BopAla 1.0	B o p A l a
+Bqgu 1.0	B q g u
+Brama 1.0	B r a m a
+BukaMpa 1.0	B u k a M p a
+BupawI 1.0	B u p a w I
+Buvana 1.0	B u v a n a
+CAnbIna 1.0	C A n b I n a
+CApA 1.0	C A p A
+CApAmAro 1.0	C A p A m A r o
+CApe 1.0	C A p e
+CAwI 1.0	C A w I
+CAyAvAxI 1.0	C A y A v A x I
+CAyAvAxa 1.0	C A y A v A x a
+CAya 1.0	C A y a
+CE 1.0	C E
+CI 1.0	C I
+CIte 1.0	C I t e
+CIteM 1.0	C I t e M
+CUgayA 1.0	C U g a y A
+CUta 1.0	C U t a
+Ca 1.0	C a
+CabIsa 1.0	C a b I s a
+CabbIsa 1.0	C a b b I s a
+Cabisa 1.0	C a b i s a
+Caha 1.0	C a h a
+Cana 1.0	C a n a
+Canxa 1.0	C a n x a
+CapI 1.0	C a p I
+CawwIsa 1.0	C a w w I s a
+CawwIsagaDZa 1.0	C a w w I s a g a D Z a
+CawwIsagaDa 1.0	C a w w I s a g a D a
+Caye 1.0	C a y e
+Ce 1.0	C e
+CedZe 1.0	C e d Z e
+Cewra 1.0	C e w r a
+Cewro 1.0	C e w r o
+Che 1.0	C h e
+CidZne 1.0	C i d Z n e
+Cipa 1.0	C i p a
+CipkaliyoM 1.0	C i p k a l i y o M
+Cipne 1.0	C i p n e
+CiyAsaTa 1.0	C i y A s a T a
+CodZa 1.0	C o d Z a
+CodZakara 1.0	C o d Z a k a r a
+CodZkara 1.0	C o d Z k a r a
+Coda 1.0	C o d a
+Codakara 1.0	C o d a k a r a
+Code 1.0	C o d e
+CodnA 1.0	C o d n A
+Cora 1.0	C o r a
+CotA 1.0	C o t A
+CotI 1.0	C o t I
+Cote 1.0	C o t e
+CupAyA 1.0	C u p A y A
+Cupne 1.0	C u p n e
+DAIsO 1.0	D A I s O
+DAkA 1.0	D A k A
+DAlo 1.0	D A l o
+DIla 1.0	D I l a
+DUdZnA 1.0	D U d Z n A
+DZAkA 1.0	D Z A k A
+DZUzDZne 1.0	D Z U z D Z n e
+DalAna 1.0	D a l A n a
+E 1.0	E
+ESiyA 1.0	E S i y A
+EWihAsika 1.0	E W i h A s i k a
+EjEnta 1.0	E j E n t a
+EjaMsiyAz 1.0	E j a M s i y A z
+EjaMta 1.0	E j a M t a
+EjeMsI 1.0	E j e M s I
+EjeMsIoM 1.0	E j e M s I o M
+EkedmI 1.0	E k e d m I
+EksceMja 1.0	E k s c e M j a
+ErIyA 1.0	E r I y A
+EsA 1.0	E s A
+EsI 1.0	E s I
+EsbeswIna 1.0	E s b e s w I n a
+Ese 1.0	E s e
+EseM 1.0	E s e M
+Esosiesana 1.0	E s o s i e s a n a
+EsosiyeSana 1.0	E s o s i y e S a n a
+Eta 1.0	E t a
+EwihAsika 1.0	E w i h A s i k a
+GAtA 1.0	G A t A
+GAtI 1.0	G A t I
+GAta 1.0	G A t a
+GAte 1.0	G A t e
+GAtevAlI 1.0	G A t e v A l I
+GAwa 1.0	G A w a
+GAyala 1.0	G A y a l a
+GAyaloM 1.0	G A y a l o M
+GaDZI 1.0	G a D Z I
+GaMtaka 1.0	G a M t a k a
+GaMte 1.0	G a M t e
+GaMto 1.0	G a M t o
+GaMtoM 1.0	G a M t o M
+GadI 1.0	G a d I
+GadZI 1.0	G a d Z I
+GamAsAna 1.0	G a m A s A n a
+GamasAna 1.0	G a m a s A n a
+Gana 1.0	G a n a
+Gane 1.0	G a n e
+Gante 1.0	G a n t e
+GantoM 1.0	G a n t o M
+Gara 1.0	G a r a
+GarbAra 1.0	G a r b A r a
+GarelU 1.0	G a r e l U
+Garelu 1.0	G a r e l u
+Garo 1.0	G a r o
+GaroM 1.0	G a r o M
+GatI 1.0	G a t I
+Gatakara 1.0	G a t a k a r a
+GatanAoM 1.0	G a t a n A o M
+GatnA 1.0	G a t n A
+GatnAo 1.0	G a t n A o
+GatnAoM 1.0	G a t n A o M
+GerA 1.0	G e r A
+Geyara 1.0	G e y a r a
+GirA 1.0	G i r A
+Gire 1.0	G i r e
+GoRNA 1.0	G o R N A
+GoRa 1.0	G o R a
+GoRaNA 1.0	G o R a N A
+GoRiwa 1.0	G o R i w a
+GoSNA 1.0	G o S N A
+Gora 1.0	G o r a
+GotAle 1.0	G o t A l e
+GusapETiyoM 1.0	G u s a p E T i y o M
+Guse 1.0	G u s e
+GuspETa 1.0	G u s p E T a
+GuspETioM 1.0	G u s p E T i o M
+GuspETioyaM 1.0	G u s p E T i o y a M
+GuspETiyA 1.0	G u s p E T i y A
+GuspETiye 1.0	G u s p E T i y e
+GuspETiyeM 1.0	G u s p E T i y e M
+GuspETiyoM 1.0	G u s p E T i y o M
+GuspETyoM 1.0	G u s p E T y o M
+GuspEtiyoM 1.0	G u s p E t i y o M
+GuspeTiyoM 1.0	G u s p e T i y o M
+GyAna 1.0	G y A n a
+ISvara 1.0	I S v a r a
+IjAjawa 1.0	I j A j a w a
+IlAkoM 1.0	I l A k o M
+ImAma 1.0	I m A m a
+IrAna 1.0	I r A n a
+IsA 1.0	I s A
+IslAma 1.0	I s l A m a
+Ixa 1.0	I x a
+JAka 1.0	J A k a
+JAraKaMda 1.0	J A r a K a M d a
+JIla 1.0	J I l a
+JOYsI 1.0	J O Y s I
+JUTa 1.0	J U T a
+JadZapa 1.0	J a d Z a p a
+JaranA 1.0	J a r a n A
+Jatke 1.0	J a t k e
+Jile 1.0	J i l e
+Jilo 1.0	J i l o
+JukeMge 1.0	J u k e M g e
+KAdI 1.0	K A d I
+KAdZI 1.0	K A d Z I
+KAlI 1.0	K A l I
+KAlUbAra 1.0	K A l U b A r a
+KAle 1.0	K A l e
+KAlubAra 1.0	K A l u b A r a
+KAna 1.0	K A n a
+KAne 1.0	K A n e
+KArija 1.0	K A r i j a
+KAsa 1.0	K A s a
+KAswora 1.0	K A s w o r a
+KUna 1.0	K U n a
+KZAna 1.0	K Z A n a
+KZAsa 1.0	K Z A s a
+KaMdana 1.0	K a M d a n a
+Kabara 1.0	K a b a r a
+Kabaro 1.0	K a b a r o
+KabaroM 1.0	K a b a r o M
+Kabre 1.0	K a b r e
+KabreM 1.0	K a b r e M
+Kabro 1.0	K a b r o
+KabroM 1.0	K a b r o M
+KadA 1.0	K a d A
+KadZI 1.0	K a d Z I
+Kaga 1.0	K a g a
+Kagesa 1.0	K a g e s a
+Kagola 1.0	K a g o l a
+Kala 1.0	K a l a
+KannA 1.0	K a n n A
+Kapawa 1.0	K a p a w a
+KarAba 1.0	K a r A b a
+KarIxA 1.0	K a r I x A
+KarIxArI 1.0	K a r I x A r I
+KarIxa 1.0	K a r I x a
+KarIxe 1.0	K a r I x e
+KarIxne 1.0	K a r I x n e
+Karte 1.0	K a r t e
+Kawama 1.0	K a w a m a
+KawarA 1.0	K a w a r A
+Kaware 1.0	K a w a r e
+KawarnAka 1.0	K a w a r n A k a
+Kawma 1.0	K a w m a
+KawrI 1.0	K a w r I
+Kawre 1.0	K a w r e
+KaxeDZa 1.0	K a x e D Z a
+KaxedA 1.0	K a x e d A
+KaxedZa 1.0	K a x e d Z a
+KaxedZakara 1.0	K a x e d Z a k a r a
+KaxedZnA 1.0	K a x e d Z n A
+KaxedZne 1.0	K a x e d Z n e
+Kaxeda 1.0	K a x e d a
+Kaxedne 1.0	K a x e d n e
+KayAla 1.0	K a y A l a
+KelA 1.0	K e l A
+Kela 1.0	K e l a
+Kelane 1.0	K e l a n e
+Kele 1.0	K e l e
+KelnA 1.0	K e l n A
+Kelwe 1.0	K e l w e
+Kewa 1.0	K e w a
+KewoM 1.0	K e w o M
+KilAPZa 1.0	K i l A P Z a
+KilAPa 1.0	K i l A P a
+KilAdI 1.0	K i l A d I
+KilAdIyoM 1.0	K i l A d I y o M
+KilAdZI 1.0	K i l A d Z I
+KiwAba 1.0	K i w A b a
+Ko 1.0	K o
+KodZwe 1.0	K o d Z w e
+Koda 1.0	K o d a
+KojeM 1.0	K o j e M
+Kokara 1.0	K o k a r a
+Kola 1.0	K o l a
+Kole 1.0	K o l e
+Kolne 1.0	K o l n e
+KoreSI 1.0	K o r e S I
+Koxa 1.0	K o x a
+Koxne 1.0	K o x n e
+KuPIyA 1.0	K u P I y A
+KuPiyA 1.0	K u P i y A
+KuSI 1.0	K u S I
+KuSaBAU 1.0	K u S a B A U
+KulAsA 1.0	K u l A s A
+KulI 1.0	K u l I
+Kule 1.0	K u l e
+Kuna 1.0	K u n a
+KurAPZAwoM 1.0	K u r A P Z A w o M
+KureSI 1.0	K u r e S I
+KureSIne 1.0	K u r e S I n e
+KuresI 1.0	K u r e s I
+Kuxa 1.0	K u x a
+KvajA 1.0	K v a j A
+KyAwi 1.0	K y A w i
+ORaXI 1.0	O R a X I
+ORaXi 1.0	O R a X i
+OYPZa 1.0	O Y P Z a
+OYPa 1.0	O Y P a
+OYktobara 1.0	O Y k t o b a r a
+OYpareSana 1.0	O Y p a r e S a n a
+OYpreSana 1.0	O Y p r e S a n a
+OYra 1.0	O Y r a
+OYstraliyAi 1.0	O Y s t r a l i y A i
+OYstreliyA 1.0	O Y s t r e l i y A
+OYstreliyAi 1.0	O Y s t r e l i y A i
+Ociwya 1.0	O c i w y a
+OpacArika 1.0	O p a c A r i k a
+Ora 1.0	O r a
+Osawama 1.0	O s a w a m a
+Osaxa 1.0	O s a x a
+OstreliyA 1.0	O s t r e l i y A
+Ostreliya 1.0	O s t r e l i y a
+Oxogika 1.0	O x o g i k a
+Oxyogika 1.0	O x y o g i k a
+PAInala 1.0	P A I n a l a
+PAIva 1.0	P A I v a
+PAnado 1.0	P A n a d o
+PArUKa 1.0	P A r U K a
+PArasI 1.0	P A r a s I
+PAtakvAle 1.0	P A t a k v A l e
+PAuMdeSana 1.0	P A u M d e S a n a
+PAyariMga 1.0	P A y a r i M g a
+PAyaxA 1.0	P A y a x A
+PElA 1.0	P E l A
+PElAne 1.0	P E l A n e
+PElne 1.0	P E l n e
+PEnala 1.0	P E n a l a
+PEsalA 1.0	P E s a l A
+PEsale 1.0	P E s a l e
+PEslA 1.0	P E s l A
+PEslAM 1.0	P E s l A M
+POjI 1.0	P O j I
+POjIyoM 1.0	P O j I y o M
+POjeM 1.0	P O j e M
+POjoM 1.0	P O j o M
+PUla 1.0	P U l a
+PZArasI 1.0	P Z A r a s I
+PZEnala 1.0	P Z E n a l a
+PZOje 1.0	P Z O j e
+PZilma 1.0	P Z i l m a
+PZilmeM 1.0	P Z i l m e M
+PZilmoM 1.0	P Z i l m o M
+PZira 1.0	P Z i r a
+PZodZa 1.0	P Z o d Z a
+PZrAMsisI 1.0	P Z r A M s i s I
+PZrAzsa 1.0	P Z r A z s a
+PaMdo 1.0	P a M d o
+PaloM 1.0	P a l o M
+Parma 1.0	P a r m a
+ParnAMdIsa 1.0	P a r n A M d I s a
+ParnAMdijZa 1.0	P a r n A M d i j Z a
+ParnAMdisa 1.0	P a r n A M d i s a
+ParnAdijZa 1.0	P a r n A d i j Z a
+ParnaMdisa 1.0	P a r n a M d i s a
+PasAnekI 1.0	P a s A n e k I
+Pasala 1.0	P a s a l a
+PawehpurI 1.0	P a w e h p u r I
+Paxe 1.0	P a x e
+Payeva 1.0	P a y e v a
+Payva 1.0	P a y v a
+Pazsa 1.0	P a z s a
+Pera 1.0	P e r a
+Pidela 1.0	P i d e l a
+PijI 1.0	P i j I
+PilhAla 1.0	P i l h A l a
+PilipInsa 1.0	P i l i p I n s a
+Pilma 1.0	P i l m a
+PilmoM 1.0	P i l m o M
+Pira 1.0	P i r a
+PirahiM 1.0	P i r a h i M
+PlEta 1.0	P l E t a
+Pleta 1.0	P l e t a
+Pona 1.0	P o n a
+Pora 1.0	P o r a
+Porma 1.0	P o r m a
+Poto 1.0	P o t o
+PrAMsa 1.0	P r A M s a
+PreMka 1.0	P r e M k a
+Puta 1.0	P u t a
+PutabOYla 1.0	P u t a b O Y l a
+PutbAla 1.0	P u t b A l a
+Putbola 1.0	P u t b o l a
+SAKA 1.0	S A K A
+SAKAoM 1.0	S A K A o M
+SAMnwI 1.0	S A M n w I
+SAMwI 1.0	S A M w I
+SAMwa 1.0	S A M w a
+SAMwi 1.0	S A M w i
+SAMwipUrNa 1.0	S A M w i p U r N a
+SAbxika 1.0	S A b x i k a
+SAhA 1.0	S A h A
+SAhI 1.0	S A h I
+SAha 1.0	S A h a
+SAlimAra 1.0	S A l i m A r a
+SAmA 1.0	S A m A
+SAma 1.0	S A m a
+SAmila 1.0	S A m i l a
+SAnwi 1.0	S A n w i
+SAnxAra 1.0	S A n x A r a
+SAsaka 1.0	S A s a k a
+SAsana 1.0	S A s a n a
+SAsanakAla 1.0	S A s a n a k A l a
+SAswra 1.0	S A s w r a
+SAyara 1.0	S A y a r a
+SAyaxa 1.0	S A y a x a
+SElI 1.0	S E l I
+SEva 1.0	S E v a
+SIGra 1.0	S I G r a
+SIL 1.0	SIL
+SIlA 1.0	S I l A
+SIla 1.0	S I l a
+SIrRaka 1.0	S I r R a k a
+SIwa 1.0	S I w a
+SOrya 1.0	S O r y a
+SUnya 1.0	S U n y a
+SUra 1.0	S U r a
+SaIxa 1.0	S a I x a
+SaMkara 1.0	S a M k a r a
+SaMkarxipa 1.0	S a M k a r x i p a
+SabAnA 1.0	S a b A n A
+Sabxa 1.0	S a b x a
+SabxakoSa 1.0	S a b x a k o S a
+Sabxo 1.0	S a b x o
+SabxoM 1.0	S a b x o M
+SahAxawa 1.0	S a h A x a w a
+SahIxa 1.0	S a h I x a
+SahIxo 1.0	S a h I x o
+SahIxoM 1.0	S a h I x o M
+Saha 1.0	S a h a
+SaharI 1.0	S a h a r I
+Sahara 1.0	S a h a r a
+SahrI 1.0	S a h r I
+Saka 1.0	S a k a
+SakwI 1.0	S a k w I
+Sakwi 1.0	S a k w i
+SakwiSAlI 1.0	S a k w i S A l I
+SakwivAle 1.0	S a k w i v A l e
+SamawA 1.0	S a m a w A
+SanivAra 1.0	S a n i v A r a
+SapaWa 1.0	S a p a W a
+SarIPZa 1.0	S a r I P Z a
+SarIPa 1.0	S a r I P a
+SarIra 1.0	S a r I r a
+SarNArWiyoM 1.0	S a r N A r W i y o M
+SaraNa 1.0	S a r a N a
+Saraxa 1.0	S a r a x a
+SariPa 1.0	S a r i P a
+SarmA 1.0	S a r m A
+Sarwa 1.0	S a r w a
+Sarwo 1.0	S a r w o
+Sava 1.0	S a v a
+Savo 1.0	S a v o
+SavoM 1.0	S a v o M
+SawAbxI 1.0	S a w A b x I
+Sawa 1.0	S a w a
+Sawaka 1.0	S a w a k a
+SawrUwApUrNa 1.0	S a w r U w A p U r N a
+Sawru 1.0	S a w r u
+SeKa 1.0	S e K a
+SeRa 1.0	S e R a
+Sena 1.0	S e n a
+Sewra 1.0	S e w r a
+Seyara 1.0	S e y a r a
+SiKara 1.0	S i K a r a
+SiMGala 1.0	S i M G a l a
+SiRTa 1.0	S i R T a
+Sibira 1.0	S i b i r a
+SibiroM 1.0	S i b i r o M
+SikArI 1.0	S i k A r I
+SikArIyo 1.0	S i k A r I y o
+SikAyawa 1.0	S i k A y a w a
+SikRA 1.0	S i k R A
+SikRaNa 1.0	S i k R a N a
+SimlA 1.0	S i m l A
+SiromaNI 1.0	S i r o m a N I
+SivAjI 1.0	S i v A j I
+SivIra 1.0	S i v I r a
+Sivira 1.0	S i v i r a
+SoBA 1.0	S o B A
+SoXaka 1.0	S o X a k a
+SoXana 1.0	S o X a n a
+Sodara 1.0	S o d a r a
+Soheba 1.0	S o h e b a
+Soka 1.0	S o k a
+SqMgAra 1.0	S q M g A r a
+SrI 1.0	S r I
+SrISAva 1.0	S r I S A v a
+SrIkqRNa 1.0	S r I k q R N a
+SrIlaMkA 1.0	S r I l a M k A
+SrImawI 1.0	S r I m a w I
+SrImawi 1.0	S r I m a w i
+SrInagara 1.0	S r I n a g a r a
+SrIrAma 1.0	S r I r A m a
+SrU 1.0	S r U
+SraXAMjalI 1.0	S r a X A M j a l I
+SraXAnjali 1.0	S r a X A n j a l i
+SraXXAMjalI 1.0	S r a X X A M j a l I
+Srama 1.0	S r a m a
+Srava 1.0	S r a v a
+SraxXAFjalI 1.0	S r a x X A F j a l I
+SraxXAMjalI 1.0	S r a x X A M j a l I
+SreNI 1.0	S r e N I
+SreNiyAz 1.0	S r e N i y A z
+SreRTa 1.0	S r e R T a
+SrimAna 1.0	S r i m A n a
+SrimawI 1.0	S r i m a w I
+SrqMgAra 1.0	S r q M g A r a
+SuBa 1.0	S u B a
+SuBarAma 1.0	S u B a r A m a
+Sukla 1.0	S u k l a
+SukravAra 1.0	S u k r a v A r a
+SukriyA 1.0	S u k r i y A
+SukvAra 1.0	S u k v A r a
+Sulka 1.0	S u l k a
+Sunya 1.0	S u n y a
+SurU 1.0	S u r U
+SurUAwa 1.0	S u r U A w a
+SurUvAwa 1.0	S u r U v A w a
+Suru 1.0	S u r u
+SuruAwa 1.0	S u r u A w a
+SuxXa 1.0	S u x X a
+SyAmA 1.0	S y A m A
+SyAma 1.0	S y A m a
+TAkUra 1.0	T A k U r a
+TAkare 1.0	T A k a r e
+TAkre 1.0	T A k r e
+TAkura 1.0	T A k u r a
+TAru 1.0	T A r u
+TIka 1.0	T I k a
+TaharAyA 1.0	T a h a r A y A
+TahrAya 1.0	T a h r A y a
+TahrayA 1.0	T a h r a y A
+TarAyA 1.0	T a r A y A
+TikANoM 1.0	T i k A N o M
+TikAne 1.0	T i k A n e
+TikAno 1.0	T i k A n o
+TikAnoM 1.0	T i k A n o M
+TikanoM 1.0	T i k a n o M
+Tone 1.0	T o n e
+Tosa 1.0	T o s a
+UparI 1.0	U p a r I
+Upara 1.0	U p a r a
+UrjA 1.0	U r j A
+WA 1.0	W A
+WAbo 1.0	W A b o
+WAma 1.0	W A m a
+WAnA 1.0	W A n A
+WAne 1.0	W A n e
+WAru 1.0	W A r u
+WI 1.0	W I
+WIM 1.0	W I M
+Wala 1.0	W a l a
+Walaga 1.0	W a l a g a
+Waru 1.0	W a r u
+We	 1.0	W e
+We 1.0	W e
+WodI 1.0	W o d I
+WodZI 1.0	W o d Z I
+WodZe 1.0	W o d Z e
+WopA 1.0	W o p A
+XAMcAgawa 1.0	X A M c A g a w a
+XAMxalI 1.0	X A M x a l I
+XAMxlI 1.0	X A M x l I
+XAma 1.0	X A m a
+XAna 1.0	X A n a
+XArAvAhika 1.0	X A r A v A h i k a
+XAra 1.0	X A r a
+XAraNA 1.0	X A r a N A
+XArmika 1.0	X A r m i k a
+XAve 1.0	X A v e
+XAwu 1.0	X A w u
+XE 1.0	X E
+XI 1.0	X I
+XImI 1.0	X I m I
+XIna 1.0	X I n a
+XIre 1.0	X I r e
+XUma 1.0	X U m a
+XakkA 1.0	X a k k A
+XamAsAna 1.0	X a m A s A n a
+XamkI 1.0	X a m k I
+XamkiyoM 1.0	X a m k i y o M
+XanI 1.0	X a n I
+Xana 1.0	X a n a
+XanyavAxa 1.0	X a n y a v A x a
+Xara 1.0	X a r a
+XaramAnye 1.0	X a r a m A n y e
+Xari 1.0	X a r i
+Xarma 1.0	X a r m a
+XarmagranWa 1.0	X a r m a g r a n W a
+Xarohara 1.0	X a r o h a r a
+XarwI 1.0	X a r w I
+XoKA 1.0	X o K A
+Xone 1.0	X o n e
+XqwarARtra 1.0	X q w a r A R t r a
+Xrama 1.0	X r a m a
+Xubri 1.0	X u b r i
+XvanImawa 1.0	X v a n I m a w a
+XyAnI 1.0	X y A n I
+XyAna 1.0	X y A n a
+aBI 1.0	a B I
+aBimAna 1.0	a B i m A n a
+aBinaya 1.0	a B i n a y a
+aBinewA 1.0	a B i n e w A
+aBinewrI 1.0	a B i n e w r I
+aBiyAMwrikI 1.0	a B i y A M w r i k I
+aBiyAna 1.0	a B i y A n a
+aBjAI 1.0	a B j A I
+aByAna 1.0	a B y A n a
+aByAsa 1.0	a B y A s a
+aDawAlIsa 1.0	a D a w A l I s a
+aGoRIwa 1.0	a G o R I w a
+aKaMdawA 1.0	a K a M d a w A
+aKbAra 1.0	a K b A r a
+aKbAro 1.0	a K b A r o
+aKila 1.0	a K i l a
+aMSa 1.0	a M S a
+aMSaxAna 1.0	a M S a x A n a
+aMSxAna 1.0	a M S x A n a
+aMXAXuMxa 1.0	a M X A X u M x a
+aMcala 1.0	a M c a l a
+aMde 1.0	a M d e
+aMgaxa 1.0	a M g a x a
+aMgrejI 1.0	a M g r e j I
+aMgrejZI 1.0	a M g r e j Z I
+aMgreja 1.0	a M g r e j a
+aMka 1.0	a M k a
+aMkiwa 1.0	a M k i w a
+aMko 1.0	a M k o
+aMkoM 1.0	a M k o M
+aMkuSa 1.0	a M k u S a
+aMwIma 1.0	a M w I m a
+aMwa 1.0	a M w a
+aMwame 1.0	a M w a m e
+aMwarARtrI 1.0	a M w a r A R t r I
+aMwarARtrIya 1.0	a M w a r A R t r I y a
+aMwarARtrIyakaraNa 1.0	a M w a r A R t r I y a k a r a N a
+aMwara 1.0	a M w a r a
+aMwararARtrIya 1.0	a M w a r a r A R t r I y a
+aMwargawa 1.0	a M w a r g a w a
+aMwarikRa 1.0	a M w a r i k R a
+aMwarika 1.0	a M w a r i k a
+aMwarima 1.0	a M w a r i m a
+aMwarrARtrI 1.0	a M w a r r A R t r I
+aMwarrARtrIya 1.0	a M w a r r A R t r I y a
+aMwima 1.0	a M w i m a
+aMwiyaRTI 1.0	a M w i y a R T I
+aMwyeRtI 1.0	a M w y e R t I
+aMxamAna 1.0	a M x a m A n a
+aMxarUnI 1.0	a M x a r U n I
+aMxara 1.0	a M x a r a
+aPZrIkA 1.0	a P Z r I k A
+aPa 1.0	a P a
+aParaNa 1.0	a P a r a N a
+aPgAna 1.0	a P g A n a
+aPgAniswAna 1.0	a P g A n i s w A n a
+aPrA 1.0	a P r A
+aPrIkA 1.0	a P r I k A
+aPrIkI 1.0	a P r I k I
+aPrikA 1.0	a P r i k A
+aPsara 1.0	a P s a r a
+aPsosa 1.0	a P s o s a
+aSIra 1.0	a S I r a
+aSoka 1.0	a S o k a
+aSva 1.0	a S v a
+aTAIsa 1.0	a T A I s a
+aTAMnavevI 1.0	a T A M n a v e v I
+aTAnve 1.0	a T A n v e
+aTTAnavI 1.0	a T T A n a v I
+aTTAnvIM 1.0	a T T A n v I M
+aTTAnve 1.0	a T T A n v e
+aTTAraha 1.0	a T T A r a h a
+aTa 1.0	a T a
+aWavA 1.0	a W a v A
+aWvAdZa 1.0	a W v A d Z a
+aXAra 1.0	a X A r a
+aXIkArI 1.0	a X I k A r I
+aXIkArIyoM 1.0	a X I k A r I y o M
+aXIkAro 1.0	a X I k A r o
+aXIka 1.0	a X I k a
+aXIkaraNa 1.0	a X I k a r a N a
+aXIna 1.0	a X I n a
+aXIveSana 1.0	a X I v e S a n a
+aXa 1.0	a X a
+aXama 1.0	a X a m a
+aXikAM 1.0	a X i k A M
+aXikAMSa 1.0	a X i k A M S a
+aXikArI 1.0	a X i k A r I
+aXikArIyo 1.0	a X i k A r I y o
+aXikArIyoM 1.0	a X i k A r I y o M
+aXikAra 1.0	a X i k A r a
+aXikAriyoM 1.0	a X i k A r i y o M
+aXikAroM 1.0	a X i k A r o M
+aXikAryo 1.0	a X i k A r y o
+aXika 1.0	a X i k a
+aXikariyoM 1.0	a X i k a r i y o M
+aXikawA 1.0	a X i k a w A
+aXikawara 1.0	a X i k a w a r a
+aXikwama 1.0	a X i k w a m a
+aXiniyama 1.0	a X i n i y a m a
+aXiveSana 1.0	a X i v e S a n a
+aXiyAna 1.0	a X i y A n a
+aXkArIyoM 1.0	a X k A r I y o M
+aXkAriyoM 1.0	a X k A r i y o M
+aXruSya 1.0	a X r u S y a
+aXyApaka 1.0	a X y A p a k a
+aXyApana 1.0	a X y A p a n a
+aXyArWI 1.0	a X y A r W I
+aXyAya 1.0	a X y A y a
+aXyakRa 1.0	a X y a k R a
+aXyakRawA 1.0	a X y a k R a w A
+aXyakRoM 1.0	a X y a k R o M
+aXyakRwA 1.0	a X y a k R w A
+aXyaka 1.0	a X y a k a
+aXykRa 1.0	a X y k R a
+aba 1.0	a b a
+abbAsa 1.0	a b b A s a
+abiyukwa 1.0	a b i y u k w a
+abxullA 1.0	a b x u l l A
+abyAna 1.0	a b y A n a
+acAnaka 1.0	a c A n a k a
+acCA 1.0	a c C A
+acCI 1.0	a c C I
+acCe 1.0	a c C e
+acUka 1.0	a c U k a
+adA 1.0	a d A
+adZe 1.0	a d Z e
+adde 1.0	a d d e
+addoM 1.0	a d d o M
+advANI 1.0	a d v A N I
+advAnI 1.0	a d v A n I
+adwAlIsa 1.0	a d w A l I s a
+agAmI 1.0	a g A m I
+agalA 1.0	a g a l A
+agale 1.0	a g a l e
+agara 1.0	a g a r a
+agasta 1.0	a g a s t a
+agaswa 1.0	a g a s w a
+agavAha 1.0	a g a v A h a
+aglI 1.0	a g l I
+agle 1.0	a g l e
+agni 1.0	a g n i
+agraNI 1.0	a g r a N I
+agravAla 1.0	a g r a v A l a
+ahUjA 1.0	a h U j A
+ahama 1.0	a h a m a
+ahamaxa 1.0	a h a m a x a
+ahujA 1.0	a h u j A
+ajIjZa 1.0	a j I j Z a
+ajIja 1.0	a j I j a
+ajIwa 1.0	a j I w a
+ajZIjZa 1.0	a j Z I j Z a
+ajahara 1.0	a j a h a r a
+ajahuz 1.0	a j a h u z
+ajaya 1.0	a j a y a
+ajmera 1.0	a j m e r a
+akAlIxala 1.0	a k A l I x a l a
+akAxamI 1.0	a k A x a m I
+akRaroM 1.0	a k R a r o M
+akarmena 1.0	a k a r m e n a
+akelA 1.0	a k e l A
+akrama 1.0	a k r a m a
+aksara 1.0	a k s a r a
+aktUbara 1.0	a k t U b a r a
+akwara 1.0	a k w a r a
+alAvA 1.0	a l A v A
+alI 1.0	a l I
+alaMkAra 1.0	a l a M k A r a
+alaMkAroM 1.0	a l a M k A r o M
+alaga 1.0	a l a g a
+albenIyA 1.0	a l b e n I y A
+albrAita 1.0	a l b r A i t a
+alpa 1.0	a l p a
+alpsaMKyaka 1.0	a l p s a M K y a k a
+alwA 1.0	a l w A
+amAnaSika 1.0	a m A n a S i k a
+amAnanIya 1.0	a m A n a n I y a
+amAnavIya 1.0	a m A n a v I y a
+amAnuSika 1.0	a m A n u S i k a
+amAnvIya 1.0	a m A n v I y a
+amAnviya 1.0	a m A n v i y a
+amAnwIya 1.0	a m A n w I y a
+amIwABa 1.0	a m I w A B a
+amIwa 1.0	a m I w a
+amala 1.0	a m a l a
+amarIkA 1.0	a m a r I k A
+amarIkI 1.0	a m a r I k I
+amara 1.0	a m a r a
+ambAlA 1.0	a m b A l A
+amerIkA 1.0	a m e r I k A
+amerIkI 1.0	a m e r I k I
+amerikA 1.0	a m e r i k A
+amerikI 1.0	a m e r i k I
+amerikana 1.0	a m e r i k a n a
+amiwABa 1.0	a m i w A B a
+amiwa 1.0	a m i w a
+amrIkA 1.0	a m r I k A
+amrIkI 1.0	a m r I k I
+amrikA 1.0	a m r i k A
+amrikI 1.0	a m r i k I
+amriwsara 1.0	a m r i w s a r a
+anAja 1.0	a n A j a
+anAma 1.0	a n A m a
+anTAnve 1.0	a n T A n v e
+anUTA 1.0	a n U T A
+aneka 1.0	a n e k a
+annA 1.0	a n n A
+anroXa 1.0	a n r o X a
+ansAra 1.0	a n s A r a
+anu 1.0	a n u
+anuBUwi 1.0	a n u B U w i
+anuBava 1.0	a n u B a v a
+anuSAsanAwmaka 1.0	a n u S A s a n A w m a k a
+anugraha 1.0	a n u g r a h a
+anumAna 1.0	a n u m A n a
+anumawi 1.0	a n u m a w i
+anunAxa 1.0	a n u n A x a
+anurUpa 1.0	a n u r U p a
+anuroXa 1.0	a n u r o X a
+anurupa 1.0	a n u r u p a
+anusAra 1.0	a n u s A r a
+anusUryA 1.0	a n u s U r y A
+anusaMXAna 1.0	a n u s a M X A n a
+anusuryA 1.0	a n u s u r y A
+anuvAxa 1.0	a n u v A x a
+anvara 1.0	a n v a r a
+anwa 1.0	a n w a
+anwara 1.0	a n w a r a
+anwargawa 1.0	a n w a r g a w a
+anwarrARtrIya 1.0	a n w a r r A R t r I y a
+anwarraRtrIya 1.0	a n w a r r a R t r I y a
+anwima 1.0	a n w i m a
+anwyeRti 1.0	a n w y e R t i
+anxamAna 1.0	a n x a m A n a
+anxara 1.0	a n x a r a
+anxeSA 1.0	a n x e S A
+anya 1.0	a n y a
+anyaWA 1.0	a n y a W A
+apIla 1.0	a p I l a
+apaharaNa 1.0	a p a h a r a N a
+apanA 1.0	a p a n A
+apanAyA 1.0	a p a n A y A
+apanI 1.0	a p a n I
+apane 1.0	a p a n e
+apareSana 1.0	a p a r e S a n a
+apekRA 1.0	a p e k R A
+apila 1.0	a p i l a
+apnA 1.0	a p n A
+apnAI 1.0	a p n A I
+apnAyA 1.0	a p n A y A
+apnAyeMge 1.0	a p n A y e M g e
+apnI 1.0	a p n I
+apne 1.0	a p n e
+apolo 1.0	a p o l o
+aprAXiyoM 1.0	a p r A X i y o M
+aprEla 1.0	a p r E l a
+arWAw 1.0	a r W A w
+arWAwa 1.0	a r W A w a
+arWa 1.0	a r W a
+arWaSAswra 1.0	a r W a S A s w r a
+arabI 1.0	a r a b I
+araba 1.0	a r a b a
+arabu 1.0	a r a b u
+aravinxan 1.0	a r a v i n x a n
+arbana 1.0	a r b a n a
+are 1.0	a r e
+ariGaMtaka 1.0	a r i G a M t a k a
+arjZI 1.0	a r j Z I
+arjunA 1.0	a r j u n A
+arjuna 1.0	a r j u n a
+arjunrAma 1.0	a r j u n r A m a
+arosI 1.0	a r o s I
+arpiwa 1.0	a r p i w a
+aru 1.0	a r u
+aruNAcala 1.0	a r u N A c a l a
+aruNa 1.0	a r u N a
+asAXAraNa 1.0	a s A X A r a N a
+asAma 1.0	a s A m a
+asAmayika 1.0	a s A m a y i k a
+asIsa 1.0	a s I s a
+asWirwA 1.0	a s W i r w A
+asa 1.0	a s a
+asaBya 1.0	a s a B y a
+asahamE 1.0	a s a h a m E
+asala 1.0	a s a l a
+asama 1.0	a s a m a
+asapwAla 1.0	a s a p w A l a
+asara 1.0	a s a r a
+asi 1.0	a s i
+aso 1.0	a s o
+asosieSana 1.0	a s o s i e S a n a
+aspawAlo 1.0	a s p a w A l o
+assI 1.0	a s s I
+aswa 1.0	a s w a
+aswiwva 1.0	a s w i w v a
+aswro 1.0	a s w r o
+aswroM 1.0	a s w r o M
+atTAisa 1.0	a t T A i s a
+atTAra 1.0	a t T A r a
+atTawwara 1.0	a t T a w w a r a
+atala 1.0	a t a l a
+atarmena 1.0	a t a r m e n a
+atato 1.0	a t a t o
+avAjZa 1.0	a v A j Z a
+avAsa 1.0	a v A s a
+avaSya 1.0	a v a S y a
+avaSyaka 1.0	a v a S y a k a
+avaXI 1.0	a v a X I
+avaXa 1.0	a v a X a
+avaguna 1.0	a v a g u n a
+avasWA 1.0	a v a s W A
+avasara 1.0	a v a s a r a
+avawaraNa 1.0	a v a w a r a N a
+avgawa 1.0	a v g a w a
+avinIwi 1.0	a v i n I w i
+avsara 1.0	a v s a r a
+avwAja 1.0	a v w A j a
+awI 1.0	a w I
+awIrikwa 1.0	a w I r i k w a
+awa 1.0	a w a
+awaH 1.0	a w a H
+awi 1.0	a w i
+awigrahaNa 1.0	a w i g r a h a N a
+awikramaNa 1.0	a w i k r a m a N a
+awirikwa 1.0	a w i r i k w a
+awri 1.0	a w r i
+awula 1.0	a w u l a
+awyaMwa 1.0	a w y a M w a
+awyanwa 1.0	a w y a n w a
+axA 1.0	a x A
+axAlawa 1.0	a x A l a w a
+axviwIya 1.0	a x v i w I y a
+ayara 1.0	a y a r a
+ayoXyA 1.0	a y o X y A
+bADZa 1.0	b A D Z a
+bADa 1.0	b A D a
+bAMglA 1.0	b A M g l A
+bAMglAxeSa 1.0	b A M g l A x e S a
+bAMglaxeSa 1.0	b A M g l a x e S a
+bAbA 1.0	b A b A
+bAbU 1.0	b A b U
+bAga 1.0	b A g a
+bAgmawI 1.0	b A g m a w I
+bAhAxurI 1.0	b A h A x u r I
+bAharI 1.0	b A h a r I
+bAhara 1.0	b A h a r a
+bAhaxura 1.0	b A h a x u r a
+bAjAra 1.0	b A j A r a
+bAjI 1.0	b A j I
+bAjZAra 1.0	b A j Z A r a
+bAjZoM 1.0	b A j Z o M
+bAja 1.0	b A j a
+bAkAyaxA 1.0	b A k A y a x A
+bAkI 1.0	b A k I
+bAlAna 1.0	b A l A n a
+bAlIya 1.0	b A l I y a
+bAla 1.0	b A l a
+bAlaka 1.0	b A l a k a
+bAli 1.0	b A l i
+bAltika 1.0	b A l t i k a
+bAnI 1.0	b A n I
+bAna 1.0	b A n a
+bAnglAxeSa 1.0	b A n g l A x e S a
+bArA 1.0	b A r A
+bArAwa 1.0	b A r A w a
+bArI 1.0	b A r I
+bArUxI 1.0	b A r U x I
+bAra 1.0	b A r a
+bAraha 1.0	b A r a h a
+bAre 1.0	b A r e
+bAriRa 1.0	b A r i R a
+bAruxa 1.0	b A r u x a
+bAsata 1.0	b A s a t a
+bAsu 1.0	b A s u
+bAvajUxa 1.0	b A v a j U x a
+bAvajuxa 1.0	b A v a j u x a
+bAvana 1.0	b A v a n a
+bAwa 1.0	b A w a
+bAwcIwa 1.0	b A w c I w a
+bAwciwa 1.0	b A w c i w a
+bAwe 1.0	b A w e
+bAwoM 1.0	b A w o M
+bAxa 1.0	b A x a
+bAxaSAha 1.0	b A x a S A h a
+bAxala 1.0	b A x a l a
+bAxalo 1.0	b A x a l o
+bEMglora 1.0	b E M g l o r a
+bEMka 1.0	b E M k a
+bEMko 1.0	b E M k o
+bETA 1.0	b E T A
+bETa 1.0	b E T a
+bETaka 1.0	b E T a k a
+bETe 1.0	b E T e
+bEca 1.0	b E c a
+bEla 1.0	b E l a
+bErAja 1.0	b E r A j a
+bEreka 1.0	b E r e k a
+bI 1.0	b I
+bIca 1.0	b I c a
+bIja 1.0	b I j a
+bIkAnera 1.0	b I k A n e r a
+bImAra 1.0	b I m A r a
+bIsa 1.0	b I s a
+bIsavIM 1.0	b I s a v I M
+bOCAreM 1.0	b O C A r e M
+bOKlAva 1.0	b O K l A v a
+bOxXa 1.0	b O x X a
+baDA 1.0	b a D A
+baDAne 1.0	b a D A n e
+baDAvA 1.0	b a D A v A
+baDI 1.0	b a D I
+baDZA 1.0	b a D Z A
+baDZAI 1.0	b a D Z A I
+baDZAvA 1.0	b a D Z A v A
+baDZAyA 1.0	b a D Z A y A
+baDZI 1.0	b a D Z I
+baDZa 1.0	b a D Z a
+baDZane 1.0	b a D Z a n e
+baDZe 1.0	b a D Z e
+baDZne 1.0	b a D Z n e
+baDZowrI 1.0	b a D Z o w r I
+baDZwA 1.0	b a D Z w A
+baDa 1.0	b a D a
+baDagayA 1.0	b a D a g a y A
+baDe 1.0	b a D e
+baDegI 1.0	b a D e g I
+baDkara 1.0	b a D k a r a
+baDowrI 1.0	b a D o w r I
+baDwI 1.0	b a D w I
+baKwIyAra 1.0	b a K w I y A r a
+baMXa 1.0	b a M X a
+baMXana 1.0	b a M X a n a
+baMXu 1.0	b a M X u
+baMbArI 1.0	b a M b A r I
+baMgAlYeSa 1.0	b a M g A l Y e S a
+baMgAla 1.0	b a M g A l a
+baMgale 1.0	b a M g a l e
+baMglAxeSa 1.0	b a M g l A x e S a
+baMsIlAla 1.0	b a M s I l A l a
+baMvArI 1.0	b a M v A r I
+baMxa 1.0	b a M x a
+baMxargAha 1.0	b a M x a r g A h a
+baMxauz 1.0	b a M x a u z
+baXAI 1.0	b a X A I
+baXAya 1.0	b a X A y a
+bacAnA 1.0	b a c A n A
+bacAne 1.0	b a c A n e
+bacAyA 1.0	b a c A y A
+bacAya 1.0	b a c A y a
+bacI 1.0	b a c I
+baca 1.0	b a c a
+bacana 1.0	b a c a n a
+bacapana 1.0	b a c a p a n a
+baccana 1.0	b a c c a n a
+bacce 1.0	b a c c e
+baccoM 1.0	b a c c o M
+badA 1.0	b a d A
+badI 1.0	b a d I
+badZA 1.0	b a d Z A
+badZI 1.0	b a d Z I
+badZa 1.0	b a d Z a
+badZe 1.0	b a d Z e
+badZkara 1.0	b a d Z k a r a
+bafI 1.0	b a f I
+bagAvawa 1.0	b a g A v a w a
+bagera 1.0	b a g e r a
+bahA 1.0	b a h A
+bahAla 1.0	b a h A l a
+bahAxurI 1.0	b a h A x u r I
+bahAxura 1.0	b a h A x u r a
+bahUwa 1.0	b a h U w a
+baha 1.0	b a h a
+bahakAve 1.0	b a h a k A v e
+bahanjI 1.0	b a h a n j I
+bahawa 1.0	b a h a w a
+bahawwara 1.0	b a h a w w a r a
+bahaxa 1.0	b a h a x a
+bahu 1.0	b a h u
+bahujana 1.0	b a h u j a n a
+bahumawa 1.0	b a h u m a w a
+bahuwa 1.0	b a h u w a
+bajAgo 1.0	b a j A g o
+bajAra 1.0	b a j A r a
+bajAya 1.0	b a j A y a
+bajaraMga 1.0	b a j a r a M g a
+baje 1.0	b a j e
+bajjara 1.0	b a j j a r a
+bakAyA 1.0	b a k A y A
+balIxAna 1.0	b a l I x A n a
+bala 1.0	b a l a
+balebAjZa 1.0	b a l e b A j Z a
+bali 1.0	b a l i
+balixAna 1.0	b a l i x A n a
+balki 1.0	b a l k i
+balle 1.0	b a l l e
+ballebAjI 1.0	b a l l e b A j I
+ballebAja 1.0	b a l l e b A j a
+ballebajoM 1.0	b a l l e b a j o M
+bamba 1.0	b a m b a
+banA 1.0	b a n A
+banAI 1.0	b a n A I
+banAe 1.0	b a n A e
+banAkara 1.0	b a n A k a r a
+banAlA 1.0	b a n A l A
+banAnA 1.0	b a n A n A
+banAne 1.0	b a n A n e
+banArasa 1.0	b a n A r a s a
+banAvA 1.0	b a n A v A
+banAwA 1.0	b a n A w A
+banAwe 1.0	b a n A w e
+banAyA 1.0	b a n A y A
+banAyI 1.0	b a n A y I
+banAye 1.0	b a n A y e
+banAyegA 1.0	b a n A y e g A
+banAyegI 1.0	b a n A y e g I
+banI 1.0	b a n I
+bana 1.0	b a n a
+banane 1.0	b a n a n e
+banawA 1.0	b a n a w A
+bane 1.0	b a n e
+bansI 1.0	b a n s I
+banvArIlAla 1.0	b a n v A r I l A l a
+banwA 1.0	b a n w A
+banwI 1.0	b a n w I
+banwe 1.0	b a n w e
+banxa 1.0	b a n x a
+barAbarI 1.0	b a r A b a r I
+barAbara 1.0	b a r A b a r a
+barAbrI 1.0	b a r A b r I
+barAmata 1.0	b a r A m a t a
+barAmawa 1.0	b a r A m a w a
+barAmaxa 1.0	b a r A m a x a
+barI 1.0	b a r I
+barKAswa 1.0	b a r K A s w a
+barPIle 1.0	b a r P I l e
+barPZIlI 1.0	b a r P Z I l I
+barPa 1.0	b a r P a
+bara 1.0	b a r a
+barabAxa 1.0	b a r a b A x a
+baranI 1.0	b a r a n I
+barani 1.0	b a r a n i
+barawne 1.0	b a r a w n e
+barbara 1.0	b a r b a r a
+barbarwApurNa 1.0	b a r b a r w A p u r N a
+barbarwa 1.0	b a r b a r w a
+barbarwapUrNa 1.0	b a r b a r w a p U r N a
+barbatApUrNa 1.0	b a r b a t A p U r N a
+barbawApUrNa 1.0	b a r b a w A p U r N a
+barlina 1.0	b a r l i n a
+barsA 1.0	b a r s A
+barsAya 1.0	b a r s A y a
+barsAyegA 1.0	b a r s A y e g A
+barwAva 1.0	b a r w A v a
+barxASwa 1.0	b a r x A S w a
+basA 1.0	b a s A
+basI 1.0	b a s I
+basIra 1.0	b a s I r a
+basa 1.0	b a s a
+basahu 1.0	b a s a h u
+basai 1.0	b a s a i
+base 1.0	b a s e
+baseM 1.0	b a s e M
+baso 1.0	b a s o
+basoM 1.0	b a s o M
+basu 1.0	b a s u
+basvAnA 1.0	b a s v A n A
+baswI 1.0	b a s w I
+baswara 1.0	b a s w a r a
+batAlIka 1.0	b a t A l I k a
+batAlika 1.0	b a t A l i k a
+batAliko 1.0	b a t A l i k o
+batAliyana 1.0	b a t A l i y a n a
+batAyeM 1.0	b a t A y e M
+batalika 1.0	b a t a l i k a
+batana 1.0	b a t a n a
+bawA 1.0	b a w A
+bawAe 1.0	b a w A e
+bawAnA 1.0	b a w A n A
+bawAne 1.0	b a w A n e
+bawAwe 1.0	b a w A w e
+bawAyA 1.0	b a w A y A
+bawAye 1.0	b a w A y e
+bawrA 1.0	b a w r A
+bawwisa 1.0	b a w w i s a
+baxXa 1.0	b a x X a
+baxalAva 1.0	b a x a l A v a
+baxala 1.0	b a x a l a
+baxalakara 1.0	b a x a l a k a r a
+baxale 1.0	b a x a l e
+baxlA 1.0	b a x l A
+bayAlisa 1.0	b a y A l i s a
+bayAna 1.0	b a y A n a
+bayAnoM 1.0	b a y A n o M
+bayo 1.0	b a y o
+beasara 1.0	b e a s a r a
+bebuniyAxa 1.0	b e b u n i y A x a
+behakAve 1.0	b e h a k A v e
+behawara 1.0	b e h a w a r a
+behaxa 1.0	b e h a x a
+benakAba 1.0	b e n a k A b a
+benara 1.0	b e n a r a
+besa 1.0	b e s a
+beta 1.0	b e t a
+bete 1.0	b e t e
+bi 1.0	b i
+biBIRana 1.0	b i B I R a n a
+biCAI 1.0	b i C A I
+biKrI 1.0	b i K r I
+biRaya 1.0	b i R a y a
+biXi 1.0	b i X i
+bibasa 1.0	b i b a s a
+bibeka 1.0	b i b e k a
+bibiXa 1.0	b i b i X a
+bicAra 1.0	b i c A r a
+bicAri 1.0	b i c A r i
+bica 1.0	b i c a
+biciwra 1.0	b i c i w r a
+bigadne 1.0	b i g a d n e
+bigawa 1.0	b i g a w a
+bihArI 1.0	b i h A r I
+bihAra 1.0	b i h A r a
+bijalI 1.0	b i j a l I
+bijlI 1.0	b i j l I
+bila 1.0	b i l a
+billa 1.0	b i l l a
+binA 1.0	b i n A
+binawI 1.0	b i n a w I
+bipra 1.0	b i p r a
+bisaxa 1.0	b i s a x a
+biseRI 1.0	b i s e R I
+biyAlIsa 1.0	b i y A l I s a
+biyAsI 1.0	b i y A s I
+blOYga 1.0	b l O Y g a
+bleyara 1.0	b l e y a r a
+boCAre 1.0	b o C A r e
+boiMga 1.0	b o i M g a
+bolA 1.0	b o l A
+bolI 1.0	b o l I
+bolIviyA 1.0	b o l I v i y A
+bola 1.0	b o l a
+bolacAla 1.0	b o l a c A l a
+bolane 1.0	b o l a n e
+bolawe 1.0	b o l a w e
+bole 1.0	b o l e
+bonasa 1.0	b o n a s a
+borda 1.0	b o r d a
+bosta 1.0	b o s t a
+bota 1.0	b o t a
+bqMxa 1.0	b q M x a
+brAUna 1.0	b r A U n a
+brAhmI 1.0	b r A h m I
+brAhmaNa 1.0	b r A h m a N a
+brahmA 1.0	b r a h m A
+brahmANda 1.0	b r a h m A N d a
+brahma 1.0	b r a h m a
+braja 1.0	b r a j a
+brajeSa 1.0	b r a j e S a
+brama 1.0	b r a m a
+bramhapuwra 1.0	b r a m h a p u w r a
+brawa 1.0	b r a w a
+breka 1.0	b r e k a
+brela 1.0	b r e l a
+brigedIyara 1.0	b r i g e d I y a r a
+brigediyara 1.0	b r i g e d i y a r a
+brijeSa 1.0	b r i j e S a
+brila 1.0	b r i l a
+britana 1.0	b r i t a n a
+britena 1.0	b r i t e n a
+britiSa 1.0	b r i t i S a
+buXi 1.0	b u X i
+bulA 1.0	b u l A
+bulAI 1.0	b u l A I
+bulAkara 1.0	b u l A k a r a
+bulAnA 1.0	b u l A n A
+bulAne 1.0	b u l A n e
+bulAya 1.0	b u l A y a
+bulAye 1.0	b u l A y e
+buletina 1.0	b u l e t i n a
+buletino 1.0	b u l e t i n o
+buletinoM 1.0	b u l e t i n o M
+buleviyA 1.0	b u l e v i y A
+bulletina 1.0	b u l l e t i n a
+burI 1.0	b u r I
+bura 1.0	b u r a
+buromwaka 1.0	b u r o m w a k a
+buxXa 1.0	b u x X a
+buxXi 1.0	b u x X i
+byUro 1.0	b y U r o
+byorA 1.0	b y o r A
+byuro 1.0	b y u r o
+cAhawA 1.0	c A h a w A
+cAhawI 1.0	c A h a w I
+cAhawe 1.0	c A h a w e
+cAhe 1.0	c A h e
+cAheM 1.0	c A h e M
+cAhegA 1.0	c A h e g A
+cAhi 1.0	c A h i
+cAhiE 1.0	c A h i E
+cAhie 1.0	c A h i e
+cAhiye 1.0	c A h i y e
+cAhwA 1.0	c A h w A
+cAlIsa 1.0	c A l I s a
+cAlU 1.0	c A l U
+cAla 1.0	c A l a
+cAlaka 1.0	c A l a k a
+cAlisa 1.0	c A l i s a
+cAma 1.0	c A m a
+cAnslara 1.0	c A n s l a r a
+cAnxa 1.0	c A n x a
+cArI 1.0	c A r I
+cArIyoM 1.0	c A r I y o M
+cAra 1.0	c A r a
+cArja 1.0	c A r j a
+cAro 1.0	c A r o
+cAroM 1.0	c A r o M
+cArsO 1.0	c A r s O
+cAxarA 1.0	c A x a r A
+cEnloM 1.0	c E n l o M
+cIPa 1.0	c I P a
+cInI 1.0	c I n I
+cIna 1.0	c I n a
+cOWAI 1.0	c O W A I
+cOWI 1.0	c O W I
+cOWe 1.0	c O W e
+cOXrI 1.0	c O X r I
+cObIsa 1.0	c O b I s a
+cObisa 1.0	c O b i s a
+cOhAna 1.0	c O h A n a
+cOkI 1.0	c O k I
+cOpAla 1.0	c O p A l a
+cOrAnve 1.0	c O r A n v e
+cOvana 1.0	c O v a n a
+cOvisa 1.0	c O v i s a
+cOwIsa 1.0	c O w I s a
+cOwarPA 1.0	c O w a r P A
+cOwisa 1.0	c O w i s a
+cOxaha 1.0	c O x a h a
+caDZA 1.0	c a D Z A
+caDZAyI 1.0	c a D Z A y I
+caDZane 1.0	c a D Z a n e
+caDZne 1.0	c a D Z n e
+caDa 1.0	c a D a
+caMdigaDZa 1.0	c a M d i g a D Z a
+cadZA 1.0	c a d Z A
+calA 1.0	c a l A
+calAne 1.0	c a l A n e
+calI 1.0	c a l I
+cala 1.0	c a l a
+calaciwra 1.0	c a l a c i w r a
+calawA 1.0	c a l a w A
+cale 1.0	c a l e
+calegI 1.0	c a l e g I
+cali 1.0	c a l i
+calne 1.0	c a l n e
+calwA 1.0	c a l w A
+calwI 1.0	c a l w I
+candIgaDZa 1.0	c a n d I g a D Z a
+canxragupwa 1.0	c a n x r a g u p w a
+capeta 1.0	c a p e t a
+cara 1.0	c a r a
+carama 1.0	c a r a m a
+carcA 1.0	c a r c A
+cariwa 1.0	c a r i w a
+cariwra 1.0	c a r i w r a
+caxxara 1.0	c a x x a r a
+cayana 1.0	c a y a n a
+ceMpiyanSipa 1.0	c e M p i y a n S i p a
+ceka 1.0	c e k a
+cembersa 1.0	c e m b e r s a
+cempiyanSipa 1.0	c e m p i y a n S i p a
+cempiyana 1.0	c e m p i y a n a
+cenaloM 1.0	c e n a l o M
+cewAvanI 1.0	c e w A v a n I
+cewAvnI 1.0	c e w A v n I
+cewanA 1.0	c e w a n A
+ceyarsa 1.0	c e y a r s a
+ciMwA 1.0	c i M w A
+ciMwIwa 1.0	c i M w I w a
+ciMwana 1.0	c i M w a n a
+cidI 1.0	c i d I
+cikiwsA 1.0	c i k i w s A
+cikiwsakoM 1.0	c i k i w s a k o M
+cinha 1.0	c i n h a
+cinnaI 1.0	c i n n a I
+cinwA 1.0	c i n w A
+ciwA 1.0	c i w A
+ciwrAye 1.0	c i w r A y e
+ciwra 1.0	c i w r a
+ciwraNa 1.0	c i w r a N a
+coKI 1.0	c o K I
+corI 1.0	c o r I
+cotI 1.0	c o t I
+cotIyo 1.0	c o t I y o
+cota 1.0	c o t a
+cotiyoM 1.0	c o t i y o M
+cuE 1.0	c u E
+cukA 1.0	c u k A
+cukI 1.0	c u k I
+cuke 1.0	c u k e
+cunA 1.0	c u n A
+cunAvI 1.0	c u n A v I
+cunAva 1.0	c u n A v a
+cunAvoM 1.0	c u n A v o M
+cunAvpUrva 1.0	c u n A v p U r v a
+cunaliyA 1.0	c u n a l i y A
+cuniMxA 1.0	c u n i M x A
+cunowI 1.0	c u n o w I
+cuxA 1.0	c u x A
+cyavana 1.0	c y a v a n a
+dAka 1.0	d A k a
+dAktara 1.0	d A k t a r a
+dAktrI 1.0	d A k t r I
+dAlA 1.0	d A l A
+dAla 1.0	d A l a
+dAlane 1.0	d A l a n e
+dAlara 1.0	d A l a r a
+dAlo 1.0	d A l o
+dAlu 1.0	d A l u
+dAyarI 1.0	d A y a r I
+dI 1.0	d I
+dOY 1.0	d O Y
+dOYga 1.0	d O Y g a
+dOYktarI 1.0	d O Y k t a r I
+dOYktara 1.0	d O Y k t a r a
+dOYktrI 1.0	d O Y k t r I
+dOYlara 1.0	d O Y l a r a
+da 1.0	d a
+dabalsa 1.0	d a b a l s a
+dara 1.0	d a r a
+datara 1.0	d a t a r a
+daynoda 1.0	d a y n o d a
+demokretika 1.0	d e m o k r e t i k a
+derA 1.0	d e r A
+devana 1.0	d e v a n a
+dibrUgaDZa 1.0	d i b r U g a D Z a
+digarI 1.0	d i g a r I
+digrI 1.0	d i g r I
+dila 1.0	d i l a
+diseMdo 1.0	d i s e M d o
+divalapmeMta 1.0	d i v a l a p m e M t a
+divijana 1.0	d i v i j a n a
+dolara 1.0	d o l a r a
+dyutrIna 1.0	d y u t r I n a
+e 1.0	e
+ePa 1.0	e P a
+eSiyA 1.0	e S i y A
+eWa 1.0	e W a
+ecatIema 1.0	e c a t I e m a
+ehi 1.0	e h i
+ejbestana 1.0	e j b e s t a n a
+ejeMsI 1.0	e j e M s I
+ejensI 1.0	e j e n s I
+ejuteMta 1.0	e j u t e M t a
+eka 1.0	e k a
+ekawriwa 1.0	e k a w r i w a
+ekawwisa 1.0	e k a w w i s a
+ekaxama 1.0	e k a x a m a
+eksO 1.0	e k s O
+ekspresa 1.0	e k s p r e s a
+ekwA 1.0	e k w A
+elYa 1.0	e l Y a
+ela 1.0	e l a
+emPisilina 1.0	e m P i s i l i n a
+ema 1.0	e m a
+ena 1.0	e n a
+esA 1.0	e s A
+esa 1.0	e s a
+evaM 1.0	e v a M
+evala 1.0	e v a l a
+evam 1.0	e v a m
+gA 1.0	g A
+gAI 1.0	g A I
+gAMXI 1.0	g A M X I
+gAMva 1.0	g A M v a
+gAdI 1.0	g A d I
+gAida 1.0	g A i d a
+gAnXI 1.0	g A n X I
+gAnXarbana 1.0	g A n X a r b a n a
+gAne 1.0	g A n e
+gAra 1.0	g A r a
+gArda 1.0	g A r d a
+gArdana 1.0	g A r d a n a
+gArdiyana 1.0	g A r d i y a n a
+gAta 1.0	g A t a
+gAva 1.0	g A v a
+gAvoM 1.0	g A v o M
+gAyA 1.0	g A y A
+gAya 1.0	g A y a
+gAyaba 1.0	g A y a b a
+gAyaka 1.0	g A y a k a
+gAyawrI 1.0	g A y a w r I
+gAye 1.0	g A y e
+gAzXI 1.0	g A z X I
+gAzvAlo 1.0	g A z v A l o
+gAzva 1.0	g A z v a
+gAzvo 1.0	g A z v o
+gAzvoM 1.0	g A z v o M
+gEi 1.0	g E i
+gEra 1.0	g E r a
+gI 1.0	g I
+gIrAyA 1.0	g I r A y A
+gIre 1.0	g I r e
+gIwa 1.0	g I w a
+gOYva 1.0	g O Y v a
+gOrava 1.0	g O r a v a
+gOwama 1.0	g O w a m a
+gUDZa 1.0	g U D Z a
+gaDZa 1.0	g a D Z a
+gaDZavAla 1.0	g a D Z a v A l a
+gaDZvAla 1.0	g a D Z v A l a
+gaDvAla 1.0	g a D v A l a
+gaI 1.0	g a I
+gaMBIra 1.0	g a M B I r a
+gaMdaka 1.0	g a M d a k a
+gaMgA 1.0	g a M g A
+gaNa 1.0	g a N a
+gaNamAnaya 1.0	g a N a m A n a y a
+gaNarAjya 1.0	g a N a r A j y a
+gaNeSa 1.0	g a N e S a
+gaNiwa 1.0	g a N i w a
+gaNmAnya 1.0	g a N m A n y a
+gaNneSana 1.0	g a N n e S a n a
+gaTa 1.0	g a T a
+gaTiwa 1.0	g a T i w a
+gadZbadZa 1.0	g a d Z b a d Z a
+gae 1.0	g a e
+gaez 1.0	g a e z
+gagana 1.0	g a g a n a
+gahana 1.0	g a h a n a
+gaharA 1.0	g a h a r A
+gaharAI 1.0	g a h a r A I
+gahe 1.0	g a h e
+gahrA 1.0	g a h r A
+galI 1.0	g a l I
+galawa 1.0	g a l a w a
+gale 1.0	g a l e
+gamBIra 1.0	g a m B I r a
+gamBIrwA 1.0	g a m B I r w A
+gana 1.0	g a n a
+garIba 1.0	g a r I b a
+garaja 1.0	g a r a j a
+garmI 1.0	g a r m I
+gawI 1.0	g a w I
+gawi 1.0	g a w i
+gawiroXa 1.0	g a w i r o X a
+gawiviXiyoM 1.0	g a w i v i X i y o M
+gaxxI 1.0	g a x x I
+gayA	 1.0	g a y A
+gayA 1.0	g a y A
+gayI 1.0	g a y I
+gayIM 1.0	g a y I M
+gaya 1.0	g a y a
+gayaU 1.0	g a y a U
+gayau 1.0	g a y a u
+gaye 1.0	g a y e
+gayeM 1.0	g a y e M
+geMxa 1.0	g e M x a
+gelana 1.0	g e l a n a
+gerI 1.0	g e r I
+geta 1.0	g e t a
+gila 1.0	g i l a
+ginawI 1.0	g i n a w I
+girA 1.0	g i r A
+girAyA 1.0	g i r A y A
+giraPwAra 1.0	g i r a P w A r a
+gire 1.0	g i r e
+giri 1.0	g i r i
+girijA 1.0	g i r i j A
+girne 1.0	g i r n e
+giwArAma 1.0	g i w A r A m a
+goRtI 1.0	g o R t I
+goRtikA 1.0	g o R t i k A
+gobiMxarAya 1.0	g o b i M x a r A y a
+gogoI 1.0	g o g o I
+golA 1.0	g o l A
+golAbArI 1.0	g o l A b A r I
+golAbAruxa 1.0	g o l A b A r u x a
+golI 1.0	g o l I
+golIbArI 1.0	g o l I b A r I
+golIbAruxa 1.0	g o l I b A r u x a
+golIyoM 1.0	g o l I y o M
+golPa 1.0	g o l P a
+gola 1.0	g o l a
+gole 1.0	g o l e
+goliyAz 1.0	g o l i y A z
+gomawI 1.0	g o m a w I
+gorKA 1.0	g o r K A
+gora 1.0	g o r a
+goraKapura 1.0	g o r a K a p u r a
+gosAI 1.0	g o s A I
+govA 1.0	g o v A
+goviMxa 1.0	g o v i M x a
+goxAma 1.0	g o x A m a
+goxa 1.0	g o x a
+gqha 1.0	g q h a
+gqmaMwrI 1.0	g q m a M w r I
+grAhaka 1.0	g r A h a k a
+grAmINa 1.0	g r A m I N a
+grAma 1.0	g r A m a
+grAunda 1.0	g r A u n d a
+grIka 1.0	g r I k a
+grUpa 1.0	g r U p a
+graMWa 1.0	g r a M W a
+graha 1.0	g r a h a
+grahaNa 1.0	g r a h a N a
+granWa 1.0	g r a n W a
+greMda 1.0	g r e M d a
+grida 1.0	g r i d a
+griha 1.0	g r i h a
+grihmaMwrI 1.0	g r i h m a M w r I
+gruha 1.0	g r u h a
+grupa 1.0	g r u p a
+guMjAyaSa 1.0	g u M j A y a S a
+guNa 1.0	g u N a
+guNavawwA 1.0	g u N a v a w w A
+guNoM 1.0	g u N o M
+guToM 1.0	g u T o M
+gujarAwI 1.0	g u j a r A w I
+gujarAwa 1.0	g u j a r A w a
+gujrAla 1.0	g u j r A l a
+gumarAha 1.0	g u m a r A h a
+gumrAha 1.0	g u m r A h a
+guna 1.0	g u n a
+gupwA 1.0	g u p w A
+gupwcaroM 1.0	g u p w c a r o M
+gurKA 1.0	g u r K A
+gurU 1.0	g u r U
+gura 1.0	g u r a
+guru 1.0	g u r u
+gurucaraNa 1.0	g u r u c a r a N a
+gyA 1.0	g y A
+gyAna 1.0	g y A n a
+gyArA 1.0	g y A r A
+gyArAha 1.0	g y A r A h a
+gyAraha 1.0	g y A r a h a
+gyArahavAz 1.0	g y A r a h a v A z
+gyAravA 1.0	g y A r a v A
+hAM 1.0	h A M
+hAWa 1.0	h A W a
+hAiku 1.0	h A i k u
+hAjAxa 1.0	h A j A x a
+hAkA 1.0	h A k A
+hAkdA 1.0	h A k d A
+hAlA 1.0	h A l A
+hAlAMki 1.0	h A l A M k i
+hAlAwa 1.0	h A l A w a
+hAlI 1.0	h A l I
+hAla 1.0	h A l a
+hAlahI 1.0	h A l a h I
+hAlawa 1.0	h A l a w a
+hAluvAla 1.0	h A l u v A l a
+hAra 1.0	h A r a
+hArta 1.0	h A r t a
+hArwA 1.0	h A r w A
+hAsIla 1.0	h A s I l a
+hAsila 1.0	h A s i l a
+hAusa 1.0	h A u s a
+hAwAhawa 1.0	h A w A h a w a
+hAwa 1.0	h A w a
+hAxsA 1.0	h A x s A
+hAz 1.0	h A z
+hE	 1.0	h E
+hE 1.0	h E
+hEM 1.0	h E M
+hErI 1.0	h E r I
+hExarAbAxa 1.0	h E x a r A b A x a
+hExrAbAxa 1.0	h E x r A b A x a
+hI 1.0	h I
+hIna 1.0	h I n a
+hOsa 1.0	h O s a
+hOsalA 1.0	h O s a l A
+hOslA 1.0	h O s l A
+hU 1.0	h U
+hUM 1.0	h U M
+hUz 1.0	h U z
+ha 1.0	h a
+haPa 1.0	h a P a
+haPawo 1.0	h a P a w o
+haPwe 1.0	h a P w e
+haTAne 1.0	h a T A n e
+haTi 1.0	h a T i
+haWiyAroM 1.0	h a W i y A r o M
+haWyAra 1.0	h a W y A r a
+hadZbadZAhata 1.0	h a d Z b a d Z A h a t a
+hajArI 1.0	h a j A r I
+hajAra 1.0	h a j A r a
+hajAro 1.0	h a j A r o
+hajAroM 1.0	h a j A r o M
+hajZAra 1.0	h a j Z A r a
+hajZrawa 1.0	h a j Z r a w a
+hajanI 1.0	h a j a n I
+hajrawa 1.0	h a j r a w a
+hakIma 1.0	h a k I m a
+hakImo 1.0	h a k I m o
+haka 1.0	h a k a
+hala 1.0	h a l a
+halke 1.0	h a l k e
+hamArA 1.0	h a m A r A
+hamArI 1.0	h a m A r I
+hamAre 1.0	h a m A r e
+hamIca 1.0	h a m I c a
+hamIsa 1.0	h a m I s a
+hama 1.0	h a m a
+hame 1.0	h a m e
+hameM 1.0	h a m e M
+hameSA 1.0	h a m e S A
+hamlA 1.0	h a m l A
+hamlAvara 1.0	h a m l A v a r a
+hamlAvaro 1.0	h a m l A v a r o
+hamlAvaroM 1.0	h a m l A v a r o M
+hamle 1.0	h a m l e
+hamlo 1.0	h a m l o
+hamloM 1.0	h a m l o M
+hanIPuxxIna 1.0	h a n I P u x x I n a
+hana 1.0	h a n a
+hanumAna 1.0	h a n u m A n a
+hanumaMwa 1.0	h a n u m a M w a
+harA 1.0	h a r A
+harAkara 1.0	h a r A k a r a
+harAnA 1.0	h a r A n A
+harAyA 1.0	h a r A y A
+harI 1.0	h a r I
+harIyANA 1.0	h a r I y A N A
+hara 1.0	h a r a
+haraNa 1.0	h a r a N a
+haraRa 1.0	h a r a R a
+haraRi 1.0	h a r a R i
+harayANA 1.0	h a r a y A N A
+hareka 1.0	h a r e k a
+hari 1.0	h a r i
+hariyANA 1.0	h a r i y A N A
+hariyAnA 1.0	h a r i y A n A
+harkIsana 1.0	h a r k I s a n a
+harkawa 1.0	h a r k a w a
+hasInA 1.0	h a s I n A
+haspawAla 1.0	h a s p a w A l a
+haswAkRara 1.0	h a s w A k R a r a
+haswiyAz 1.0	h a s w i y A z
+hatA 1.0	h a t A
+hatAe 1.0	h a t A e
+hatAlegeM 1.0	h a t A l e g e M
+hatAnA 1.0	h a t A n A
+hatAne 1.0	h a t A n e
+hatAyA 1.0	h a t A y A
+hatAye 1.0	h a t A y e
+hata 1.0	h a t a
+hateMge 1.0	h a t e M g e
+hatnA 1.0	h a t n A
+hatne 1.0	h a t n e
+havA 1.0	h a v A
+havAI 1.0	h a v A I
+havAle 1.0	h a v A l e
+havAya 1.0	h a v A y a
+havalYAra 1.0	h a v a l Y A r a
+hawAhawa 1.0	h a w A h a w a
+hawwInI 1.0	h a w w I n I
+hawyA 1.0	h a w y A
+hawyAra 1.0	h a w y A r a
+hawyAroM 1.0	h a w y A r o M
+he 1.0	h e
+heM 1.0	h e M
+heda 1.0	h e d a
+helikAptara 1.0	h e l i k A p t a r a
+hemlawA 1.0	h e m l a w A
+hewu 1.0	h e w u
+hiMdU 1.0	h i M d U
+hiMnxI 1.0	h i M n x I
+hiMsA 1.0	h i M s A
+hiMxI 1.0	h i M x I
+hiMxuoM 1.0	h i M x u o M
+hiMxuswAnI 1.0	h i M x u s w A n I
+hila 1.0	h i l a
+hilsa 1.0	h i l s a
+himAcala 1.0	h i m A c a l a
+himAlaya 1.0	h i m A l a y a
+himAlyo 1.0	h i m A l y o
+himAyawa 1.0	h i m A y a w a
+hinnawa 1.0	h i n n a w a
+hinxI 1.0	h i n x I
+hinxU 1.0	h i n x U
+hinxa 1.0	h i n x a
+hinxayUropIya 1.0	h i n x a y U r o p I y a
+hinxu 1.0	h i n x u
+hinxuoM 1.0	h i n x u o M
+hinxuswAna 1.0	h i n x u s w A n a
+hipakRIya 1.0	h i p a k R I y a
+hirAsawa 1.0	h i r A s a w a
+hirabayASi 1.0	h i r a b a y A S i
+hiroSi 1.0	h i r o S i
+hiso 1.0	h i s o
+hissA 1.0	h i s s A
+hisse 1.0	h i s s e
+hissexArI 1.0	h i s s e x A r I
+hissoM 1.0	h i s s o M
+hiwa 1.0	h i w a
+ho 1.0	h o
+hoI 1.0	h o I
+hoM 1.0	h o M
+hoMge 1.0	h o M g e
+hoMne 1.0	h o M n e
+hoUni 1.0	h o U n i
+hogA 1.0	h o g A
+hogI 1.0	h o g I
+hogaI 1.0	h o g a I
+hogaye 1.0	h o g a y e
+hoge 1.0	h o g e
+hogeM 1.0	h o g e M
+hohiM 1.0	h o h i M
+hoihi 1.0	h o i h i
+hokara 1.0	h o k a r a
+holI 1.0	h o l I
+honA 1.0	h o n A
+honI 1.0	h o n I
+hone 1.0	h o n e
+hotala 1.0	h o t a l a
+hotaloM 1.0	h o t a l o M
+howA 1.0	h o w A
+howAhawa 1.0	h o w A h a w a
+howI 1.0	h o w I
+howe 1.0	h o w e
+howi 1.0	h o w i
+hqxaya 1.0	h q x a y a
+hraxaya 1.0	h r a x a y a
+huA 1.0	h u A
+huI 1.0	h u I
+hue 1.0	h u e
+hui 1.0	h u i
+huvA 1.0	h u v A
+huyI 1.0	h u y I
+huye 1.0	h u y e
+huyena 1.0	h u y e n a
+huyi 1.0	h u y i
+iKawwara 1.0	i K a w w a r a
+iMPeMtrI 1.0	i M P e M t r I
+iMdiyA 1.0	i M d i y A
+iMdiyAnA 1.0	i M d i y A n A
+iMdiyana 1.0	i M d i y a n a
+iMdoneSiyA 1.0	i M d o n e S i y A
+iMglEMda 1.0	i M g l E M d a
+iMjamAmula 1.0	i M j a m A m u l a
+iMjiniyaroM 1.0	i M j i n i y a r o M
+iMkAra 1.0	i M k A r a
+iMspektara 1.0	i M s p e k t a r a
+iMtara 1.0	i M t a r a
+iMtaraneta 1.0	i M t a r a n e t a
+iMtarviyU 1.0	i M t a r v i y U
+iMtarvyu 1.0	i M t a r v y u
+iMwajAma 1.0	i M w a j A m a
+iMxra 1.0	i M x r a
+iXara 1.0	i X a r a
+icCA 1.0	i c C A
+icCuka 1.0	i c C u k a
+ikAI 1.0	i k A I
+ikAiyAz 1.0	i k A i y A z
+ikawwIsa 1.0	i k a w w I s a
+ikkIsa 1.0	i k k I s a
+ikkIsvI 1.0	i k k I s v I
+ikkIsvIM 1.0	i k k I s v I M
+iksaTa 1.0	i k s a T a
+ikwAlisa 1.0	i k w A l i s a
+ikwisa 1.0	i k w i s a
+ilAhAbAxa 1.0	i l A h A b A x a
+ilAja 1.0	i l A j a
+ilAkA 1.0	i l A k A
+ilAkI 1.0	i l A k I
+ilAke 1.0	i l A k e
+ilAko 1.0	i l A k o
+ilAkoM 1.0	i l A k o M
+ilAkomE 1.0	i l A k o m E
+ilektronika 1.0	i l e k t r o n i k a
+imAma 1.0	i m A m a
+imAmoM 1.0	i m A m o M
+imArawa 1.0	i m A r a w a
+imwihAna 1.0	i m w i h A n a
+inPeMtrI 1.0	i n P e M t r I
+inPentrI 1.0	i n P e n t r I
+ina 1.0	i n a
+inakA 1.0	i n a k A
+inakI 1.0	i n a k I
+inake 1.0	i n a k e
+inako 1.0	i n a k o
+inameM 1.0	i n a m e M
+inca 1.0	i n c a
+indiyA 1.0	i n d i y A
+inhe 1.0	i n h e
+inheM 1.0	i n h e M
+inhoMne 1.0	i n h o M n e
+injekRana 1.0	i n j e k R a n a
+inkA 1.0	i n k A
+inkAra 1.0	i n k A r a
+inke 1.0	i n k e
+inmeM 1.0	i n m e M
+inna 1.0	i n n a
+inse 1.0	i n s e
+intara 1.0	i n t a r a
+irAxA 1.0	i r A x A
+isI 1.0	i s I
+isWAika 1.0	i s W A i k a
+isWAna 1.0	i s W A n a
+isWiwI 1.0	i s W i w I
+isa 1.0	i s a
+isakA 1.0	i s a k A
+isakI 1.0	i s a k I
+isake 1.0	i s a k e
+isako 1.0	i s a k o
+isalie 1.0	i s a l i e
+isaliye 1.0	i s a l i y e
+isameM 1.0	i s a m e M
+isase 1.0	i s a s e
+ise 1.0	i s e
+iskA 1.0	i s k A
+iskI 1.0	i s k I
+iske 1.0	i s k e
+islAmAbAxa 1.0	i s l A m A b A x a
+islAmAbaxa 1.0	i s l A m A b a x a
+islAmI 1.0	i s l A m I
+islAma 1.0	i s l A m a
+islAmika 1.0	i s l A m i k a
+isliye 1.0	i s l i y e
+isme 1.0	i s m e
+ismeM 1.0	i s m e M
+isne 1.0	i s n e
+isse 1.0	i s s e
+ista 1.0	i s t a
+iswamAla 1.0	i s w a m A l a
+iswemAla 1.0	i s w e m A l a
+itali 1.0	i t a l i
+iva 1.0	i v a
+iwanA 1.0	i w a n A
+iwihAsa 1.0	i w i h A s a
+iwihAsakAra 1.0	i w i h A s a k A r a
+iwihAsakAroM 1.0	i w i h A s a k A r o M
+iwwehAwa 1.0	i w w e h A w a
+iwyAxi 1.0	i w y A x i
+jA 1.0	j A
+jAEgA 1.0	j A E g A
+jAI 1.0	j A I
+jAMbAjZa 1.0	j A M b A j Z a
+jANa 1.0	j A N a
+jATa 1.0	j A T a
+jAbAja 1.0	j A b A j a
+jAca 1.0	j A c a
+jAcukA 1.0	j A c u k A
+jAe 1.0	j A e
+jAegA 1.0	j A e g A
+jAegI 1.0	j A e g I
+jAhA 1.0	j A h A
+jAhAja 1.0	j A h A j a
+jAhU 1.0	j A h U
+jAhira 1.0	j A h i r a
+jAi 1.0	j A i
+jAkara 1.0	j A k a r a
+jAkuvo 1.0	j A k u v o
+jAla 1.0	j A l a
+jAmA 1.0	j A m A
+jAmnagara 1.0	j A m n a g a r a
+jAnA 1.0	j A n A
+jAnI 1.0	j A n I
+jAna 1.0	j A n a
+jAnahu 1.0	j A n a h u
+jAnai 1.0	j A n a i
+jAnakArI 1.0	j A n a k A r I
+jAnakara 1.0	j A n a k a r a
+jAnanA 1.0	j A n a n A
+jAnane 1.0	j A n a n e
+jAnauz 1.0	j A n a u z
+jAnawA 1.0	j A n a w A
+jAnawe 1.0	j A n a w e
+jAne 1.0	j A n e
+jAneM 1.0	j A n e M
+jAnevAlI 1.0	j A n e v A l I
+jAnevAle 1.0	j A n e v A l e
+jAni 1.0	j A n i
+jAnkA 1.0	j A n k A
+jAnkArI 1.0	j A n k A r I
+jApAna 1.0	j A p A n a
+jArI 1.0	j A r I
+jArahe 1.0	j A r a h e
+jAriye 1.0	j A r i y e
+jArja 1.0	j A r j a
+jAsu 1.0	j A s u
+jAwA 1.0	j A w A
+jAwI 1.0	j A w I
+jAwa 1.0	j A w a
+jAwe 1.0	j A w e
+jAwi 1.0	j A w i
+jAyA 1.0	j A y A
+jAya 1.0	j A y a
+jAyajA 1.0	j A y a j A
+jAye 1.0	j A y e
+jAyeM 1.0	j A y e M
+jAyeMge 1.0	j A y e M g e
+jAyegA 1.0	j A y e g A
+jAyegI 1.0	j A y e g I
+jAyege 1.0	j A y e g e
+jAygA 1.0	j A y g A
+jAyjZA 1.0	j A y j Z A
+jAzbAjZa 1.0	j A z b A j Z a
+jAzca 1.0	j A z c a
+jEna 1.0	j E n a
+jEsA 1.0	j E s A
+jEsI 1.0	j E s I
+jEse 1.0	j E s e
+jFAna 1.0	j F A n a
+jFAwa 1.0	j F A w a
+jI 1.0	j I
+jIro 1.0	j I r o
+jIva 1.0	j I v a
+jIvana 1.0	j I v a n a
+jIviwa 1.0	j I v i w a
+jIvnI 1.0	j I v n I
+jIwA 1.0	j I w A
+jIwI 1.0	j I w I
+jIwa 1.0	j I w a
+jIwane 1.0	j I w a n e
+jIwkara 1.0	j I w k a r a
+jOM 1.0	j O M
+jOYrja 1.0	j O Y r j a
+jUJa 1.0	j U J a
+jUna 1.0	j U n a
+jZArI 1.0	j Z A r I
+jZabarxaswa 1.0	j Z a b a r x a s w a
+jZabwa 1.0	j Z a b w a
+jZarUrI 1.0	j Z a r U r I
+jZarUra 1.0	j Z a r U r a
+jZavAba 1.0	j Z a v A b a
+jZiMbAbve 1.0	j Z i M b A b v e
+jZikra 1.0	j Z i k r a
+jZile 1.0	j Z i l e
+jZimmexArI 1.0	j Z i m m e x A r I
+jZimmexAra 1.0	j Z i m m e x A r a
+jZinxA 1.0	j Z i n x A
+jZiyA 1.0	j Z i y A
+jZora 1.0	j Z o r a
+jZorxAra 1.0	j Z o r x A r a
+jZyAxAwara 1.0	j Z y A x A w a r a
+jaGanya 1.0	j a G a n y a
+jaGoM 1.0	j a G o M
+jaGoMpara 1.0	j a G o M p a r a
+jaKAlawA 1.0	j a K A l a w A
+jaKIrA 1.0	j a K I r A
+jaMgI 1.0	j a M g I
+jaMga 1.0	j a M g a
+jaMgalI 1.0	j a M g a l I
+jaMgala 1.0	j a M g a l a
+jaMgaloM 1.0	j a M g a l o M
+jaSvaMwa 1.0	j a S v a M w a
+jaba 1.0	j a b a
+jabaki 1.0	j a b a k i
+jabarxaswa 1.0	j a b a r x a s w a
+jabarxaswo 1.0	j a b a r x a s w o
+jabki 1.0	j a b k i
+jagAne 1.0	j a g A n e
+jagXISa 1.0	j a g X I S a
+jaga 1.0	j a g a
+jagaha 1.0	j a g a h a
+jagahoM 1.0	j a g a h o M
+jagannAWa 1.0	j a g a n n A W a
+jagawa 1.0	j a g a w a
+jagjIvana 1.0	j a g j I v a n a
+jagjoM 1.0	j a g j o M
+jagmohana 1.0	j a g m o h a n a
+jagxiSa 1.0	j a g x i S a
+jahA 1.0	j a h A
+jahAM 1.0	j a h A M
+jahAja 1.0	j a h A j a
+jahAz 1.0	j a h A z
+jahOY 1.0	j a h O Y
+jalAgamaka 1.0	j a l A g a m a k a
+jalAyA 1.0	j a l A y A
+jalYI 1.0	j a l Y I
+jalYa 1.0	j a l Y a
+jala 1.0	j a l a
+jalaswara 1.0	j a l a s w a r a
+jalaxa 1.0	j a l a x a
+jalgAMva 1.0	j a l g A M v a
+jalxI 1.0	j a l x I
+jamA 1.0	j a m A
+jamAne 1.0	j a m A n e
+jamAyA 1.0	j a m A y A
+jamEwe 1.0	j a m E w e
+jamIna 1.0	j a m I n a
+jama 1.0	j a m a
+jamaSexapura 1.0	j a m a S e x a p u r a
+jambAra 1.0	j a m b A r a
+jameM 1.0	j a m e M
+jammU 1.0	j a m m U
+jammu 1.0	j a m m u
+janArxana 1.0	j a n A r x a n a
+jana 1.0	j a n a
+janama 1.0	j a n a m a
+janani 1.0	j a n a n i
+janapaxa 1.0	j a n a p a x a
+janaprawiniXi 1.0	j a n a p r a w i n i X i
+janasaMKyA 1.0	j a n a s a M K y A
+janawA 1.0	j a n a w A
+janivA 1.0	j a n i v A
+janmI 1.0	j a n m I
+janma 1.0	j a n m a
+janmxina 1.0	j a n m x i n a
+janoM 1.0	j a n o M
+janrala 1.0	j a n r a l a
+jansaMGa 1.0	j a n s a M G a
+janvarI 1.0	j a n v a r I
+janwA 1.0	j a n w A
+janwara 1.0	j a n w a r a
+janyuala 1.0	j a n y u a l a
+japAna 1.0	j a p A n a
+japa 1.0	j a p a
+jarI 1.0	j a r I
+jarIye 1.0	j a r I y e
+jarUrI 1.0	j a r U r I
+jarUrawa 1.0	j a r U r a w a
+jarUrwoM 1.0	j a r U r w o M
+jarbaBOmika 1.0	j a r b a B O m i k a
+jariye 1.0	j a r i y e
+jarmanI 1.0	j a r m a n I
+jarmana 1.0	j a r m a n a
+jarmani 1.0	j a r m a n i
+jarurI 1.0	j a r u r I
+jarurawa 1.0	j a r u r a w a
+jarurawmanxa 1.0	j a r u r a w m a n x a
+jarurweM 1.0	j a r u r w e M
+jasotiya 1.0	j a s o t i y a
+jasu 1.0	j a s u
+jasvIra 1.0	j a s v I r a
+jasvaMwa 1.0	j a s v a M w a
+jatIla 1.0	j a t I l a
+javAbI 1.0	j a v A b I
+javAba 1.0	j a v A b a
+javAna 1.0	j a v A n a
+javAno 1.0	j a v A n o
+javAnoM 1.0	j a v A n o M
+javAnone 1.0	j a v A n o n e
+jawAI 1.0	j a w A I
+jaxapi 1.0	j a x a p i
+jaxyapi 1.0	j a x y a p i
+jaya 1.0	j a y a
+jayaMwI 1.0	j a y a M w I
+jayalaliwA 1.0	j a y a l a l i w A
+jayanwI 1.0	j a y a n w I
+jayapura 1.0	j a y a p u r a
+jaye 1.0	j a y e
+jayegA 1.0	j a y e g A
+je 1.0	j e
+jehAxa 1.0	j e h A x a
+jela 1.0	j e l a
+jemsa 1.0	j e m s a
+jenIvA 1.0	j e n I v A
+jenrala 1.0	j e n r a l a
+jenretara 1.0	j e n r e t a r a
+jensI 1.0	j e n s I
+jerharxa 1.0	j e r h a r x a
+jetalI 1.0	j e t a l I
+jetlI 1.0	j e t l I
+jewe 1.0	j e w e
+jiMtu 1.0	j i M t u
+jika 1.0	j i k a
+jikkara 1.0	j i k k a r a
+jilA 1.0	j i l A
+jile 1.0	j i l e
+jimbAbve 1.0	j i m b A b v e
+jimmaxAra 1.0	j i m m a x A r a
+jimmexArI 1.0	j i m m e x A r I
+jimmexAra 1.0	j i m m e x A r a
+jimmexara 1.0	j i m m e x a r a
+jina 1.0	j i n a
+jinakA 1.0	j i n a k A
+jinake 1.0	j i n a k e
+jinevA 1.0	j i n e v A
+jinheM 1.0	j i n h e M
+jinhoMne 1.0	j i n h o M n e
+jinhone 1.0	j i n h o n e
+jinivA 1.0	j i n i v A
+jinme 1.0	j i n m e
+jiro 1.0	j i r o
+jisa 1.0	j i s a
+jisakA 1.0	j i s a k A
+jisameM 1.0	j i s a m e M
+jisase 1.0	j i s a s e
+jise 1.0	j i s e
+jiske 1.0	j i s k e
+jisme 1.0	j i s m e
+jismeM 1.0	j i s m e M
+jisne 1.0	j i s n e
+jisse 1.0	j i s s e
+jivana 1.0	j i v a n a
+jiwnevAlI 1.0	j i w n e v A l I
+jiyaz 1.0	j i y a z
+jo 1.0	j o
+joSI 1.0	j o S I
+jodA 1.0	j o d A
+jodI 1.0	j o d I
+jodZI 1.0	j o d Z I
+joda 1.0	j o d a
+jodane 1.0	j o d a n e
+jogI 1.0	j o g I
+joga 1.0	j o g a
+johara 1.0	j o h a r a
+joiMta 1.0	j o i M t a
+jonIyA 1.0	j o n I y A
+jori 1.0	j o r i
+jorja 1.0	j o r j a
+jorxAra 1.0	j o r x A r a
+jowpura 1.0	j o w p u r a
+joya 1.0	j o y a
+jubAra 1.0	j u b A r a
+jubalI 1.0	j u b a l I
+judA 1.0	j u d A
+judZA 1.0	j u d Z A
+judZI 1.0	j u d Z I
+judZe 1.0	j u d Z e
+judwA 1.0	j u d w A
+julUsa 1.0	j u l U s a
+jula 1.0	j u l a
+julusa 1.0	j u l u s a
+juta 1.0	j u t a
+jute 1.0	j u t e
+jutwA 1.0	j u t w A
+jyAxA 1.0	j y A x A
+jyowI 1.0	j y o w I
+jyowi 1.0	j y o w i
+jyowiRa 1.0	j y o w i R a
+kA 1.0	k A
+kAM 1.0	k A M
+kAMPreMsa 1.0	k A M P r e M s a
+kAMdalA 1.0	k A M d a l A
+kAMgresa 1.0	k A M g r e s a
+kAMte 1.0	k A M t e
+kAMwa 1.0	k A M w a
+kAPI 1.0	k A P I
+kAPZI 1.0	k A P Z I
+kASI 1.0	k A S I
+kATmAMdU 1.0	k A T m A M d U
+kAU 1.0	k A U
+kAUMtara 1.0	k A U M t a r a
+kAblA 1.0	k A b l A
+kAhe 1.0	k A h e
+kAju 1.0	k A j u
+kAki 1.0	k A k i
+kAksara 1.0	k A k s a r a
+kAksawa 1.0	k A k s a w a
+kAlA 1.0	k A l A
+kAlI 1.0	k A l I
+kAla 1.0	k A l a
+kAlixAsa 1.0	k A l i x A s a
+kAliyA 1.0	k A l i y A
+kAlonI 1.0	k A l o n I
+kAlpanika 1.0	k A l p a n i k a
+kAma 1.0	k A m a
+kAmanA 1.0	k A m a n A
+kAmarsa 1.0	k A m a r s a
+kAmyAbI 1.0	k A m y A b I
+kAmyAba 1.0	k A m y A b a
+kAnPreMsa 1.0	k A n P r e M s a
+kAnUnI 1.0	k A n U n I
+kAnUna 1.0	k A n U n a
+kAnUno 1.0	k A n U n o
+kAna 1.0	k A n a
+kArKAnA 1.0	k A r K A n A
+kArKAne 1.0	k A r K A n e
+kAra 1.0	k A r a
+kAraKAne 1.0	k A r a K A n e
+kAraNa 1.0	k A r a N a
+kArana 1.0	k A r a n a
+kAravAI 1.0	k A r a v A I
+kAravAhI 1.0	k A r a v A h I
+kAravAhiyAM 1.0	k A r a v A h i y A M
+kAravAhiyoM 1.0	k A r a v A h i y o M
+kAravAya 1.0	k A r a v A y a
+kArgila 1.0	k A r g i l a
+kAriyoM 1.0	k A r i y o M
+kArporeSana 1.0	k A r p o r e S a n a
+kArtUna 1.0	k A r t U n a
+kArtUniRtoM 1.0	k A r t U n i R t o M
+kArvAI 1.0	k A r v A I
+kArvAhI 1.0	k A r v A h I
+kAryAlaya 1.0	k A r y A l a y a
+kArya 1.0	k A r y a
+kAryaBAra 1.0	k A r y a B A r a
+kAryakArI 1.0	k A r y a k A r I
+kAryakarwAo 1.0	k A r y a k a r w A o
+kAryakrama 1.0	k A r y a k r a m a
+kAryakramo 1.0	k A r y a k r a m o
+kAryarawa 1.0	k A r y a r a w a
+kAryavAI 1.0	k A r y a v A I
+kAryavAhI 1.0	k A r y a v A h I
+kAryavAhIyAz 1.0	k A r y a v A h I y A z
+kAryoM 1.0	k A r y o M
+kAswara 1.0	k A s w a r a
+kAta 1.0	k A t a
+kAte 1.0	k A t e
+kAtmAMdU 1.0	k A t m A M d U
+kAtne 1.0	k A t n e
+kAuMnsila 1.0	k A u M n s i l a
+kAuMtara 1.0	k A u M t a r a
+kAunsila 1.0	k A u n s i l a
+kAvya 1.0	k A v y a
+kAyama 1.0	k A y a m a
+kAyarwA 1.0	k A y a r w A
+kAzgresa 1.0	k A z g r e s a
+kEi 1.0	k E i
+kEiM 1.0	k E i M
+kEptana 1.0	k E p t a n a
+kEse 1.0	k E s e
+kEseM 1.0	k E s e M
+kExI 1.0	k E x I
+kExa 1.0	k E x a
+kI 1.0	k I
+kIje 1.0	k I j e
+kIjie 1.0	k I j i e
+kImawa 1.0	k I m a w a
+kInhI 1.0	k I n h I
+kInha 1.0	k I n h a
+kIsa 1.0	k I s a
+kIyA 1.0	k I y A
+kIye 1.0	k I y e
+kOYleja 1.0	k O Y l e j a
+kOYpIrAita 1.0	k O Y p I r A i t a
+kOYrporeSana 1.0	k O Y r p o r e S a n a
+kOna 1.0	k O n a
+kRApe 1.0	k R A p e
+kRamA 1.0	k R a m A
+kRamawA 1.0	k R a m a w A
+kRamwA 1.0	k R a m w A
+kRewa 1.0	k R e w a
+kRewrIya 1.0	k R e w r I y a
+kRewra 1.0	k R e w r a
+kRewro 1.0	k R e w r o
+kRewroM 1.0	k R e w r o M
+kRhewroM 1.0	k R h e w r o M
+kRraxXAFjalI 1.0	k R r a x X A F j a l I
+kUliwa 1.0	k U l i w a
+kZuraAna 1.0	k Z u r a A n a
+ka 1.0	k a
+kaBI 1.0	k a B I
+kaBIkaBI 1.0	k a B I k a B I
+kaCave 1.0	k a C a v e
+kaCu 1.0	k a C u
+kaI 1.0	k a I
+kaIM 1.0	k a I M
+kaMgresa 1.0	k a M g r e s a
+kaMja 1.0	k a M j a
+kaMpanI 1.0	k a M p a n I
+kaMpanIyo 1.0	k a M p a n I y o
+kaMpnI 1.0	k a M p n I
+kaMpyUtara 1.0	k a M p y U t a r a
+kaRta 1.0	k a R t a
+kaSamIra 1.0	k a S a m I r a
+kaSmIrI 1.0	k a S m I r I
+kaSmIra 1.0	k a S m I r a
+kaTina 1.0	k a T i n a
+kaTiwa 1.0	k a T i w a
+kaTora 1.0	k a T o r a
+kaWA 1.0	k a W A
+kaWAoM 1.0	k a W A o M
+kaWiwa 1.0	k a W i w a
+kabUla 1.0	k a b U l a
+kaba 1.0	k a b a
+kabi 1.0	k a b i
+kabjA 1.0	k a b j A
+kabjZA 1.0	k a b j Z A
+kabjZe 1.0	k a b j Z e
+kabje 1.0	k a b j e
+kabula 1.0	k a b u l a
+kacCa 1.0	k a c C a
+kadA 1.0	k a d A
+kadI 1.0	k a d I
+kadZI 1.0	k a d Z I
+kahA 1.0	k a h A
+kahAnI 1.0	k a h A n I
+kahAniyAz 1.0	k a h A n i y A z
+kahAniyoM 1.0	k a h A n i y o M
+kahI 1.0	k a h I
+kahIM 1.0	k a h I M
+kaha 1.0	k a h a
+kahahiM 1.0	k a h a h i M
+kahalAwI 1.0	k a h a l A w I
+kahanA 1.0	k a h a n A
+kahasi 1.0	k a h a s i
+kahauz 1.0	k a h a u z
+kahawA 1.0	k a h a w A
+kahawI 1.0	k a h a w I
+kahawa 1.0	k a h a w a
+kahawe 1.0	k a h a w e
+kahe 1.0	k a h e
+kaheM 1.0	k a h e M
+kaheMge 1.0	k a h e M g e
+kahi 1.0	k a h i
+kahkara 1.0	k a h k a r a
+kahnA 1.0	k a h n A
+kahu 1.0	k a h u
+kakRa 1.0	k a k R a
+kaksara 1.0	k a k s a r a
+kaksaxa 1.0	k a k s a x a
+kalA 1.0	k a l A
+kalAkAra 1.0	k a l A k A r a
+kalAkAroM 1.0	k a l A k A r o M
+kala 1.0	k a l a
+kalikAla 1.0	k a l i k A l a
+kalkawwA 1.0	k a l k a w w A
+kalkawwe 1.0	k a l k a w w e
+kalyANa 1.0	k a l y A N a
+kamAMda 1.0	k a m A M d a
+kamAMdara 1.0	k a m A M d a r a
+kamI 1.0	k a m I
+kamIM 1.0	k a m I M
+kama 1.0	k a m a
+kamajora 1.0	k a m a j o r a
+kamalAbAlana 1.0	k a m a l A b A l a n a
+kamala 1.0	k a m a l a
+kamlA 1.0	k a m l A
+kamnista 1.0	k a m n i s t a
+kampyUtara 1.0	k a m p y U t a r a
+kamyUniRta 1.0	k a m y U n i R t a
+kamyunIsta 1.0	k a m y u n I s t a
+kamyunisto 1.0	k a m y u n i s t o
+kanAta 1.0	k a n A t a
+kanJalvA 1.0	k a n J a l v A
+kangana 1.0	k a n g a n a
+kanyA 1.0	k a n y A
+kanyAoM 1.0	k a n y A o M
+kapUra 1.0	k a p U r a
+kapa 1.0	k a p a
+kapanI 1.0	k a p a n I
+kapi 1.0	k a p i
+kapnI 1.0	k a p n I
+kapwAna 1.0	k a p w A n a
+karA 1.0	k a r A
+karAI 1.0	k a r A I
+karAne 1.0	k a r A n e
+karAyA 1.0	k a r A y A
+karAye 1.0	k a r A y e
+karIba 1.0	k a r I b a
+karNiyo 1.0	k a r N i y o
+karOM 1.0	k a r O M
+karUzgA 1.0	k a r U z g A
+kara 1.0	k a r a
+karaNa 1.0	k a r a N a
+karaNpAla 1.0	k a r a N p A l a
+karagila 1.0	k a r a g i l a
+karahiM 1.0	k a r a h i M
+karai 1.0	k a r a i
+karake 1.0	k a r a k e
+karanA 1.0	k a r a n A
+karana 1.0	k a r a n a
+karane 1.0	k a r a n e
+karauz 1.0	k a r a u z
+karawA 1.0	k a r a w A
+karawe 1.0	k a r a w e
+kare 1.0	k a r e
+kareM 1.0	k a r e M
+kareMgI 1.0	k a r e M g I
+kareMge 1.0	k a r e M g e
+karegA 1.0	k a r e g A
+karegI 1.0	k a r e g I
+karege 1.0	k a r e g e
+kargila 1.0	k a r g i l a
+kari 1.0	k a r i
+karja 1.0	k a r j a
+karjxAroM 1.0	k a r j x A r o M
+karke 1.0	k a r k e
+karlI 1.0	k a r l I
+karma 1.0	k a r m a
+karmacArI 1.0	k a r m a c A r I
+karmacArIyoM 1.0	k a r m a c A r I y o M
+karmacAriyoM 1.0	k a r m a c A r i y o M
+karmcArI 1.0	k a r m c A r I
+karmcArIyo 1.0	k a r m c A r I y o
+karmcArIyoM 1.0	k a r m c A r I y o M
+karmcAriyoM 1.0	k a r m c A r i y o M
+karmiyoM 1.0	k a r m i y o M
+karnA 1.0	k a r n A
+karnAla 1.0	k a r n A l a
+karnAtakA 1.0	k a r n A t a k A
+karnAtaka 1.0	k a r n A t a k a
+karnI 1.0	k a r n I
+karna 1.0	k a r n a
+karnala 1.0	k a r n a l a
+karne 1.0	k a r n e
+karnevAle 1.0	k a r n e v A l e
+karnevAloM 1.0	k a r n e v A l o M
+karo 1.0	k a r o
+karoDa 1.0	k a r o D a
+karodZa 1.0	k a r o d Z a
+karodZo 1.0	k a r o d Z o
+karoda 1.0	k a r o d a
+karodoM 1.0	k a r o d o M
+karola 1.0	k a r o l a
+karwA 1.0	k a r w A
+karwI 1.0	k a r w I
+karwavya 1.0	k a r w a v y a
+karwe 1.0	k a r w e
+karxama 1.0	k a r x a m a
+karxeM 1.0	k a r x e M
+karxeMge 1.0	k a r x e M g e
+karxiyA 1.0	k a r x i y A
+karyAlaya 1.0	k a r y A l a y a
+karya 1.0	k a r y a
+karyavAhI 1.0	k a r y a v A h I
+katowI 1.0	k a t o w I
+katrarsa 1.0	k a t r a r s a
+kattara 1.0	k a t t a r a
+kavayiwrI 1.0	k a v a y i w r I
+kavi 1.0	k a v i
+kaviMxa 1.0	k a v i M x a
+kaviwA 1.0	k a v i w A
+kawCa 1.0	k a w C a
+kaxama 1.0	k a x a m a
+kazpnI 1.0	k a z p n I
+ke 1.0	k e
+keM 1.0	k e M
+keMgu 1.0	k e M g u
+keMmpa 1.0	k e M m p a
+keMxra 1.0	k e M x r a
+keMxriwa 1.0	k e M x r i w a
+keMxriya 1.0	k e M x r i y a
+keSava 1.0	k e S a v a
+kebineta 1.0	k e b i n e t a
+kebneta 1.0	k e b n e t a
+kegahare 1.0	k e g a h a r e
+kehanA 1.0	k e h a n A
+kemsa 1.0	k e m s a
+kenedA 1.0	k e n e d A
+keniyA 1.0	k e n i y A
+kenxrIwa 1.0	k e n x r I w a
+kenxrIya 1.0	k e n x r I y a
+kenxra 1.0	k e n x r a
+kenxriwa 1.0	k e n x r i w a
+keptana 1.0	k e p t a n a
+kerala 1.0	k e r a l a
+kerana 1.0	k e r a n a
+kevala 1.0	k e v a l a
+kewu 1.0	k e w u
+keyara 1.0	k e y a r a
+ki 1.0	k i
+kiE 1.0	k i E
+kiSora 1.0	k i S o r a
+kie 1.0	k i e
+kiez 1.0	k i e z
+kika 1.0	k i k a
+kilA 1.0	k i l A
+killawa 1.0	k i l l a w a
+kilo 1.0	k i l o
+kilomItara 1.0	k i l o m I t a r a
+kilovAta 1.0	k i l o v A t a
+kinAre 1.0	k i n A r e
+kina 1.0	k i n a
+kinwu 1.0	k i n w u
+kipara 1.0	k i p a r a
+kiraxAra 1.0	k i r a x A r a
+kisAnoM 1.0	k i s A n o M
+kisI 1.0	k i s I
+kisIse 1.0	k i s I s e
+kisa 1.0	k i s a
+kisaPkevana 1.0	k i s a P k e v a n a
+kisana 1.0	k i s a n a
+kisma 1.0	k i s m a
+kisme 1.0	k i s m e
+kismeM 1.0	k i s m e M
+kismoM 1.0	k i s m o M
+kisse 1.0	k i s s e
+kiwAba 1.0	k i w A b a
+kiwanA 1.0	k i w a n A
+kiwane 1.0	k i w a n e
+kiyA 1.0	k i y A
+kiyE 1.0	k i y E
+kiye 1.0	k i y e
+klaba 1.0	k l a b a
+klaboM 1.0	k l a b o M
+kliMtana 1.0	k l i M t a n a
+klika 1.0	k l i k a
+klinika 1.0	k l i n i k a
+ko 1.0	k o
+koI 1.0	k o I
+koM 1.0	k o M
+koMgresa 1.0	k o M g r e s a
+koMkaNa 1.0	k o M k a N a
+koPA 1.0	k o P A
+koPI 1.0	k o P I
+koRa 1.0	k o R a
+koSa 1.0	k o S a
+koSiSa 1.0	k o S i S a
+koSiSoM 1.0	k o S i S o M
+koU 1.0	k o U
+koca 1.0	k o c a
+kokada 1.0	k o k a d a
+kola 1.0	k o l a
+kolakAwA 1.0	k o l a k A w A
+kolambiyA 1.0	k o l a m b i y A
+kolonI 1.0	k o l o n I
+kolona 1.0	k o l o n a
+komala 1.0	k o m a l a
+konAka 1.0	k o n A k a
+konsila 1.0	k o n s i l a
+kopA 1.0	k o p A
+korIyA 1.0	k o r I y A
+kora 1.0	k o r a
+kosova 1.0	k o s o v a
+kosovo 1.0	k o s o v o
+kotI 1.0	k o t I
+kotbalvala 1.0	k o t b a l v a l a
+koti 1.0	k o t i
+kou 1.0	k o u
+kovA 1.0	k o v A
+kowAhi 1.0	k o w A h i
+koyalA 1.0	k o y a l A
+koylA 1.0	k o y l A
+kqRNa 1.0	k q R N a
+kqRi 1.0	k q R i
+kqpA 1.0	k q p A
+kqpayA 1.0	k q p a y A
+kqwi 1.0	k q w i
+krAvlI 1.0	k r A v l I
+kraNa 1.0	k r a N a
+krama 1.0	k r a m a
+kramaSaH 1.0	k r a m a S a H
+kriRNa 1.0	k r i R N a
+kriRnA 1.0	k r i R n A
+kriketa 1.0	k r i k e t a
+krisa 1.0	k r i s a
+kriswInA 1.0	k r i s w I n A
+kriwrima 1.0	k r i w r i m a
+kriyA 1.0	k r i y A
+kroXa 1.0	k r o X a
+krornikovA 1.0	k r o r n i k o v A
+krosiMga 1.0	k r o s i M g a
+kruRNa 1.0	k r u R N a
+kruRNacanxra 1.0	k r u R N a c a n x r a
+kruRaNa 1.0	k r u R a N a
+kruRi 1.0	k r u R i
+kruwagyawA 1.0	k r u w a g y a w A
+kruwyagyawA 1.0	k r u w y a g y a w A
+kuCa 1.0	k u C a
+kuCe 1.0	k u C e
+kuKyAwa 1.0	k u K y A w a
+kuMda 1.0	k u M d a
+kuMdu 1.0	k u M d u
+kuRNA 1.0	k u R N A
+kuSABAU 1.0	k u S A B A U
+kuSala 1.0	k u S a l a
+kucCa 1.0	k u c C a
+kuca 1.0	k u c a
+kukata 1.0	k u k a t a
+kulAbA 1.0	k u l A b A
+kulI 1.0	k u l I
+kula 1.0	k u l a
+kumAUz 1.0	k u m A U z
+kumArI 1.0	k u m A r I
+kumAra 1.0	k u m A r a
+kumAramanglama 1.0	k u m A r a m a n g l a m a
+kumArmanglama 1.0	k u m A r m a n g l a m a
+kumuka 1.0	k u m u k a
+kunwI 1.0	k u n w I
+kupseka 1.0	k u p s e k a
+kupvADA 1.0	k u p v A D A
+kupvAdZA 1.0	k u p v A d Z A
+kurbAnI 1.0	k u r b A n I
+kureSI 1.0	k u r e S I
+kutanIwika 1.0	k u t a n I w i k a
+kuwubbuxxIna 1.0	k u w u b b u x x I n a
+kvAtara 1.0	k v A t a r a
+kviMtala 1.0	k v i M t a l a
+kyA 1.0	k y A
+kyUbika 1.0	k y U b i k a
+kyoM 1.0	k y o M
+kyoMki 1.0	k y o M k i
+kyu 1.0	k y u
+lA 1.0	l A
+lAIPa 1.0	l A I P a
+lAIna 1.0	l A I n a
+lAIno 1.0	l A I n o
+lAInsa 1.0	l A I n s a
+lAKa 1.0	l A K a
+lAKo 1.0	l A K o
+lAMsa 1.0	l A M s a
+lAMsnAyaka 1.0	l A M s n A y a k a
+lATI 1.0	l A T I
+lATara 1.0	l A T a r a
+lAdana 1.0	l A d a n a
+lAdina 1.0	l A d i n a
+lAgU 1.0	l A g U
+lAgawa 1.0	l A g a w a
+lAgi 1.0	l A g i
+lAgu 1.0	l A g u
+lAhOra 1.0	l A h O r a
+lAhora 1.0	l A h o r a
+lAhura 1.0	l A h u r a
+lAiseMsa 1.0	l A i s e M s a
+lAita 1.0	l A i t a
+lAke 1.0	l A k e
+lAla 1.0	l A l a
+lAne 1.0	l A n e
+lAnsa 1.0	l A n s a
+lAtsa 1.0	l A t s a
+lAyA 1.0	l A y A
+lAyI 1.0	l A y I
+lAya 1.0	l A y a
+lAyaka 1.0	l A y a k a
+lAye 1.0	l A y e
+lE 1.0	l E
+lI 1.0	l I
+lIdara 1.0	l I d a r a
+lIga 1.0	l I g a
+lIlA 1.0	l I l A
+lOta 1.0	l O t a
+lOte 1.0	l O t e
+lOtnA 1.0	l O t n A
+lOtne 1.0	l O t n e
+lUta 1.0	l U t a
+laDAI 1.0	l a D A I
+laDZAI 1.0	l a D Z A I
+laDZAkU 1.0	l a D Z A k U
+laDa 1.0	l a D a
+laKanO 1.0	l a K a n O
+laKana 1.0	l a K a n a
+laKanaU 1.0	l a K a n a U
+laKanao 1.0	l a K a n a o
+laKnOu 1.0	l a K n O u
+laKnu 1.0	l a K n u
+laMbI 1.0	l a M b I
+laMdana 1.0	l a M d a n a
+laMxana 1.0	l a M x a n a
+laSkara 1.0	l a S k a r a
+laSkare 1.0	l a S k a r e
+ladAI 1.0	l a d A I
+ladZAI 1.0	l a d Z A I
+ladZAkU 1.0	l a d Z A k U
+ladZa 1.0	l a d Z a
+ladZawe 1.0	l a d Z a w e
+ladZne 1.0	l a d Z n e
+ladZwe 1.0	l a d Z w e
+lagA 1.0	l a g A
+lagAE 1.0	l a g A E
+lagAI 1.0	l a g A I
+lagAkara 1.0	l a g A k a r a
+lagAnA 1.0	l a g A n A
+lagAne 1.0	l a g A n e
+lagAva 1.0	l a g A v a
+lagAwAra 1.0	l a g A w A r a
+lagAyA 1.0	l a g A y A
+lagAye 1.0	l a g A y e
+lagBaga 1.0	l a g B a g a
+lagI 1.0	l a g I
+lagIM 1.0	l a g I M
+laga 1.0	l a g a
+lagaBaga 1.0	l a g a B a g a
+lagana 1.0	l a g a n a
+lagawA 1.0	l a g a w A
+lagaxa 1.0	l a g a x a
+lage 1.0	l a g e
+lageMge 1.0	l a g e M g e
+lagegA 1.0	l a g e g A
+lagwe 1.0	l a g w e
+lakRA 1.0	l a k R A
+lakRa 1.0	l a k R a
+lakRaxvIpa 1.0	l a k R a x v I p a
+lakRaxvipa 1.0	l a k R a x v i p a
+lakRaya 1.0	l a k R a y a
+lakRmI 1.0	l a k R m I
+lakRmaNa 1.0	l a k R m a N a
+lakRya 1.0	l a k R y a
+laliwa 1.0	l a l i w a
+lambA 1.0	l a m b A
+lambI 1.0	l a m b I
+lambIwa 1.0	l a m b I w a
+landana 1.0	l a n d a n a
+laxAka 1.0	l a x A k a
+laxxAKa 1.0	l a x x A K a
+le 1.0	l e
+leKA 1.0	l e K A
+leKa 1.0	l e K a
+leKaka 1.0	l e K a k a
+leKako 1.0	l e K a k o
+leKakoM 1.0	l e K a k o M
+leKana 1.0	l e K a n a
+leKo 1.0	l e K o
+leKoM 1.0	l e K o M
+leM 1.0	l e M
+leMge 1.0	l e M g e
+lePtaneMta 1.0	l e P t a n e M t a
+lePtaneMwa 1.0	l e P t a n e M w a
+lePtinaMta 1.0	l e P t i n a M t a
+lePtineMta 1.0	l e P t i n e M t a
+lebrotrisa 1.0	l e b r o t r i s a
+legA 1.0	l e g A
+legI 1.0	l e g I
+lega 1.0	l e g a
+leha 1.0	l e h a
+lehara 1.0	l e h a r a
+leharo 1.0	l e h a r o
+lehe 1.0	l e h e
+lekIna 1.0	l e k I n a
+lekara 1.0	l e k a r a
+lekina 1.0	l e k i n a
+leksevA 1.0	l e k s e v A
+lele 1.0	l e l e
+lenA 1.0	l e n A
+lene 1.0	l e n e
+letA 1.0	l e t A
+lewA 1.0	l e w A
+lewI 1.0	l e w I
+lewe 1.0	l e w e
+liKA 1.0	l i K A
+liKAI 1.0	l i K A I
+liKI 1.0	l i K I
+liKa 1.0	l i K a
+liKane 1.0	l i K a n e
+liKawA 1.0	l i K a w A
+liKe 1.0	l i K e
+liKkara 1.0	l i K k a r a
+liMga 1.0	l i M g a
+liMka 1.0	l i M k a
+liMwa 1.0	l i M w a
+lie 1.0	l i e
+lieMdara 1.0	l i e M d a r a
+lika 1.0	l i k a
+limiteda 1.0	l i m i t e d a
+lindse 1.0	l i n d s e
+lipI 1.0	l i p I
+lisA 1.0	l i s A
+livAlI 1.0	l i v A l I
+liyA 1.0	l i y A
+liyAjAnA 1.0	l i y A j A n A
+liya 1.0	l i y a
+liye 1.0	l i y e
+liyeMdara 1.0	l i y e M d a r a
+lo 1.0	l o
+loBa 1.0	l o B a
+loKArda 1.0	l o K A r d a
+locana 1.0	l o c a n a
+loda 1.0	l o d a
+loga 1.0	l o g a
+loge 1.0	l o g e
+logo 1.0	l o g o
+logoM 1.0	l o g o M
+logoxAna 1.0	l o g o x A n a
+loka 1.0	l o k a
+lokapriya 1.0	l o k a p r i y a
+lokasaBA 1.0	l o k a s a B A
+lokpriya 1.0	l o k p r i y a
+loksaBA 1.0	l o k s a B A
+loliMga 1.0	l o l i M g a
+loncara 1.0	l o n c a r a
+lotAe 1.0	l o t A e
+lotne 1.0	l o t n e
+luPWAMsA 1.0	l u P W A M s A
+lukawa 1.0	l u k a w a
+mAGa 1.0	m A G a
+mAIkrovela 1.0	m A I k r o v e l a
+mAJa 1.0	m A J a
+mAJeM 1.0	m A J e M
+mAMga 1.0	m A M g a
+mAMgeM 1.0	m A M g e M
+mAMwe 1.0	m A M w e
+mAPa 1.0	m A P a
+mAWura 1.0	m A W u r a
+mAXyama 1.0	m A X y a m a
+mAhAda 1.0	m A h A d a
+mAhAjana 1.0	m A h A j a n a
+mAhIM 1.0	m A h I M
+mAhOla 1.0	m A h O l a
+mAksvAxI 1.0	m A k s v A x I
+mAlA 1.0	m A l A
+mAla 1.0	m A l a
+mAmUlI 1.0	m A m U l I
+mAmale 1.0	m A m a l e
+mAmlA 1.0	m A m l A
+mAmle 1.0	m A m l e
+mAmlo 1.0	m A m l o
+mAmloM 1.0	m A m l o M
+mAnA 1.0	m A n A
+mAna 1.0	m A n a
+mAnaciwra 1.0	m A n a c i w r a
+mAnane 1.0	m A n a n e
+mAnava 1.0	m A n a v a
+mAnavawA 1.0	m A n a v a w A
+mAnawA 1.0	m A n a w A
+mAnawI 1.0	m A n a w I
+mAnawe 1.0	m A n a w e
+mAne 1.0	m A n e
+mAneMge 1.0	m A n e M g e
+mAnegI 1.0	m A n e g I
+mAnnA 1.0	m A n n A
+mAnsUna 1.0	m A n s U n a
+mAnuRa 1.0	m A n u R a
+mAnvA 1.0	m A n v A
+mAnwe 1.0	m A n w e
+mAnya 1.0	m A n y a
+mAnyawA 1.0	m A n y a w A
+mApana 1.0	m A p a n a
+mArA 1.0	m A r A
+mArSala 1.0	m A r S a l a
+mAra 1.0	m A r a
+mAraka 1.0	m A r a k a
+mArca 1.0	m A r c a
+mAre 1.0	m A r e
+mAregAi 1.0	m A r e g A i
+mArga 1.0	m A r g a
+mArgo 1.0	m A r g o
+mArkara 1.0	m A r k a r a
+mArksa 1.0	m A r k s a
+mArksvAxI 1.0	m A r k s v A x I
+mArne 1.0	m A r n e
+mArpolo 1.0	m A r p o l o
+mAwA 1.0	m A w A
+mAwqBARA 1.0	m A w q B A R A
+mAwrA 1.0	m A w r A
+mAwra 1.0	m A w r a
+mAwraBUmI 1.0	m A w r a B U m I
+mAwraBUmi 1.0	m A w r a B U m i
+mAwu 1.0	m A w u
+mAyA 1.0	m A y A
+mAyene 1.0	m A y e n e
+mAz 1.0	m A z
+mAzga 1.0	m A z g a
+mAzge 1.0	m A z g e
+mE 1.0	m E
+mEM 1.0	m E M
+mEMne 1.0	m E M n e
+mEWilI 1.0	m E W i l I
+mEca 1.0	m E c a
+mEgAvAta 1.0	m E g A v A t a
+mEna 1.0	m E n a
+mEne 1.0	m E n e
+mEsUra 1.0	m E s U r a
+mEtaro 1.0	m E t a r o
+mEwrI 1.0	m E w r I
+mExAnI 1.0	m E x A n I
+mExAna 1.0	m E x A n a
+mExAnoM 1.0	m E x A n o M
+mI 1.0	m I
+mIdIyA 1.0	m I d I y A
+mIdiyA 1.0	m I d i y A
+mIdiyama 1.0	m I d i y a m a
+mInata 1.0	m I n a t a
+mOYsama 1.0	m O Y s a m a
+mOjUxA 1.0	m O j U x A
+mOjUxa 1.0	m O j U x a
+mOjUxgI 1.0	m O j U x g I
+mOjuxA 1.0	m O j u x A
+mOjuxa 1.0	m O j u x a
+mOjuxagI 1.0	m O j u x a g I
+mOkA 1.0	m O k A
+mOke 1.0	m O k e
+mOlika 1.0	m O l i k a
+mOna 1.0	m O n a
+mOnasUna 1.0	m O n a s U n a
+mOnsUna 1.0	m O n s U n a
+mOnsuna 1.0	m O n s u n a
+mOrya 1.0	m O r y a
+mOsama 1.0	m O s a m a
+mOwa 1.0	m O w a
+mUlA 1.0	m U l A
+mUla 1.0	m U l a
+mUlawaH 1.0	m U l a w a H
+mUlya 1.0	m U l y a
+mUrwI 1.0	m U r w I
+mUrwiyoM 1.0	m U r w i y o M
+maI 1.0	m a I
+maKa 1.0	m a K a
+maMWoDAlo 1.0	m a M W o D A l o
+maMWu 1.0	m a M W u
+maMWura 1.0	m a M W u r a
+maMdalYa 1.0	m a M d a l Y a
+maMdala 1.0	m a M d a l a
+maMgala 1.0	m a M g a l a
+maMgalavAra 1.0	m a M g a l a v A r a
+maMgolpurI 1.0	m a M g o l p u r I
+maMjUrI 1.0	m a M j U r I
+maMjUra 1.0	m a M j U r a
+maMjZura 1.0	m a M j Z u r a
+maMwrAlaya 1.0	m a M w r A l a y a
+maMwrAlyA 1.0	m a M w r A l y A
+maMwrAlya 1.0	m a M w r A l y a
+maMwrAlyoM 1.0	m a M w r A l y o M
+maMwrI 1.0	m a M w r I
+maMwrImaMdalIya 1.0	m a M w r I m a M d a l I y a
+maMwrIne 1.0	m a M w r I n e
+maMwrIyo 1.0	m a M w r I y o
+maMwra 1.0	m a M w r a
+maMwralaya 1.0	m a M w r a l a y a
+maMwriyoM 1.0	m a M w r i y o M
+maMxira 1.0	m a M x i r a
+maNa 1.0	m a N a
+maNdala 1.0	m a N d a l a
+maNdapa 1.0	m a N d a p a
+maSkova 1.0	m a S k o v a
+maSvarA 1.0	m a S v a r A
+maTa 1.0	m a T a
+maWoDAlo 1.0	m a W o D A l o
+maWurA 1.0	m a W u r A
+maXu 1.0	m a X u
+maXya 1.0	m a X y a
+maXyapraxeSa 1.0	m a X y a p r a x e S a
+maXyasWA 1.0	m a X y a s W A
+maXyasWa 1.0	m a X y a s W a
+maXyasWawA 1.0	m a X y a s W a w A
+maXyavarwI 1.0	m a X y a v a r w I
+magaXa 1.0	m a g a X a
+magana 1.0	m a g a n a
+magara 1.0	m a g a r a
+mahA 1.0	m a h A
+mahABArawa 1.0	m a h A B A r a w a
+mahAda 1.0	m a h A d a
+mahAjana 1.0	m a h A j a n a
+mahAkAvya 1.0	m a h A k A v y a
+mahAmArI 1.0	m a h A m A r I
+mahAna 1.0	m a h A n a
+mahAnagara 1.0	m a h A n a g a r a
+mahAnaxI 1.0	m a h A n a x I
+mahAnixeSaka 1.0	m a h A n i x e S a k a
+mahArARa 1.0	m a h A r A R a
+mahArARta 1.0	m a h A r A R t a
+mahArARtrA 1.0	m a h A r A R t r A
+mahAsaciva 1.0	m a h A s a c i v a
+mahAvIra 1.0	m a h A v I r a
+mahAxevI 1.0	m a h A x e v I
+mahAxvIpa 1.0	m a h A x v I p a
+mahIlA 1.0	m a h I l A
+mahIne 1.0	m a h I n e
+mahaja 1.0	m a h a j a
+mahala 1.0	m a h a l a
+mahamUxa 1.0	m a h a m U x a
+maharARta 1.0	m a h a r A R t a
+maharRi 1.0	m a h a r R i
+mahasUsa 1.0	m a h a s U s a
+mahawpUrNa 1.0	m a h a w p U r N a
+mahawpurNa 1.0	m a h a w p u r N a
+mahawvAkAMRaoM 1.0	m a h a w v A k A M R a o M
+mahawva 1.0	m a h a w v a
+mahawvapUrNa 1.0	m a h a w v a p U r N a
+mahawvapurNa 1.0	m a h a w v a p u r N a
+mahawwA 1.0	m a h a w w A
+mahawwvapUrNa 1.0	m a h a w w v a p U r N a
+maheSa 1.0	m a h e S a
+mahilA 1.0	m a h i l A
+mahilAoM 1.0	m a h i l A o M
+mahimA 1.0	m a h i m A
+mahine 1.0	m a h i n e
+mahineM 1.0	m a h i n e M
+mahowsava 1.0	m a h o w s a v a
+mahroli 1.0	m a h r o l i
+mahsUsa 1.0	m a h s U s a
+mahsusa 1.0	m a h s u s a
+mahuz 1.0	m a h u z
+majZahbI 1.0	m a j Z a h b I
+majZbUwa 1.0	m a j Z b U w a
+majZbuwI 1.0	m a j Z b u w I
+majZoora 1.0	m a j Z o o r a
+majbUra 1.0	m a j b U r a
+majbUwI 1.0	m a j b U w I
+majbUwa 1.0	m a j b U w a
+majbuwa 1.0	m a j b u w a
+majjana 1.0	m a j j a n a
+majjanu 1.0	m a j j a n u
+makAna 1.0	m a k A n a
+makAnoM 1.0	m a k A n o M
+maksaxa 1.0	m a k s a x a
+malE 1.0	m a l E
+mala 1.0	m a l a
+malika 1.0	m a l i k a
+malina 1.0	m a l i n a
+mama 1.0	m a m a
+manA 1.0	m a n A
+manAyA 1.0	m a n A y A
+manIRa 1.0	m a n I R a
+mana 1.0	m a n a
+manca 1.0	m a n c a
+manjUrI 1.0	m a n j U r I
+manobala 1.0	m a n o b a l a
+manohara 1.0	m a n o h a r a
+manoraMjana 1.0	m a n o r a M j a n a
+manoraWa 1.0	m a n o r a W a
+manovEjFAnika 1.0	m a n o v E j F A n i k a
+mansUbe 1.0	m a n s U b e
+mansubI 1.0	m a n s u b I
+mansuka 1.0	m a n s u k a
+manuRya 1.0	m a n u R y a
+manwara 1.0	m a n w a r a
+manwrAlaya 1.0	m a n w r A l a y a
+manwrAlya 1.0	m a n w r A l y a
+manwrI 1.0	m a n w r I
+manwrImaMdala 1.0	m a n w r I m a M d a l a
+manwra 1.0	m a n w r a
+manwrimaMdala 1.0	m a n w r i m a M d a l a
+manwriyoM 1.0	m a n w r i y o M
+manxira 1.0	m a n x i r a
+marATI 1.0	m a r A T I
+marATavAdA 1.0	m a r A T a v A d A
+marIja 1.0	m a r I j a
+maramu 1.0	m a r a m u
+marana 1.0	m a r a n a
+maranevAloM 1.0	m a r a n e v A l o M
+marjI 1.0	m a r j I
+marne 1.0	m a r n e
+marpolo 1.0	m a r p o l o
+masama 1.0	m a s a m a
+masjixa 1.0	m a s j i x a
+masle 1.0	m a s l e
+mawBexa 1.0	m a w B e x a
+mawa 1.0	m a w a
+mawaBexa 1.0	m a w a B e x a
+mawi 1.0	m a w i
+mawlaba 1.0	m a w l a b a
+mawoM 1.0	m a w o M
+maxaxa 1.0	m a x a x a
+maxekI 1.0	m a x e k I
+maxrAsa 1.0	m a x r A s a
+mayUra 1.0	m a y U r a
+maya 1.0	m a y a
+mayura 1.0	m a y u r a
+mayxAnI 1.0	m a y x A n I
+me 1.0	m e
+meGAlaya 1.0	m e G A l a y a
+meM 1.0	m e M
+meMca 1.0	m e M c a
+meMsA 1.0	m e M s A
+meWi 1.0	m e W i
+meca 1.0	m e c a
+mecoM 1.0	m e c o M
+megA 1.0	m e g A
+mehalA 1.0	m e h a l A
+mehanawa 1.0	m e h a n a w a
+mehawvapUrNa 1.0	m e h a w v a p U r N a
+mehrolI 1.0	m e h r o l I
+mejara 1.0	m e j a r a
+meksiko 1.0	m e k s i k o
+melbarna 1.0	m e l b a r n a
+mele 1.0	m e l e
+merA 1.0	m e r A
+merI 1.0	m e r I
+mere 1.0	m e r e
+mesidoniyA 1.0	m e s i d o n i y A
+metlIna 1.0	m e t l I n a
+metro 1.0	m e t r o
+miSana 1.0	m i S a n a
+miSra 1.0	m i S r a
+miSraNa 1.0	m i S r a N a
+midiyama 1.0	m i d i y a m a
+miksa 1.0	m i k s a
+milA 1.0	m i l A
+milAxula 1.0	m i l A x u l a
+milI 1.0	m i l I
+milIyana 1.0	m i l I y a n a
+milJula 1.0	m i l J u l a
+mila 1.0	m i l a
+milakara 1.0	m i l a k a r a
+milanA 1.0	m i l a n A
+milana 1.0	m i l a n a
+milane 1.0	m i l a n e
+milawA 1.0	m i l a w A
+milawI 1.0	m i l a w I
+mile 1.0	m i l e
+milegI 1.0	m i l e g I
+militrI 1.0	m i l i t r I
+milkara 1.0	m i l k a r a
+mille 1.0	m i l l e
+milnA 1.0	m i l n A
+milne 1.0	m i l n e
+milosuvicko 1.0	m i l o s u v i c k o
+milwA 1.0	m i l w A
+minata 1.0	m i n a t a
+minita 1.0	m i n i t a
+misAila 1.0	m i s A i l a
+misAyala 1.0	m i s A y a l a
+mitA 1.0	m i t A
+mitara 1.0	m i t a r a
+mittI 1.0	m i t t I
+miwra 1.0	m i w r a
+miwrawA 1.0	m i w r a w A
+miwula 1.0	m i w u l a
+moTa 1.0	m o T a
+moce 1.0	m o c e
+modZa 1.0	m o d Z a
+moda 1.0	m o d a
+mohIna 1.0	m o h I n a
+moha 1.0	m o h a
+mohamaxa 1.0	m o h a m a x a
+mohammaxa 1.0	m o h a m m a x a
+mohi 1.0	m o h i
+mohowsava 1.0	m o h o w s a v a
+mokRa 1.0	m o k R a
+monsUnI 1.0	m o n s U n I
+mora 1.0	m o r a
+morcA 1.0	m o r c A
+morce 1.0	m o r c e
+moreM 1.0	m o r e M
+mortAreM 1.0	m o r t A r e M
+motarAja 1.0	m o t a r A j a
+motaroM 1.0	m o t a r o M
+moxI 1.0	m o x I
+mqga 1.0	m q g a
+mqxu 1.0	m q x u
+mruwkoM 1.0	m r u w k o M
+mruwya 1.0	m r u w y a
+mruwyu 1.0	m r u w y u
+muJaParpura 1.0	m u J a P a r p u r a
+muJase 1.0	m u J a s e
+muJe 1.0	m u J e
+muKI 1.0	m u K I
+muKa 1.0	m u K a
+muKapqRTa 1.0	m u K a p q R T a
+muKarjI 1.0	m u K a r j I
+muKwAra 1.0	m u K w A r a
+muKyAlaya 1.0	m u K y A l a y a
+muKya 1.0	m u K y a
+muKyamaMwrI 1.0	m u K y a m a M w r I
+muKyamanwrI 1.0	m u K y a m a n w r I
+muKyawa 1.0	m u K y a w a
+muKyawaH 1.0	m u K y a w a H
+muMbE 1.0	m u M b E
+muMha 1.0	m u M h a
+muPwi 1.0	m u P w i
+muSaraPa 1.0	m u S a r a P a
+muSarraPa 1.0	m u S a r r a P a
+muSko 1.0	m u S k o
+muSkoha 1.0	m u S k o h a
+muSraPa 1.0	m u S r a P a
+muSwAka 1.0	m u S w A k a
+mugala 1.0	m u g a l a
+mujAhixIna 1.0	m u j A h i x I n a
+mujAhixInoM 1.0	m u j A h i x I n o M
+mujaPParpura 1.0	m u j a P P a r p u r a
+mukAbale 1.0	m u k A b a l e
+mukAblA 1.0	m u k A b l A
+mukAbla 1.0	m u k A b l a
+mukAble 1.0	m u k A b l e
+mukara 1.0	m u k a r a
+mukarrama 1.0	m u k a r r a m a
+mukaxamo 1.0	m u k a x a m o
+mukwAra 1.0	m u k w A r a
+mukwa 1.0	m u k w a
+mulAkAwa 1.0	m u l A k A w a
+mulArAma 1.0	m u l A r A m a
+mulAyama 1.0	m u l A y a m a
+mullA 1.0	m u l l A
+mumbEi 1.0	m u m b E i
+mumbaI 1.0	m u m b a I
+munWo 1.0	m u n W o
+muni 1.0	m u n i
+munibara 1.0	m u n i b a r a
+murWaxxAloM 1.0	m u r W a x x A l o M
+muralI 1.0	m u r a l I
+murexa 1.0	m u r e x a
+murxA 1.0	m u r x A
+musIbawoM 1.0	m u s I b a w o M
+musalmAna 1.0	m u s a l m A n a
+musalmAno 1.0	m u s a l m A n o
+muslima 1.0	m u s l i m a
+muswExa 1.0	m u s w E x a
+muxXA 1.0	m u x X A
+muxXe 1.0	m u x X e
+muxXo 1.0	m u x X o
+muxavakila 1.0	m u x a v a k i l a
+muxrA 1.0	m u x r A
+muxubanI 1.0	m u x u b a n I
+muxxA 1.0	m u x x A
+muxxe 1.0	m u x x e
+muxxoM 1.0	m u x x o M
+muzha 1.0	m u z h a
+nA 1.0	n A
+nAIta 1.0	n A I t a
+nAMgluI 1.0	n A M g l u I
+nAWa 1.0	n A W a
+nAgAleMda 1.0	n A g A l e M d a
+nAga 1.0	n A g a
+nAgarIka 1.0	n A g a r I k a
+nAgarika 1.0	n A g a r i k a
+nAgluI 1.0	n A g l u I
+nAgrikoM 1.0	n A g r i k o M
+nAhIM 1.0	n A h I M
+nAi 1.0	n A i
+nAja 1.0	n A j a
+nAkAma 1.0	n A k A m a
+nAka 1.0	n A k a
+nAloM 1.0	n A l o M
+nAma 1.0	n A m a
+nAmaMjUra 1.0	n A m a M j U r a
+nAmaka 1.0	n A m a k a
+nAmakaraNa 1.0	n A m a k a r a N a
+nAme 1.0	n A m e
+nAnA 1.0	n A n A
+nAngluI 1.0	n A n g l u I
+nArAyNana 1.0	n A r A y N a n a
+nArAyaNa 1.0	n A r A y a N a
+nArAyaNana 1.0	n A r A y a N a n a
+nArWa 1.0	n A r W a
+nAraxa 1.0	n A r a x a
+nAri 1.0	n A r i
+nAsika 1.0	n A s i k a
+nAtaka 1.0	n A t a k a
+nAto 1.0	n A t o
+nAvA 1.0	n A v A
+nAyadU 1.0	n A y a d U
+nAyadu 1.0	n A y a d u
+nAyaka 1.0	n A y a k a
+nAyara 1.0	n A y a r a
+nAydU 1.0	n A y d U
+nE 1.0	n E
+nEi 1.0	n E i
+nEwika 1.0	n E w i k a
+nIce 1.0	n I c e
+nIma 1.0	n I m a
+nIwI 1.0	n I w I
+nIwi 1.0	n I w i
+nIwiyoM 1.0	n I w i y o M
+nO 1.0	n O
+nOSara 1.0	n O S a r a
+nObawa 1.0	n O b a w a
+nOjavAna 1.0	n O j a v A n a
+nOjavAnoM 1.0	n O j a v A n o M
+nOsEnA 1.0	n O s E n A
+nOsO 1.0	n O s O
+nOsenA 1.0	n O s e n A
+nOwA 1.0	n O w A
+na 1.0	n a
+naBa 1.0	n a B a
+naI 1.0	n a I
+naRta 1.0	n a R t a
+nabI 1.0	n a b I
+nabbe 1.0	n a b b e
+nae 1.0	n a e
+nagarI 1.0	n a g a r I
+nagara 1.0	n a g a r a
+nagaroM 1.0	n a g a r o M
+nagrAwa 1.0	n a g r A w a
+nahI 1.0	n a h I
+nahIM 1.0	n a h I M
+nahara 1.0	n a h a r a
+naharemA 1.0	n a h a r e m A
+naharo 1.0	n a h a r o
+nahiM 1.0	n a h i M
+najZara 1.0	n a j Z a r a
+najara 1.0	n a j a r a
+najxIkI 1.0	n a j x I k I
+nakArAwmaka 1.0	n a k A r A w m a k a
+nakalI 1.0	n a k a l I
+nakvI 1.0	n a k v I
+naltuyba 1.0	n a l t u y b a
+nama 1.0	n a m a
+namaskAra 1.0	n a m a s k A r a
+namaswe 1.0	n a m a s w e
+nambara 1.0	n a m b a r a
+nara 1.0	n a r a
+nareMxra 1.0	n a r e M x r a
+nareSa 1.0	n a r e S a
+nasIhawa 1.0	n a s I h a w a
+natvara 1.0	n a t v a r a
+navAjZa 1.0	n a v A j Z a
+navAja 1.0	n a v A j a
+nava 1.0	n a v a
+navanI 1.0	n a v a n I
+nawIjA 1.0	n a w I j A
+nawIjoM 1.0	n a w I j o M
+naxI 1.0	n a x I
+naxIyAM 1.0	n a x I y A M
+naxIyo 1.0	n a x I y o
+naxiyAz 1.0	n a x i y A z
+naxiyoM 1.0	n a x i y o M
+nayA 1.0	n a y A
+nayI 1.0	n a y I
+naya 1.0	n a y a
+nayaMwraNa 1.0	n a y a M w r a N a
+nayana 1.0	n a y a n a
+naye 1.0	n a y e
+ne 1.0	n e
+neM 1.0	n e M
+neSanlIsta 1.0	n e S a n l I s t a
+neSnala 1.0	n e S n a l a
+neSnalista 1.0	n e S n a l i s t a
+neduncelYiyana 1.0	n e d u n c e l Y i y a n a
+nema 1.0	n e m a
+nepAla 1.0	n e p A l a
+nepAlaBARA 1.0	n e p A l a B A R A
+nestara 1.0	n e s t a r a
+neto 1.0	n e t o
+newA 1.0	n e w A
+newAo 1.0	n e w A o
+newAoM 1.0	n e w A o M
+newqwva 1.0	n e w q w v a
+newrahIno 1.0	n e w r a h I n o
+newriwva 1.0	n e w r i w v a
+nexarleMda 1.0	n e x a r l e M d a
+niBA 1.0	n i B A
+niBAnI 1.0	n i B A n I
+niBAne 1.0	n i B A n e
+niMxA 1.0	n i M x A
+niMyaMwraNa 1.0	n i M y a M w r a N a
+niSAMwa 1.0	n i S A M w a
+niSAna 1.0	n i S A n a
+niSAne 1.0	n i S A n e
+niScawa 1.0	n i S c a w a
+niSciwa 1.0	n i S c i w a
+niXI 1.0	n i X I
+niXana 1.0	n i X a n a
+niXeSAlaya 1.0	n i X e S A l a y a
+nicale 1.0	n i c a l e
+nicle 1.0	n i c l e
+nigama 1.0	n i g a m a
+nigarAnI 1.0	n i g a r A n I
+nihiwa 1.0	n i h i w a
+nijI 1.0	n i j I
+nija 1.0	n i j a
+nikAlA 1.0	n i k A l A
+nikAlI	 1.0	n i k A l I
+nikAla 1.0	n i k A l a
+nikAya 1.0	n i k A y a
+nikalawA 1.0	n i k a l a w A
+nikalne 1.0	n i k a l n e
+nikara 1.0	n i k a r a
+nikata 1.0	n i k a t a
+nikobAra 1.0	n i k o b A r a
+nimAwI 1.0	n i m A w I
+nimna 1.0	n i m n a
+nimnaliKiwa 1.0	n i m n a l i K i w a
+ninxA 1.0	n i n x A
+nipatne 1.0	n i p a t n e
+niptAI 1.0	n i p t A I
+niptAre 1.0	n i p t A r e
+niptI 1.0	n i p t I
+nirASA 1.0	n i r A S A
+nirAlA 1.0	n i r A l A
+nirBara 1.0	n i r B a r a
+nirNAyaka 1.0	n i r N A y a k a
+nirNAyka 1.0	n i r N A y k a
+nirNaya 1.0	n i r N a y a
+nirXArIwa 1.0	n i r X A r I w a
+nirXAraNa 1.0	n i r X A r a N a
+nirXAriwa 1.0	n i r X A r i w a
+niraKi 1.0	n i r a K i
+niraMwara 1.0	n i r a M w a r a
+nirarWaka 1.0	n i r a r W a k a
+niraswrikaraNa 1.0	n i r a s w r i k a r a N a
+nirmANa 1.0	n i r m A N a
+nirmAwA 1.0	n i r m A w A
+nirmAwAoM 1.0	n i r m A w A o M
+nirmiwa 1.0	n i r m i w a
+nirvAcana 1.0	n i r v A c a n a
+nirvAciwa 1.0	n i r v A c i w a
+nirvacana 1.0	n i r v a c a n a
+nirviSeXa 1.0	n i r v i S e X a
+nirxeSAlaya 1.0	n i r x e S A l a y a
+nirxeSa 1.0	n i r x e S a
+nirxeSaka 1.0	n i r x e S a k a
+nisicara 1.0	n i s i c a r a
+nivAsa 1.0	n i v A s a
+niveSaka 1.0	n i v e S a k a
+niveSako 1.0	n i v e S a k o
+niveSakoM 1.0	n i v e S a k o M
+nivexana 1.0	n i v e x a n a
+nivriwa 1.0	n i v r i w a
+nivyAMve 1.0	n i v y A M v e
+nixeSaka 1.0	n i x e S a k a
+nixeSko 1.0	n i x e S k o
+niyaMwraNa 1.0	n i y a M w r a N a
+niyama 1.0	n i y a m a
+niyanwraNa 1.0	n i y a n w r a N a
+niyojana 1.0	n i y o j a n a
+niyukwa 1.0	n i y u k w a
+no 1.0	n o
+nortana 1.0	n o r t a n a
+nota 1.0	n o t a
+nqwya 1.0	n q w y a
+nruSaMsa 1.0	n r u S a M s a
+nuksAna 1.0	n u k s A n a
+nyACAvara 1.0	n y A C A v a r a
+nyAyAlaya 1.0	n y A y A l a y a
+nyAya 1.0	n y A y a
+nyAyaka 1.0	n y A y a k a
+nyAyalaya 1.0	n y A y a l a y a
+nyOCAvara 1.0	n y O C A v a r a
+nyOXAvara 1.0	n y O X A v a r a
+nyOcAvara 1.0	n y O c A v a r a
+nyUjIlEnda 1.0	n y U j I l E n d a
+nyUjIleMda 1.0	n y U j I l e M d a
+nyUjIleNda 1.0	n y U j I l e N d a
+nyUjIlenda 1.0	n y U j I l e n d a
+nyUjZIleMda 1.0	n y U j Z I l e M d a
+nyUja 1.0	n y U j a
+nyUna 1.0	n y U n a
+nyUnawama 1.0	n y U n a w a m a
+nyUyOYrka 1.0	n y U y O Y r k a
+nyoCAvara 1.0	n y o C A v a r a
+nyuja 1.0	n y u j a
+o 1.0	o
+oKalA 1.0	o K a l A
+oM 1.0	o M
+oPa 1.0	o P a
+odZIsA 1.0	o d Z I s A
+odZisA 1.0	o d Z i s A
+oksotetrasAiklina 1.0	o k s o t e t r a s A i k l i n a
+olampura 1.0	o l a m p u r a
+olda 1.0	o l d a
+onasI 1.0	o n a s I
+ora 1.0	o r a
+ornAsAMceja 1.0	o r n A s A M c e j a
+osIba 1.0	o s I b a
+ovala 1.0	o v a l a
+ovara 1.0	o v a r a
+pA 1.0	p A
+pAI 1.0	p A I
+pAM 1.0	p A M
+pAMca 1.0	p A M c a
+pAMcsO 1.0	p A M c s O
+pANdava 1.0	p A N d a v a
+pATaka 1.0	p A T a k a
+pAbaMxI 1.0	p A b a M x I
+pAca 1.0	p A c a
+pAdiwa 1.0	p A d i w a
+pAe 1.0	p A e
+pAhAdoM 1.0	p A h A d o M
+pAhadZiyoM 1.0	p A h a d Z i y o M
+pAheM 1.0	p A h e M
+pAiMta 1.0	p A i M t a
+pAka 1.0	p A k a
+pAkara 1.0	p A k a r a
+pAkiswAnI 1.0	p A k i s w A n I
+pAkiswAna 1.0	p A k i s w A n a
+pAkiswAni 1.0	p A k i s w A n i
+pAla 1.0	p A l a
+pAlama 1.0	p A l a m a
+pAlana 1.0	p A l a n a
+pAlikA 1.0	p A l i k A
+pAnI 1.0	p A n I
+pAna 1.0	p A n a
+pArI 1.0	p A r I
+pArSva 1.0	p A r S v a
+pArWiva 1.0	p A r W i v a
+pAra 1.0	p A r a
+pAraMparika 1.0	p A r a M p a r i k a
+pAramparika 1.0	p A r a m p a r i k a
+pArasI 1.0	p A r a s I
+pAresa 1.0	p A r e s a
+pArtI 1.0	p A r t I
+pArtIyo 1.0	p A r t I y o
+pArtiyoM 1.0	p A r t i y o M
+pAsa 1.0	p A s a
+pAta 1.0	p A t a
+pAuxara 1.0	p A u x a r a
+pAvA 1.0	p A v A
+pAvana 1.0	p A v a n a
+pAvani 1.0	p A v a n i
+pAvara 1.0	p A v a r a
+pAwA 1.0	p A w A
+pAwI 1.0	p A w I
+pAwra 1.0	p A w r a
+pAwroM 1.0	p A w r o M
+pAyA 1.0	p A y A
+pAyI 1.0	p A y I
+pAye 1.0	p A y e
+pAyiMta 1.0	p A y i M t a
+pAylata 1.0	p A y l a t a
+pAyleta 1.0	p A y l e t a
+pAzca 1.0	p A z c a
+pAzhucawe 1.0	p A z h u c a w e
+pE 1.0	p E
+pEMta 1.0	p E M t a
+pESa 1.0	p E S a
+pEgambara 1.0	p E g a m b a r a
+pEkeja 1.0	p E k e j a
+pEmAne 1.0	p E m A n e
+pEra 1.0	p E r a
+pEse 1.0	p E s e
+pEwisa 1.0	p E w i s a
+pEwqka 1.0	p E w q k a
+pEwrika 1.0	p E w r i k a
+pEwruka 1.0	p E w r u k a
+pExA 1.0	p E x A
+pI 1.0	p I
+pICe 1.0	p I C e
+pIDZI 1.0	p I D Z I
+pITa 1.0	p I T a
+pIdZA 1.0	p I d Z A
+pIdZiwa 1.0	p I d Z i w a
+pIje 1.0	p I j e
+pIne 1.0	p I n e
+pItA 1.0	p I t A
+pOXA 1.0	p O X A
+pOYtara 1.0	p O Y t a r a
+pOYva 1.0	p O Y v a
+pOne 1.0	p O n e
+pOrANika 1.0	p O r A N i k a
+pOruRa 1.0	p O r u R a
+pOxyalagAyA 1.0	p O x y a l a g A y A
+pUCA 1.0	p U C A
+pUCe 1.0	p U C e
+pUMjI 1.0	p U M j I
+pUcanA 1.0	p U c a n A
+pUjA 1.0	p U j A
+pUrA 1.0	p U r A
+pUrAM 1.0	p U r A M
+pUrI 1.0	p U r I
+pUrNa 1.0	p U r N a
+pUrNimA 1.0	p U r N i m A
+pUre 1.0	p U r e
+pUrvI 1.0	p U r v I
+pUrva 1.0	p U r v a
+pUzCa 1.0	p U z C a
+paDZA 1.0	p a D Z A
+paDZAI 1.0	p a D Z A I
+paDZane 1.0	p a D Z a n e
+paDZawe 1.0	p a D Z a w e
+paDa 1.0	p a D a
+paDane 1.0	p a D a n e
+paMWa 1.0	p a M W a
+paMcAnve 1.0	p a M c A n v e
+paMjAbI 1.0	p a M j A b I
+paMjAba 1.0	p a M j A b a
+paMkaja 1.0	p a M k a j a
+paMwa 1.0	p a M w a
+paMxaraha 1.0	p a M x a r a h a
+paMxraha 1.0	p a M x r a h a
+paNjI 1.0	p a N j I
+paSCima 1.0	p a S C i m a
+paScAwa 1.0	p a S c A w a
+paScimI 1.0	p a S c i m I
+paScima 1.0	p a S c i m a
+paSuoM 1.0	p a S u o M
+paTArI 1.0	p a T A r I
+paWa 1.0	p a W a
+pablika 1.0	p a b l i k a
+pacAsI 1.0	p a c A s I
+pacAsa 1.0	p a c A s a
+pacCima 1.0	p a c C i m a
+pacIsa 1.0	p a c I s a
+paccIsa 1.0	p a c c I s a
+paccawara 1.0	p a c c a w a r a
+padA 1.0	p a d A
+padZA 1.0	p a d Z A
+padZa 1.0	p a d Z a
+padZe 1.0	p a d Z e
+padZeMge 1.0	p a d Z e M g e
+padZegA 1.0	p a d Z e g A
+padZne 1.0	p a d Z n e
+pada 1.0	p a d a
+padane 1.0	p a d a n e
+padawI 1.0	p a d a w I
+padeMgI 1.0	p a d e M g I
+padegA 1.0	p a d e g A
+padegI 1.0	p a d e g I
+padosI 1.0	p a d o s I
+pahADa 1.0	p a h A D a
+pahAdZI 1.0	p a h A d Z I
+pahAdZa 1.0	p a h A d Z a
+pahAdZiyo 1.0	p a h A d Z i y o
+pahUMcAyA 1.0	p a h U M c A y A
+pahaMcA 1.0	p a h a M c A
+pahacAna 1.0	p a h a c A n a
+pahacAnne 1.0	p a h a c A n n e
+pahalA 1.0	p a h a l A
+pahalI 1.0	p a h a l I
+pahalUo 1.0	p a h a l U o
+pahale 1.0	p a h a l e
+pahcI 1.0	p a h c I
+pahiM 1.0	p a h i M
+pahlA 1.0	p a h l A
+pahlI 1.0	p a h l I
+pahle 1.0	p a h l e
+pahuMcA 1.0	p a h u M c A
+pahuMcAyA 1.0	p a h u M c A y A
+pahuMca 1.0	p a h u M c a
+pahuMcne 1.0	p a h u M c n e
+pahucAnevAle 1.0	p a h u c A n e v A l e
+pahuzcA 1.0	p a h u z c A
+pahuzcAne 1.0	p a h u z c A n e
+pahuzcAnevAle 1.0	p a h u z c A n e v A l e
+pahuzca 1.0	p a h u z c a
+pahuzcane 1.0	p a h u z c a n e
+pahuzce 1.0	p a h u z c e
+pahuzcegI 1.0	p a h u z c e g I
+pahuzcne 1.0	p a h u z c n e
+pakRI 1.0	p a k R I
+pakRa 1.0	p a k R a
+pakRoM 1.0	p a k R o M
+pakadA 1.0	p a k a d A
+pakadZA 1.0	p a k a d Z A
+pakadZa 1.0	p a k a d Z a
+pakada 1.0	p a k a d a
+pakiswAna 1.0	p a k i s w A n a
+pakkI 1.0	p a k k I
+paladZa 1.0	p a l a d Z a
+palona 1.0	p a l o n a
+pampalonA 1.0	p a m p a l o n A
+pana 1.0	p a n a
+pannA 1.0	p a n n A
+panne 1.0	p a n n e
+panxraha 1.0	p a n x r a h a
+parAmola 1.0	p a r A m o l a
+parAsa 1.0	p a r A s a
+parIBARiwa 1.0	p a r I B A R i w a
+parINAmke 1.0	p a r I N A m k e
+parINAmoM 1.0	p a r I N A m o M
+parIRaxa 1.0	p a r I R a x a
+parIkRA 1.0	p a r I k R A
+parIsWiwiyo 1.0	p a r I s W i w i y o
+parIsara 1.0	p a r I s a r a
+parIsaroM 1.0	p a r I s a r o M
+para 1.0	p a r a
+paraBI 1.0	p a r a B I
+paraMparA 1.0	p a r a M p a r A
+paraMwu 1.0	p a r a M w u
+parabrahma 1.0	p a r a b r a h m a
+paramANu 1.0	p a r a m A N u
+paramAwmA 1.0	p a r a m A w m A
+parama 1.0	p a r a m a
+parampArIka 1.0	p a r a m p A r I k a
+paramparA 1.0	p a r a m p a r A
+paraspara 1.0	p a r a s p a r a
+paravAha 1.0	p a r a v A h a
+paraveja 1.0	p a r a v e j a
+parawa 1.0	p a r a w a
+pareSAna 1.0	p a r e S A n a
+pareda 1.0	p a r e d a
+pari 1.0	p a r i
+pariNAma 1.0	p a r i N A m a
+pariRaxa 1.0	p a r i R a x a
+paricaya 1.0	p a r i c a y a
+parisWiwI 1.0	p a r i s W i w I
+parisWiwiyaz 1.0	p a r i s W i w i y a z
+parivAra 1.0	p a r i v A r a
+parivArjano 1.0	p a r i v A r j a n o
+parivAroM 1.0	p a r i v A r o M
+parivarwana 1.0	p a r i v a r w a n a
+pariyojanA 1.0	p a r i y o j a n A
+pariyojanAoM 1.0	p a r i y o j a n A o M
+pariyojnA 1.0	p a r i y o j n A
+parmANU 1.0	p a r m A N U
+parmANu 1.0	p a r m A N u
+partI 1.0	p a r t I
+parvA 1.0	p a r v A
+parva 1.0	p a r v a
+parvawIya 1.0	p a r v a w I y a
+parvawa 1.0	p a r v a w a
+parvawoM 1.0	p a r v a w o M
+parvejZa 1.0	p a r v e j Z a
+paryApwa 1.0	p a r y A p w a
+paryAvaraNa 1.0	p a r y A v a r a N a
+paryatana 1.0	p a r y a t a n a
+pasaMxa 1.0	p a s a M x a
+pasanxa 1.0	p a s a n x a
+pasvAnA 1.0	p a s v A n A
+patanA 1.0	p a t a n A
+patela 1.0	p a t e l a
+pavAra 1.0	p a v A r a
+pavana 1.0	p a v a n a
+paviwra 1.0	p a v i w r a
+paviwrawA 1.0	p a v i w r a w A
+pawA 1.0	p a w A
+pawana 1.0	p a w a n a
+pawi 1.0	p a w i
+pawnI 1.0	p a w n I
+pawnIyoM 1.0	p a w n I y o M
+pawniyo 1.0	p a w n i y o
+pawrI 1.0	p a w r I
+pawra 1.0	p a w r a
+pawrakAra 1.0	p a w r a k A r a
+pawrakAriwA 1.0	p a w r a k A r i w A
+pawrakAro 1.0	p a w r a k A r o
+pawrakAroM 1.0	p a w r a k A r o M
+pawrikA 1.0	p a w r i k A
+paxArWa 1.0	p a x A r W a
+paxa 1.0	p a x a
+pe 1.0	p e
+peSAvara 1.0	p e S A v a r a
+peSa 1.0	p e S a
+peSakaSa 1.0	p e S a k a S a
+pecIMga 1.0	p e c I M g a
+peciga 1.0	p e c i g a
+pedZa 1.0	p e d Z a
+pehacAna 1.0	p e h a c A n a
+pehalA 1.0	p e h a l A
+pehale 1.0	p e h a l e
+pehalehI 1.0	p e h a l e h I
+pehlA 1.0	p e h l A
+peja 1.0	p e j a
+perASuta 1.0	p e r A S u t a
+pesa 1.0	p e s a
+petrola 1.0	p e t r o l a
+pevaliyana 1.0	p e v a l i y a n a
+pewqka 1.0	p e w q k a
+peya 1.0	p e y a
+peyajala 1.0	p e y a j a l a
+piCalI 1.0	p i C a l I
+piCale 1.0	p i C a l e
+piClI 1.0	p i C l I
+piCle 1.0	p i C l e
+pitAI 1.0	p i t A I
+piwA 1.0	p i w A
+piwu 1.0	p i w u
+piwwa 1.0	p i w w a
+piya 1.0	p i y a
+plAna 1.0	p l A n a
+plAnta 1.0	p l A n t a
+plesa 1.0	p l e s a
+poMtinga 1.0	p o M t i n g a
+poSa 1.0	p o S a
+pohaMceWe 1.0	p o h a M c e W e
+pohacAne 1.0	p o h a c A n e
+pohuMca 1.0	p o h u M c a
+poiMta 1.0	p o i M t a
+pojISana 1.0	p o j I S a n a
+pojiSana 1.0	p o j i S a n a
+polIna 1.0	p o l I n a
+polIsa 1.0	p o l I s a
+pole 1.0	p o l e
+polita 1.0	p o l i t a
+pone 1.0	p o n e
+porta 1.0	p o r t a
+postmArtama 1.0	p o s t m A r t a m a
+postmOYrtana 1.0	p o s t m O Y r t a n a
+postmortama 1.0	p o s t m o r t a m a
+pqRTa 1.0	p q R T a
+pqRToM 1.0	p q R T o M
+pqWvI 1.0	p q W v I
+prANa 1.0	p r A N a
+prANo 1.0	p r A N o
+prANoM 1.0	p r A N o M
+prAWmIka 1.0	p r A W m I k a
+prAWmika 1.0	p r A W m i k a
+prAXikaraNa 1.0	p r A X i k a r a N a
+prAcIna 1.0	p r A c I n a
+prAcInawama 1.0	p r A c I n a w a m a
+prAkqwa 1.0	p r A k q w a
+prAkqwika 1.0	p r A k q w i k a
+prAkruwIka 1.0	p r A k r u w I k a
+prAnwa 1.0	p r A n w a
+prApwa 1.0	p r A p w a
+prApwi 1.0	p r A p w i
+prArUpa 1.0	p r A r U p a
+prAraMBa 1.0	p r A r a M B a
+prAraMBika 1.0	p r A r a M B i k a
+prAramBa 1.0	p r A r a m B a
+prAramBika 1.0	p r A r a m B i k a
+prAxeSika 1.0	p r A x e S i k a
+prAyaH 1.0	p r A y a H
+prAyaxvIpa 1.0	p r A y a x v I p a
+prIwI 1.0	p r I w I
+prIwi 1.0	p r I w i
+prODZa 1.0	p r O D Z a
+prOxyogikI 1.0	p r O x y o g i k I
+praBAva 1.0	p r a B A v a
+praBAviwa 1.0	p r a B A v i w a
+praBu 1.0	p r a B u
+praRixa 1.0	p r a R i x a
+praSASnika 1.0	p r a S A S n i k a
+praSAraNa 1.0	p r a S A r a N a
+praSAsana 1.0	p r a S A s a n a
+praSAsanika 1.0	p r a S A s a n i k a
+praSAswI 1.0	p r a S A s w I
+praSaMsA 1.0	p r a S a M s A
+praSaMsanIya 1.0	p r a S a M s a n I y a
+praSana 1.0	p r a S a n a
+praSaraNoM 1.0	p r a S a r a N o M
+praSikRaNa 1.0	p r a S i k R a N a
+praSikRiwa 1.0	p r a S i k R i w a
+praSna 1.0	p r a S n a
+praWama 1.0	p r a W a m a
+praXAna 1.0	p r a X A n a
+praXAnamaMwrI 1.0	p r a X A n a m a M w r I
+praXAnamanwrI 1.0	p r a X A n a m a n w r I
+praXAnawA 1.0	p r a X A n a w A
+praXAnmaMwrI 1.0	p r a X A n m a M w r I
+praXAnmanwrI 1.0	p r a X A n m a n w r I
+prabaMXa 1.0	p r a b a M X a
+prabaMXaka 1.0	p r a b a M X a k a
+prabaMXako 1.0	p r a b a M X a k o
+prabaMXakoM 1.0	p r a b a M X a k o M
+prabanXaka 1.0	p r a b a n X a k a
+pracAra 1.0	p r a c A r a
+pracalana 1.0	p r a c a l a n a
+pragata 1.0	p r a g a t a
+pragawi 1.0	p r a g a w i
+pragawiSIla 1.0	p r a g a w i S I l a
+prajA 1.0	p r a j A
+prajAwI 1.0	p r a j A w I
+prajAwi 1.0	p r a j A w i
+prakASa 1.0	p r a k A S a
+prakASana 1.0	p r a k A S a n a
+prakASiwa 1.0	p r a k A S i w a
+prakAra 1.0	p r a k A r a
+prakRepAswra 1.0	p r a k R e p A s w r a
+prakata 1.0	p r a k a t a
+prakoRTI 1.0	p r a k o R T I
+prakqwi 1.0	p r a k q w i
+prakriyA 1.0	p r a k r i y A
+prakriya 1.0	p r a k r i y a
+pramANa 1.0	p r a m A N a
+pramoxa 1.0	p r a m o x a
+pramuKa 1.0	p r a m u K a
+pramuKoM 1.0	p r a m u K o M
+pramuKwA 1.0	p r a m u K w A
+prasArIwa 1.0	p r a s A r I w a
+prasAra 1.0	p r a s A r a
+prasAraNa 1.0	p r a s A r a N a
+prasAriwa 1.0	p r a s A r i w a
+prasAxa 1.0	p r a s A x a
+prasWAna 1.0	p r a s W A n a
+prasaMga 1.0	p r a s a M g a
+prasanna 1.0	p r a s a n n a
+prasannawA 1.0	p r a s a n n a w A
+prasixXa 1.0	p r a s i x X a
+praswAva 1.0	p r a s w A v a
+praswAviwa 1.0	p r a s w A v i w a
+pravAha 1.0	p r a v A h a
+pravAsI 1.0	p r a v A s I
+pravakwA 1.0	p r a v a k w A
+pravakwAne 1.0	p r a v a k w A n e
+pravakwa 1.0	p r a v a k w a
+pravarwaka 1.0	p r a v a r w a k a
+pravarwana 1.0	p r a v a r w a n a
+praveSa 1.0	p r a v e S a
+praveSaxvAra 1.0	p r a v e S a x v A r a
+pravkwA 1.0	p r a v k w A
+pravwA 1.0	p r a v w A
+prawI 1.0	p r a w I
+prawISawa 1.0	p r a w I S a w a
+prawIka 1.0	p r a w I k a
+prawIwa 1.0	p r a w I w a
+prawIyogIwA 1.0	p r a w I y o g I w A
+prawi 1.0	p r a w i
+prawiRTA 1.0	p r a w i R T A
+prawiRTAno 1.0	p r a w i R T A n o
+prawiRTAnoM 1.0	p r a w i R T A n o M
+prawiRTana 1.0	p r a w i R T a n a
+prawiRTiwa 1.0	p r a w i R T i w a
+prawiSawa 1.0	p r a w i S a w a
+prawibaMXa 1.0	p r a w i b a M X a
+prawibaMXana 1.0	p r a w i b a M X a n a
+prawibaMXo 1.0	p r a w i b a M X o
+prawibanXoM 1.0	p r a w i b a n X o M
+prawikRA 1.0	p r a w i k R A
+prawikUla 1.0	p r a w i k U l a
+prawikriyA 1.0	p r a w i k r i y A
+prawiniXI 1.0	p r a w i n i X I
+prawiniXIyoM 1.0	p r a w i n i X I y o M
+prawiniXi 1.0	p r a w i n i X i
+prawiniXiwva 1.0	p r a w i n i X i w v a
+prawiniXiyoM 1.0	p r a w i n i X i y o M
+prawisTAnoM 1.0	p r a w i s T A n o M
+prawisWAnoM 1.0	p r a w i s W A n o M
+prawiviXiyoM 1.0	p r a w i v i X i y o M
+prawixina 1.0	p r a w i x i n a
+prawiyogiwA 1.0	p r a w i y o g i w A
+prawiyogwA 1.0	p r a w i y o g w A
+prawyaya 1.0	p r a w y a y a
+prawyeka 1.0	p r a w y e k a
+praxAna 1.0	p r a x A n a
+praxarSana 1.0	p r a x a r S a n a
+praxarSiwa 1.0	p r a x a r S i w a
+praxeSa 1.0	p r a x e S a
+prayAga 1.0	p r a y A g a
+prayAsa 1.0	p r a y A s a
+prayAso 1.0	p r a y A s o
+prayAsoM 1.0	p r a y A s o M
+prayoga 1.0	p r a y o g a
+prayogaSAlA 1.0	p r a y o g a S A l A
+prayukwa 1.0	p r a y u k w a
+preRaNa 1.0	p r e R a N a
+prema 1.0	p r e m a
+premacaMxa 1.0	p r e m a c a M x a
+prerNA 1.0	p r e r N A
+preriwa 1.0	p r e r i w a
+presa 1.0	p r e s a
+presaTa 1.0	p r e s a T a
+preslara 1.0	p r e s l a r a
+pressa 1.0	p r e s s a
+priMta 1.0	p r i M t a
+pritorIyA 1.0	p r i t o r I y A
+priya 1.0	p r i y a
+priyawama 1.0	p r i y a w a m a
+proPessara 1.0	p r o P e s s a r a
+progrAmiMga 1.0	p r o g r A m i M g a
+prowsAhiwa 1.0	p r o w s A h i w a
+prsAraNa 1.0	p r s A r a N a
+puMja 1.0	p u M j a
+puNyawiWi 1.0	p u N y a w i W i
+puRTi 1.0	p u R T i
+puRpAFjalI 1.0	p u R p A F j a l I
+puRpa 1.0	p u R p a
+puRtI 1.0	p u R t I
+puRti 1.0	p u R t i
+pula 1.0	p u l a
+pulisa 1.0	p u l i s a
+pulisne 1.0	p u l i s n e
+punIwa 1.0	p u n I w a
+punarnirmANa 1.0	p u n a r n i r m A N a
+punarvAsa 1.0	p u n a r v A s a
+puni 1.0	p u n i
+purA 1.0	p u r A
+purANa 1.0	p u r A N a
+purANoM 1.0	p u r A N o M
+purAlWAma 1.0	p u r A l W A m a
+purAnA 1.0	p u r A n A
+purAne 1.0	p u r A n e
+purAwana 1.0	p u r A w a n a
+purI 1.0	p u r I
+purNa 1.0	p u r N a
+purRo 1.0	p u r R o
+purRoM 1.0	p u r R o M
+puraskAra 1.0	p u r a s k A r a
+pure 1.0	p u r e
+puri 1.0	p u r i
+purna 1.0	p u r n a
+purpAyara 1.0	p u r p A y a r a
+purvI 1.0	p u r v I
+purva 1.0	p u r v a
+purvi 1.0	p u r v i
+puryAwIka 1.0	p u r y A w I k a
+puswaka 1.0	p u s w a k a
+puswakeM 1.0	p u s w a k e M
+puswakoM 1.0	p u s w a k o M
+puwAnA 1.0	p u w A n A
+puwlA 1.0	p u w l A
+puwra 1.0	p u w r a
+pyArA 1.0	p y A r A
+pyAra 1.0	p y A r a
+qRi 1.0	q R i
+qgvexa 1.0	q g v e x a
+qwu 1.0	q w u
+rAIPala 1.0	r A I P a l a
+rAIPaloM 1.0	r A I P a l o M
+rAIPalsa 1.0	r A I P a l s a
+rAKA 1.0	r A K A
+rAKi 1.0	r A K i
+rARpawi 1.0	r A R p a w i
+rARta 1.0	r A R t a
+rARtpawi 1.0	r A R t p a w i
+rARtrI 1.0	r A R t r I
+rARtrIya 1.0	r A R t r I y a
+rARtra 1.0	r A R t r a
+rARtrapawI 1.0	r A R t r a p a w I
+rARtrapawi 1.0	r A R t r a p a w i
+rARtrapwi 1.0	r A R t r a p w i
+rARtravAxI 1.0	r A R t r a v A x I
+rARtriya 1.0	r A R t r i y a
+rARtya 1.0	r A R t y a
+rASI 1.0	r A S I
+rASi 1.0	r A S i
+rASwroM 1.0	r A S w r o M
+rATOra 1.0	r A T O r a
+rAU 1.0	r A U
+rAXA 1.0	r A X A
+rAda 1.0	r A d a
+rAhA 1.0	r A h A
+rAhI 1.0	r A h I
+rAhawa 1.0	r A h a w a
+rAhu 1.0	r A h u
+rAiPalsa 1.0	r A i P a l s a
+rAjA 1.0	r A j A
+rAjI 1.0	r A j I
+rAjIva 1.0	r A j I v a
+rAjIyAbAxa 1.0	r A j I y A b A x a
+rAjXAnI 1.0	r A j X A n I
+rAjXAnIka 1.0	r A j X A n I k a
+rAjXAni 1.0	r A j X A n i
+rAjZI 1.0	r A j Z I
+rAja 1.0	r A j a
+rAjaBARA 1.0	r A j a B A R A
+rAjaSAhI 1.0	r A j a S A h I
+rAjaXAnI 1.0	r A j a X A n I
+rAjakumAra 1.0	r A j a k u m A r a
+rAjamArga 1.0	r A j a m A r g a
+rAjanEwika 1.0	r A j a n E w i k a
+rAjanIwI 1.0	r A j a n I w I
+rAjanIwi 1.0	r A j a n I w i
+rAjanOwika 1.0	r A j a n O w i k a
+rAjanayika 1.0	r A j a n a y i k a
+rAjasWAna 1.0	r A j a s W A n a
+rAjawanwra 1.0	r A j a w a n w r a
+rAjawika 1.0	r A j a w i k a
+rAjenxa 1.0	r A j e n x a
+rAjenxra 1.0	r A j e n x r a
+rAjgopAlane 1.0	r A j g o p A l a n e
+rAjkota 1.0	r A j k o t a
+rAjmArga 1.0	r A j m A r g a
+rAjnAWa 1.0	r A j n A W a
+rAjnEka 1.0	r A j n E k a
+rAjnEwika 1.0	r A j n E w i k a
+rAjnIwI 1.0	r A j n I w I
+rAjnIyaka 1.0	r A j n I y a k a
+rAjnayka 1.0	r A j n a y k a
+rAjpAla 1.0	r A j p A l a
+rAjvIra 1.0	r A j v I r a
+rAjxUwa 1.0	r A j x U w a
+rAjya 1.0	r A j y a
+rAjyake 1.0	r A j y a k e
+rAjyapAla 1.0	r A j y a p A l a
+rAjyasaBA 1.0	r A j y a s a B A
+rAjyo 1.0	r A j y o
+rAjyoM 1.0	r A j y o M
+rAmAyaNa 1.0	r A m A y a N a
+rAma 1.0	r A m a
+rAmacaMxra 1.0	r A m a c a M x r a
+rAmahi 1.0	r A m a h i
+rAmcaMxara 1.0	r A m c a M x a r a
+rAmkqRNa 1.0	r A m k q R N a
+rAmu 1.0	r A m u
+rAnI 1.0	r A n I
+rAswA 1.0	r A s w A
+rAswe 1.0	r A s w e
+rAvalpiMdI 1.0	r A v a l p i M d I
+rAvana 1.0	r A v a n a
+rAwBara 1.0	r A w B a r a
+rAwa 1.0	r A w a
+rAya 1.0	r A y a
+rAzcI 1.0	r A z c I
+rEPalsa 1.0	r E P a l s a
+rElI 1.0	r E l I
+rElve 1.0	r E l v e
+rIwi 1.0	r I w i
+rOSanI 1.0	r O S a n I
+rOYna 1.0	r O Y n a
+rUKa 1.0	r U K a
+rUpa 1.0	r U p a
+rUsa 1.0	r U s a
+ra 1.0	r a
+raGubIra 1.0	r a G u b I r a
+raGupawi 1.0	r a G u p a w i
+raKA 1.0	r a K A
+raKI 1.0	r a K I
+raKa 1.0	r a K a
+raKanA 1.0	r a K a n A
+raKane 1.0	r a K a n e
+raKawA 1.0	r a K a w A
+raKawI 1.0	r a K a w I
+raKe 1.0	r a K e
+raKeM 1.0	r a K e M
+raKegA 1.0	r a K e g A
+raKegI 1.0	r a K e g I
+raKege 1.0	r a K e g e
+raKkara 1.0	r a K k a r a
+raKnA 1.0	r a K n A
+raKnI 1.0	r a K n I
+raKne 1.0	r a K n e
+raKwa 1.0	r a K w a
+raKwe 1.0	r a K w e
+raMgA 1.0	r a M g A
+raMgAraMga 1.0	r a M g A r a M g a
+raMga 1.0	r a M g a
+raMgoM 1.0	r a M g o M
+raMgolI 1.0	r a M g o l I
+raNa 1.0	r a N a
+raNnIwi 1.0	r a N n I w i
+raPZI 1.0	r a P Z I
+raRtrapawi 1.0	r a R t r a p a w i
+raRtriya 1.0	r a R t r i y a
+raSIxI 1.0	r a S I x I
+raSIxa 1.0	r a S I x a
+racA 1.0	r a c A
+racI 1.0	r a c I
+racanA 1.0	r a c a n A
+racanAeM 1.0	r a c a n A e M
+racanAoM 1.0	r a c a n A o M
+raci 1.0	r a c i
+raciwa 1.0	r a c i w a
+rahA 1.0	r a h A
+rahI 1.0	r a h I
+rahIma 1.0	r a h I m a
+raha 1.0	r a h a
+rahakara 1.0	r a h a k a r a
+rahanA 1.0	r a h a n A
+rahane 1.0	r a h a n e
+rahawA 1.0	r a h a w A
+rahawI 1.0	r a h a w I
+rahe 1.0	r a h e
+raheM 1.0	r a h e M
+raheMge 1.0	r a h e M g e
+rahegA 1.0	r a h e g A
+rahegI 1.0	r a h e g I
+rahege 1.0	r a h e g e
+rahi 1.0	r a h i
+rahnA 1.0	r a h n A
+rahnI 1.0	r a h n I
+rahne 1.0	r a h n e
+rahwe 1.0	r a h w e
+rajXAnI 1.0	r a j X A n I
+rajya 1.0	r a j y a
+rakRA 1.0	r a k R A
+rakRAbaMXana 1.0	r a k R A b a M X a n a
+rakRAkoSa 1.0	r a k R A k o S a
+rakwa 1.0	r a k w a
+rakwaxAna 1.0	r a k w a x A n a
+rana 1.0	r a n a
+rano 1.0	r a n o
+ranoM 1.0	r a n o M
+rasa 1.0	r a s a
+rasaxa 1.0	r a s a x a
+raswogI 1.0	r a s w o g I
+raswoga 1.0	r a s w o g a
+ravAnA 1.0	r a v A n A
+ravEyA 1.0	r a v E y A
+ravEye 1.0	r a v E y e
+ravayye 1.0	r a v a y y e
+ravi 1.0	r a v i
+ravivAra 1.0	r a v i v A r a
+rawa 1.0	r a w a
+rayitara 1.0	r a y i t a r a
+reKA 1.0	r e K A
+reKa 1.0	r e K a
+reMja 1.0	r e M j a
+redIyo 1.0	r e d I y o
+reddI 1.0	r e d d I
+rediyo 1.0	r e d i y o
+rehnA 1.0	r e h n A
+rehrahA 1.0	r e h r a h A
+rejImeMta 1.0	r e j I m e M t a
+rejImenta 1.0	r e j I m e n t a
+rejimEnta 1.0	r e j i m E n t a
+rejimeMta 1.0	r e j i m e M t a
+rekorda 1.0	r e k o r d a
+rela 1.0	r e l a
+relo 1.0	r e l o
+relve 1.0	r e l v e
+remaMda 1.0	r e m a M d a
+resIke 1.0	r e s I k e
+reta 1.0	r e t a
+rewIle 1.0	r e w I l e
+riNa 1.0	r i N a
+riRi 1.0	r i R i
+ridiMga 1.0	r i d i M g a
+ridlI 1.0	r i d l I
+rija 1.0	r i j a
+rijarva 1.0	r i j a r v a
+rikArda 1.0	r i k A r d a
+rikkI 1.0	r i k k I
+rikorda 1.0	r i k o r d a
+riktara 1.0	r i k t a r a
+rileSansa 1.0	r i l e S a n s a
+riporta 1.0	r i p o r t a
+riportoM 1.0	r i p o r t o M
+ritarna 1.0	r i t a r n a
+ritarnsa 1.0	r i t a r n s a
+roKe 1.0	r o K e
+roKne 1.0	r o K n e
+rocaka 1.0	r o c a k a
+rogI 1.0	r o g I
+rohwaka 1.0	r o h w a k a
+rojZa 1.0	r o j Z a
+rojZmarA 1.0	r o j Z m a r A
+roka 1.0	r o k a
+rokane 1.0	r o k a n e
+rokne 1.0	r o k n e
+romAMcaka 1.0	r o m A M c a k a
+romana 1.0	r o m a n a
+ropaNa 1.0	r o p a N a
+rowaka 1.0	r o w a k a
+roweSana 1.0	r o w e S a n a
+ruKa 1.0	r u K a
+rucI 1.0	r u c I
+rucira 1.0	r u c i r a
+ruka 1.0	r u k a
+rupa 1.0	r u p a
+rupayA 1.0	r u p a y A
+rupaya 1.0	r u p a y a
+rupaye 1.0	r u p a y e
+rupye 1.0	r u p y e
+rusI 1.0	r u s I
+rusa 1.0	r u s a
+ruxra 1.0	r u x r a
+ruxranAWa 1.0	r u x r a n A W a
+sA 1.0	s A
+sADZe 1.0	s A D Z e
+sADe 1.0	s A D e
+sAMGvI 1.0	s A M G v I
+sAMdo 1.0	s A M d o
+sAMpraxAyika 1.0	s A M p r a x A y i k a
+sAMsa 1.0	s A M s a
+sAMsaxa 1.0	s A M s a x a
+sAMskqwika 1.0	s A M s k q w i k a
+sAPa 1.0	s A P a
+sAPxeKe 1.0	s A P x e K e
+sATa 1.0	s A T a
+sAWI 1.0	s A W I
+sAWa 1.0	s A W a
+sAWasAWa 1.0	s A W a s A W a
+sAXAraNa 1.0	s A X A r a N a
+sAXana 1.0	s A X a n a
+sAbiwa 1.0	s A b i w a
+sAdZe 1.0	s A d Z e
+sAde 1.0	s A d e
+sAgara 1.0	s A g a r a
+sAhA 1.0	s A h A
+sAhAyawA 1.0	s A h A y a w A
+sAhiwya 1.0	s A h i w y a
+sAhiwyakAra 1.0	s A h i w y a k A r a
+sAhiwyika 1.0	s A h i w y i k a
+sAjISeM 1.0	s A j I S e M
+sAjexAra 1.0	s A j e x A r a
+sAjixa 1.0	s A j i x a
+sAju 1.0	s A j u
+sAlAnA 1.0	s A l A n A
+sAla 1.0	s A l a
+sAmAjika 1.0	s A m A j i k a
+sAmAna 1.0	s A m A n a
+sAmAnya 1.0	s A m A n y a
+sAmIla 1.0	s A m I l a
+sAmagrI 1.0	s A m a g r I
+sAmane 1.0	s A m a n e
+sAmila 1.0	s A m i l a
+sAmnA 1.0	s A m n A
+sAmne 1.0	s A m n e
+sAmrAjya 1.0	s A m r A j y a
+sAmrIka 1.0	s A m r I k a
+sAmrika 1.0	s A m r i k a
+sAnuja 1.0	s A n u j a
+sAnyAla 1.0	s A n y A l a
+sArA 1.0	s A r A
+sArI 1.0	s A r I
+sAre 1.0	s A r e
+sArvjanika 1.0	s A r v j a n i k a
+sAsu 1.0	s A s u
+sAvXAna 1.0	s A v X A n a
+sAvaXAna 1.0	s A v a X A n a
+sAvana 1.0	s A v a n a
+sAwa 1.0	s A w a
+sAxara 1.0	s A x a r a
+sAzcA 1.0	s A z c A
+sAzce 1.0	s A z c e
+sEMkadZo 1.0	s E M k a d Z o
+sEla 1.0	s E l a
+sEnA 1.0	s E n A
+sEnIka 1.0	s E n I k a
+sEnika 1.0	s E n i k a
+sEniko 1.0	s E n i k o
+sEnikoM 1.0	s E n i k o M
+sEnya 1.0	s E n y a
+sEta 1.0	s E t a
+sEto 1.0	s E t o
+sI 1.0	s I
+sIXA 1.0	s I X A
+sIXI 1.0	s I X I
+sIXe 1.0	s I X e
+sIla 1.0	s I l a
+sIlu 1.0	s I l u
+sImA 1.0	s I m A
+sImAvargI 1.0	s I m A v a r g I
+sImAvarwI 1.0	s I m A v a r w I
+sImiwa 1.0	s I m i w a
+sIta 1.0	s I t a
+sItoM 1.0	s I t o M
+sIwA 1.0	s I w A
+sIyAcina 1.0	s I y A c i n a
+sKvadrana 1.0	s K v a d r a n a
+sO 1.0	s O
+sOBAgya 1.0	s O B A g y a
+sOMpA 1.0	s O M p A
+sOMpE 1.0	s O M p E
+sOMpa 1.0	s O M p a
+sOMpe 1.0	s O M p e
+sOMxarya 1.0	s O M x a r y a
+sOra 1.0	s O r a
+sOraBa 1.0	s O r a B a
+sOrava 1.0	s O r a v a
+sOxe 1.0	s O x e
+sU 1.0	s U
+sUbexAra 1.0	s U b e x A r a
+sUcI 1.0	s U c I
+sUcakAMka 1.0	s U c a k A M k a
+sUcanA 1.0	s U c a n A
+sUcanAyukwa 1.0	s U c a n A y u k w a
+sUcnA 1.0	s U c n A
+sUpara 1.0	s U p a r a
+sUrA 1.0	s U r A
+sUrajBAna 1.0	s U r a j B A n a
+sUrya 1.0	s U r y a
+sUwroM 1.0	s U w r o M
+sWAnIya 1.0	s W A n I y a
+sWAna 1.0	s W A n a
+sWAno 1.0	s W A n o
+sWAnoM 1.0	s W A n o M
+sWApanA 1.0	s W A p a n A
+sWApiwa 1.0	s W A p i w a
+sWApnA 1.0	s W A p n A
+sWagIwa 1.0	s W a g I w a
+sWagiwa 1.0	s W a g i w a
+sWala 1.0	s W a l a
+sWanoM 1.0	s W a n o M
+sWapiwa 1.0	s W a p i w a
+sWayi 1.0	s W a y i
+sWira 1.0	s W i r a
+sWiwI 1.0	s W i w I
+sWiwa 1.0	s W i w a
+sWiwi 1.0	s W i w i
+sWiwiyoM 1.0	s W i w i y o M
+saBA 1.0	s a B A
+saBI 1.0	s a B I
+saByawA 1.0	s a B y a w A
+saKA 1.0	s a K A
+saKwI 1.0	s a K w I
+saM 1.0	s a M
+saMBAva 1.0	s a M B A v a
+saMBAvnA 1.0	s a M B A v n A
+saMBAvnAye 1.0	s a M B A v n A y e
+saMBava 1.0	s a M B a v a
+saMBu 1.0	s a M B u
+saMGa 1.0	s a M G a
+saMGaTanA 1.0	s a M G a T a n A
+saMGaTana 1.0	s a M G a T a n a
+saMGaTano 1.0	s a M G a T a n o
+saMGaTanoM 1.0	s a M G a T a n o M
+saMGarRa 1.0	s a M G a r R a
+saMGarRnA 1.0	s a M G a r R n A
+saMGarRpUrNa 1.0	s a M G a r R p U r N a
+saMGata 1.0	s a M G a t a
+saMGatana 1.0	s a M G a t a n a
+saMGatanoM 1.0	s a M G a t a n o M
+saMKyA 1.0	s a M K y A
+saMKyaka 1.0	s a M K y a k a
+saMSoXaM 1.0	s a M S o X a M
+saMSoXana 1.0	s a M S o X a n a
+saMbAxxAwoM 1.0	s a M b A x x A w o M
+saMbaMXI 1.0	s a M b a M X I
+saMbaMXa 1.0	s a M b a M X a
+saMbaMXiwa 1.0	s a M b a M X i w a
+saMbaMXo 1.0	s a M b a M X o
+saMbanXI 1.0	s a M b a n X I
+saMbanXiwa 1.0	s a M b a n X i w a
+saMbanXoM 1.0	s a M b a n X o M
+saMbaxXa 1.0	s a M b a x X a
+saMboXiwa 1.0	s a M b o X i w a
+saMcAlaka 1.0	s a M c A l a k a
+saMcAra 1.0	s a M c A r a
+saMgIwa 1.0	s a M g I w a
+saMgIwakAra 1.0	s a M g I w a k A r a
+saMga 1.0	s a M g a
+saMgaNaka 1.0	s a M g a N a k a
+saMgaTana 1.0	s a M g a T a n a
+saMgaTano 1.0	s a M g a T a n o
+saMgaTanoM 1.0	s a M g a T a n o M
+saMgaTanoneM 1.0	s a M g a T a n o n e M
+saMgaTnoM 1.0	s a M g a T n o M
+saMgama 1.0	s a M g a m a
+saMgara 1.0	s a M g a r a
+saMgatana 1.0	s a M g a t a n a
+saMgatanoM 1.0	s a M g a t a n o M
+saMgatnoM 1.0	s a M g a t n o M
+saMgrAma 1.0	s a M g r A m a
+saMgra 1.0	s a M g r a
+saMgraha 1.0	s a M g r a h a
+saMha 1.0	s a M h a
+saMjaya 1.0	s a M j a y a
+saMkRepa 1.0	s a M k R e p a
+saMkRipwa 1.0	s a M k R i p w a
+saMkalpa 1.0	s a M k a l p a
+saMkata 1.0	s a M k a t a
+saMkewa 1.0	s a M k e w a
+saMmAna 1.0	s a M m A n a
+saMmelana 1.0	s a M m e l a n a
+saMnyAsa 1.0	s a M n y A s a
+saMpAxana 1.0	s a M p A x a n a
+saMpUrNa 1.0	s a M p U r N a
+saMparka 1.0	s a M p a r k a
+saMrakRaNa 1.0	s a M r a k R a N a
+saMsAXana 1.0	s a M s A X a n a
+saMsAra 1.0	s a M s A r a
+saMsWA 1.0	s a M s W A
+saMsWAna 1.0	s a M s W A n a
+saMsWAnoM 1.0	s a M s W A n o M
+saMsWAoM 1.0	s a M s W A o M
+saMsWApaka 1.0	s a M s W A p a k a
+saMsaxa 1.0	s a M s a x a
+saMsaya 1.0	s a M s a y a
+saMskAra 1.0	s a M s k A r a
+saMskaraNa 1.0	s a M s k a r a N a
+saMskqwa 1.0	s a M s k q w a
+saMskqwi 1.0	s a M s k q w i
+saMvAxAwA 1.0	s a M v A x A w A
+saMvAxxAwA 1.0	s a M v A x x A w A
+saMvAxxAwAoM 1.0	s a M v A x x A w A o M
+saMvAxxAwAvoM 1.0	s a M v A x x A w A v o M
+saMvexI 1.0	s a M v e x I
+saMviXAna 1.0	s a M v i X A n a
+saMwa 1.0	s a M w a
+saMwoSa 1.0	s a M w o S a
+saMxarBa 1.0	s a M x a r B a
+saMxeSa 1.0	s a M x e S a
+saMxehAspaxa 1.0	s a M x e h A s p a x a
+saMyama 1.0	s a M y a m a
+saMyanwra 1.0	s a M y a n w r a
+saMyojaka 1.0	s a M y o j a k a
+saMyukwa 1.0	s a M y u k w a
+saPAyA 1.0	s a P A y A
+saPala 1.0	s a P a l a
+saPalawA 1.0	s a P a l a w A
+saPalwA 1.0	s a P a l w A
+saPalwAyeM 1.0	s a P a l w A y e M
+saSakaWa 1.0	s a S a k a W a
+saSakwa 1.0	s a S a k w a
+saSaswra 1.0	s a S a s w r a
+saWI 1.0	s a W I
+saXe 1.0	s a X e
+sabUwa 1.0	s a b U w a
+saba 1.0	s a b a
+sabahi 1.0	s a b a h i
+sabake 1.0	s a b a k e
+sabako 1.0	s a b a k o
+sabase 1.0	s a b a s e
+sabere 1.0	s a b e r e
+sabko 1.0	s a b k o
+sabse 1.0	s a b s e
+sabxi 1.0	s a b x i
+sacIva 1.0	s a c I v a
+saca 1.0	s a c a
+sacamuca 1.0	s a c a m u c a
+sacce 1.0	s a c c e
+sacivAlaya 1.0	s a c i v A l a y a
+saciva 1.0	s a c i v a
+sacivoM 1.0	s a c i v o M
+sadZaka 1.0	s a d Z a k a
+sadaka 1.0	s a d a k a
+sahAnaBUwI 1.0	s a h A n a B U w I
+sahArA 1.0	s a h A r A
+sahAyaka 1.0	s a h A y a k a
+sahAyawA 1.0	s a h A y a w A
+sahAywA 1.0	s a h A y w A
+sahI 1.0	s a h I
+sahIwa 1.0	s a h I w a
+sahIxa 1.0	s a h I x a
+sahaja 1.0	s a h a j a
+sahamawI 1.0	s a h a m a w I
+sahamawa 1.0	s a h a m a w a
+sahanA 1.0	s a h a n A
+sahayawA 1.0	s a h a y a w A
+sahayoga 1.0	s a h a y o g a
+sahiwa 1.0	s a h i w a
+sahmawI 1.0	s a h m a w I
+sahmawa 1.0	s a h m a w a
+sahyoga 1.0	s a h y o g a
+sahyogiyoM 1.0	s a h y o g i y o M
+sajA 1.0	s a j A
+sajZA 1.0	s a j Z A
+sajala 1.0	s a j a l a
+sajjAxa 1.0	s a j j A x a
+sajjana 1.0	s a j j a n a
+sakA 1.0	s a k A
+saka 1.0	s a k a
+sakai 1.0	s a k a i
+sakalYa 1.0	s a k a l Y a
+sakala 1.0	s a k a l a
+sakawA 1.0	s a k a w A
+sakawI 1.0	s a k a w I
+sakawe 1.0	s a k a w e
+sake 1.0	s a k e
+sakegA 1.0	s a k e g A
+sakege 1.0	s a k e g e
+saklena 1.0	s a k l e n a
+sakriya 1.0	s a k r i y a
+saktara 1.0	s a k t a r a
+sakwA 1.0	s a k w A
+sakwI 1.0	s a k w I
+sakwe 1.0	s a k w e
+salAha 1.0	s a l A h a
+salAhkAra 1.0	s a l A h k A r a
+salAmI 1.0	s a l A m I
+salAxIna 1.0	s a l A x I n a
+salahkAra 1.0	s a l a h k A r a
+salmAna 1.0	s a l m A n a
+samAXAna 1.0	s a m A X A n a
+samAcAra 1.0	s a m A c A r a
+samAcAro 1.0	s a m A c A r o
+samAcara 1.0	s a m A c a r a
+samAja 1.0	s a m A j a
+samAjvAxI 1.0	s a m A j v A x I
+samAna 1.0	s a m A n a
+samApwa 1.0	s a m A p w a
+samAroha 1.0	s a m A r o h a
+samAveSa 1.0	s a m A v e S a
+samBAlA 1.0	s a m B A l A
+samBAlne 1.0	s a m B A l n e
+samBAvanA 1.0	s a m B A v a n A
+samBAvnA 1.0	s a m B A v n A
+samBava 1.0	s a m B a v a
+samBavnA 1.0	s a m B a v n A
+samBoxiwa 1.0	s a m B o x i w a
+samIkRA 1.0	s a m I k R A
+samIkaraNa 1.0	s a m I k a r a N a
+samJOMwo 1.0	s a m J O M w o
+samJOwA 1.0	s a m J O w A
+samJOwe 1.0	s a m J O w e
+samJe 1.0	s a m J e
+samJowe 1.0	s a m J o w e
+samJowo 1.0	s a m J o w o
+samUce 1.0	s a m U c e
+samUha 1.0	s a m U h a
+sama 1.0	s a m a
+samaJOwe 1.0	s a m a J O w e
+samaJa 1.0	s a m a J a
+samaJane 1.0	s a m a J a n e
+samaJawe 1.0	s a m a J a w e
+samakRa 1.0	s a m a k R a
+samaprawa 1.0	s a m a p r a w a
+samarWa 1.0	s a m a r W a
+samarWaka 1.0	s a m a r W a k a
+samarWana 1.0	s a m a r W a n a
+samarWiwa 1.0	s a m a r W i w a
+samara 1.0	s a m a r a
+samarpIwa 1.0	s a m a r p I w a
+samarpiwa 1.0	s a m a r p i w a
+samaswa 1.0	s a m a s w a
+samasyA 1.0	s a m a s y A
+samasyAoM 1.0	s a m a s y A o M
+samawA 1.0	s a m a w A
+samawala 1.0	s a m a w a l a
+samawulya 1.0	s a m a w u l y a
+samaya 1.0	s a m a y a
+sambaMXa 1.0	s a m b a M X a
+sambaMXiwa 1.0	s a m b a M X i w a
+sambaMXoM 1.0	s a m b a M X o M
+sambanXa 1.0	s a m b a n X a
+sambanXiwa 1.0	s a m b a n X i w a
+samboXIwa 1.0	s a m b o X I w a
+samboXiwa 1.0	s a m b o X i w a
+samewa 1.0	s a m e w a
+samiwI 1.0	s a m i w I
+samiwi 1.0	s a m i w i
+samjOwA 1.0	s a m j O w A
+sammAna 1.0	s a m m A n a
+sammelana 1.0	s a m m e l a n a
+sammellana 1.0	s a m m e l l a n a
+sampAxana 1.0	s a m p A x a n a
+sampUrNa 1.0	s a m p U r N a
+samparka 1.0	s a m p a r k a
+sampawI 1.0	s a m p a w I
+sampawa 1.0	s a m p a w a
+sampraxAya 1.0	s a m p r a x A y a
+samqxXa 1.0	s a m q x X a
+samqxXi 1.0	s a m q x X i
+samrAta 1.0	s a m r A t a
+samuJAvA 1.0	s a m u J A v A
+samuJawa 1.0	s a m u J a w a
+samuJi 1.0	s a m u J i
+samuce 1.0	s a m u c e
+samuha 1.0	s a m u h a
+samuxAhI 1.0	s a m u x A h I
+samuxAya 1.0	s a m u x A y a
+samuxrI 1.0	s a m u x r I
+samuxra 1.0	s a m u x r a
+samvAxAwA 1.0	s a m v A x A w A
+samvAxawA 1.0	s a m v A x a w A
+samvAxaxA 1.0	s a m v A x a x A
+samvAxaxAwA 1.0	s a m v A x a x A w A
+samvAxxAwA 1.0	s a m v A x x A w A
+samvAxxAwAoM 1.0	s a m v A x x A w A o M
+samvAxxAwa 1.0	s a m v A x x A w a
+samvaxxAwA 1.0	s a m v a x x A w A
+samviXAna 1.0	s a m v i X A n a
+sanAwana 1.0	s a n A w a n a
+sanGa 1.0	s a n G a
+sana 1.0	s a n a
+sanmuKa 1.0	s a n m u K a
+sanpaWa 1.0	s a n p a W a
+sanxeSa 1.0	s a n x e S a
+sapaWa 1.0	s a p a W a
+sapanehuz 1.0	s a p a n e h u z
+saplAI 1.0	s a p l A I
+saplAya 1.0	s a p l A y a
+saplE 1.0	s a p l E
+sapne 1.0	s a p n e
+saprema 1.0	s a p r e m a
+sapwAha 1.0	s a p w A h a
+sapwAhoM 1.0	s a p w A h o M
+sarAha 1.0	s a r A h a
+sarAhanIya 1.0	s a r A h a n I y a
+sarAhnA 1.0	s a r A h n A
+sarAsara 1.0	s a r A s a r a
+sarAya 1.0	s a r A y a
+sara 1.0	s a r a
+sarakArI 1.0	s a r a k A r I
+sarakAra 1.0	s a r a k A r a
+sarala 1.0	s a r a l a
+sarasvawI 1.0	s a r a s v a w I
+sarba 1.0	s a r b a
+sarhanA 1.0	s a r h a n A
+sarhaxa 1.0	s a r h a x a
+sarisa 1.0	s a r i s a
+sariwA 1.0	s a r i w A
+sarkArI 1.0	s a r k A r I
+sarkAra 1.0	s a r k A r a
+saroja 1.0	s a r o j a
+sarvAXika 1.0	s a r v A X i k a
+sarvIsesa 1.0	s a r v I s e s a
+sarva 1.0	s a r v a
+sarvaSreRTa 1.0	s a r v a S r e R T a
+sarvaWA 1.0	s a r v a W A
+sarvanAma 1.0	s a r v a n A m a
+sarvapraWama 1.0	s a r v a p r a W a m a
+sarvawra 1.0	s a r v a w r a
+sarvekRana 1.0	s a r v e k R a n a
+sarviseja 1.0	s a r v i s e j a
+sarvocca 1.0	s a r v o c c a
+sarvowwama 1.0	s a r v o w w a m a
+sarwAjZa 1.0	s a r w A j Z a
+sarwAja 1.0	s a r w A j a
+sarxI 1.0	s a r x I
+sarxIyAI 1.0	s a r x I y A I
+satorIoM 1.0	s a t o r I o M
+satorIyo 1.0	s a t o r I y o
+savA 1.0	s a v A
+savAla 1.0	s a v A l a
+savAlo 1.0	s a v A l o
+savAloM 1.0	s a v A l o M
+savAra 1.0	s a v A r a
+savAya 1.0	s a v A y a
+savaca 1.0	s a v a c a
+savere 1.0	s a v e r e
+sawa 1.0	s a w a
+sawarka 1.0	s a w a r k a
+sawarkwA 1.0	s a w a r k w A
+sawra 1.0	s a w r a
+sawrahvI 1.0	s a w r a h v I
+sawwAXArI 1.0	s a w w A X A r I
+sawwAisa 1.0	s a w w A i s a
+sawwa 1.0	s a w w a
+sawwaIsa 1.0	s a w w a I s a
+sawwara 1.0	s a w w a r a
+sawwaraha 1.0	s a w w a r a h a
+sawya 1.0	s a w y a
+sawyajiwa 1.0	s a w y a j i w a
+sawyanArAyaNa 1.0	s a w y a n A r A y a N a
+saxA 1.0	s a x A
+saxana 1.0	s a x a n a
+saxasya 1.0	s a x a s y a
+saxasyavAlI 1.0	s a x a s y a v A l I
+saxasyoM 1.0	s a x a s y o M
+saxiyoM 1.0	s a x i y o M
+sayukwa 1.0	s a y u k w a
+sazyukwa 1.0	s a z y u k w a
+se 1.0	s e
+seBI 1.0	s e B I
+seMkdZo 1.0	s e M k d Z o
+seMnAo 1.0	s e M n A o
+seMseksa 1.0	s e M s e k s a
+seMtImItara 1.0	s e M t I m I t a r a
+sehmawa 1.0	s e h m a w a
+sekadoM 1.0	s e k a d o M
+sektara 1.0	s e k t a r a
+sektaroM 1.0	s e k t a r o M
+sektroM 1.0	s e k t r o M
+selsIyasa 1.0	s e l s I y a s a
+selsiasa 1.0	s e l s i a s a
+selsiyasa 1.0	s e l s i y a s a
+semI 1.0	s e m I
+semIPAInala 1.0	s e m I P A I n a l a
+semIPZEnala 1.0	s e m I P Z E n a l a
+semIPaInala 1.0	s e m I P a I n a l a
+senA 1.0	s e n A
+senAe 1.0	s e n A e
+senAke 1.0	s e n A k e
+senAnI 1.0	s e n A n I
+senAne 1.0	s e n A n e
+senAniyoM 1.0	s e n A n i y o M
+senAo 1.0	s e n A o
+senAoM 1.0	s e n A o M
+senAye 1.0	s e n A y e
+senAyeM 1.0	s e n A y e M
+senIkoM 1.0	s e n I k o M
+sena 1.0	s e n a
+senikoM 1.0	s e n i k o M
+senxi 1.0	s e n x i
+serA 1.0	s e r A
+setalmeMta 1.0	s e t a l m e M t a
+seto 1.0	s e t o
+sevA 1.0	s e v A
+sevAoM 1.0	s e v A o M
+sevI 1.0	s e v I
+seva 1.0	s e v a
+sevaka 1.0	s e v a k a
+sevena 1.0	s e v e n a
+sewA 1.0	s e w A
+siKa 1.0	s i K a
+siMGa 1.0	s i M G a
+siMGala 1.0	s i M G a l a
+siMga 1.0	s i M g a
+siMgalsa 1.0	s i M g a l s a
+siMhA 1.0	s i M h A
+siMha 1.0	s i M h a
+siPAriSa 1.0	s i P A r i S a
+siPesa 1.0	s i P e s a
+siXI 1.0	s i X I
+sicAI 1.0	s i c A I
+signala 1.0	s i g n a l a
+sikKa 1.0	s i k K a
+sikkima 1.0	s i k k i m a
+siksa 1.0	s i k s a
+silasilA 1.0	s i l a s i l A
+silsIlA 1.0	s i l s I l A
+silsile 1.0	s i l s i l e
+sinGa 1.0	s i n G a
+sinemA 1.0	s i n e m A
+sineta 1.0	s i n e t a
+sinhA 1.0	s i n h A
+sipAI 1.0	s i p A I
+sipAhI 1.0	s i p A h I
+sirPZa 1.0	s i r P Z a
+sirPa 1.0	s i r P a
+sira 1.0	s i r a
+sirapa 1.0	s i r a p a
+siru 1.0	s i r u
+sisara 1.0	s i s a r a
+sisu 1.0	s i s u
+sitI 1.0	s i t I
+sita 1.0	s i t a
+siva 1.0	s i v a
+sixXAnwa 1.0	s i x X A n w a
+sixXa 1.0	s i x X a
+siyAcIna 1.0	s i y A c I n a
+siyAcina 1.0	s i y A c i n a
+skAUca 1.0	s k A U c a
+skAutsa 1.0	s k A u t s a
+skIma 1.0	s k I m a
+skUla 1.0	s k U l a
+skora 1.0	s k o r a
+skvAdrana 1.0	s k v A d r a n a
+slema 1.0	s l e m a
+smaraNa 1.0	s m a r a N a
+smqwi 1.0	s m q w i
+snAna 1.0	s n A n a
+sneha 1.0	s n e h a
+so 1.0	s o
+soI 1.0	s o I
+soMpA 1.0	s o M p A
+soPtvera 1.0	s o P t v e r a
+socA 1.0	s o c A
+soca 1.0	s o c a
+socanA 1.0	s o c a n A
+sohAwa 1.0	s o h A w a
+solaha 1.0	s o l a h a
+somavAra 1.0	s o m a v A r a
+somvAra 1.0	s o m v A r a
+sonA 1.0	s o n A
+sone 1.0	s o n e
+soniyA 1.0	s o n i y A
+soviyawa 1.0	s o v i y a w a
+spEna 1.0	s p E n a
+spaRta 1.0	s p a R t a
+sparXA 1.0	s p a r X A
+spinara 1.0	s p i n a r a
+sqRti 1.0	s q R t i
+srowa 1.0	s r o w a
+stAka 1.0	s t A k a
+steSana 1.0	s t e S a n a
+stediyama 1.0	s t e d i y a m a
+strigara 1.0	s t r i g a r a
+studiyo 1.0	s t u d i y o
+su 1.0	s u
+suBAU 1.0	s u B A U
+suBa 1.0	s u B a
+suBaga 1.0	s u B a g a
+suBaha 1.0	s u B a h a
+suBaxrA 1.0	s u B a x r A
+suJAva 1.0	s u J A v a
+suJAvoM 1.0	s u J A v o M
+suKa 1.0	s u K a
+suKaxa 1.0	s u K a x a
+suMxara 1.0	s u M x a r a
+suPala 1.0	s u P a l a
+suSrI 1.0	s u S r I
+suXAra 1.0	s u X A r a
+suXi 1.0	s u X i
+subaha 1.0	s u b a h a
+subaramaNyama 1.0	s u b a r a m a N y a m a
+subeha 1.0	s u b e h a
+subramaNyama 1.0	s u b r a m a N y a m a
+subramaniyana 1.0	s u b r a m a n i y a n a
+sucArU 1.0	s u c A r U
+sucakAMka 1.0	s u c a k A M k a
+sucnA 1.0	s u c n A
+sugrIva 1.0	s u g r I v a
+suhArwo 1.0	s u h A r w o
+suhAvA 1.0	s u h A v A
+sujana 1.0	s u j a n a
+sukRA 1.0	s u k R A
+sukRI 1.0	s u k R I
+sulJAne 1.0	s u l J A n e
+sulJAyA 1.0	s u l J A y A
+sulJegA 1.0	s u l J e g A
+sulupa 1.0	s u l u p a
+sulwAna 1.0	s u l w A n a
+sumIwa 1.0	s u m I w a
+sumana 1.0	s u m a n a
+sumiri 1.0	s u m i r i
+sumiwa 1.0	s u m i w a
+sunA 1.0	s u n A
+sunI 1.0	s u n I
+sunahu 1.0	s u n a h u
+sunavAI 1.0	s u n a v A I
+sunawa 1.0	s u n a w a
+sune 1.0	s u n e
+suni 1.0	s u n i
+suniSciwa 1.0	s u n i S c i w a
+sunikRiwa 1.0	s u n i k R i w a
+sunu 1.0	s u n u
+sunvAI 1.0	s u n v A I
+sunxara 1.0	s u n x a r a
+sunxarpura 1.0	s u n x a r p u r a
+suprasixXa 1.0	s u p r a s i x X a
+sura 1.0	s u r a
+suraMga 1.0	s u r a M g a
+suraMge 1.0	s u r a M g e
+surakRA 1.0	s u r a k R A
+surakRAkoRa 1.0	s u r a k R A k o R a
+surakRIwa 1.0	s u r a k R I w a
+surakRiwa 1.0	s u r a k R i w a
+surawa 1.0	s u r a w a
+surenxara 1.0	s u r e n x a r a
+surjIwa 1.0	s u r j I w a
+suvIXA 1.0	s u v I X A
+suviXA 1.0	s u v i X A
+suviXAoM 1.0	s u v i X A o M
+svAMgA 1.0	s v A M g A
+svAgawa 1.0	s v A g a w a
+svAmI 1.0	s v A m I
+svAsWya 1.0	s v A s W y a
+svIkAra 1.0	s v I k A r a
+svIkqwI 1.0	s v I k q w I
+svIkriwI 1.0	s v I k r i w I
+svagIwa 1.0	s v a g I w a
+svarAjA 1.0	s v a r A j A
+svarNa 1.0	s v a r N a
+svarUpa 1.0	s v a r U p a
+svara 1.0	s v a r a
+svargIya 1.0	s v a r g I y a
+svarupa 1.0	s v a r u p a
+svasWa 1.0	s v a s W a
+svawaMwra 1.0	s v a w a M w r a
+svawaMwrawA 1.0	s v a w a M w r a w A
+svaxeSI 1.0	s v a x e S I
+svaxeSa 1.0	s v a x e S a
+svayaM 1.0	s v a y a M
+svayaz 1.0	s v a y a z
+svayazsevI 1.0	s v a y a z s e v I
+svidana 1.0	s v i d a n a
+svikruwa 1.0	s v i k r u w a
+swaMBa 1.0	s w a M B a
+swarIya 1.0	s w a r I y a
+swara 1.0	s w a r a
+swiWa 1.0	s w i W a
+tAIgara 1.0	t A I g a r a
+tAIma 1.0	t A I m a
+tAItala 1.0	t A I t a l a
+tAigara 1.0	t A i g a r a
+tAtA 1.0	t A t A
+tAyada 1.0	t A y a d a
+tAyagara 1.0	t A y a g a r a
+tAygara 1.0	t A y g a r a
+tI 1.0	t I
+tIkA 1.0	t I k A
+tIma 1.0	t I m a
+tOYsa 1.0	t O Y s a
+tUka 1.0	t U k a
+tUrnAmeMta 1.0	t U r n A m e M t a
+tUrnAmenta 1.0	t U r n A m e n t a
+tUrnameMta 1.0	t U r n a m e M t a
+tUta 1.0	t U t a
+tUtwe 1.0	t U t w e
+takarAne 1.0	t a k a r A n e
+telIPona 1.0	t e l I P o n a
+telIvijZana 1.0	t e l I v i j Z a n a
+telIvijana 1.0	t e l I v i j a n a
+teliPona 1.0	t e l i P o n a
+teliPonasa 1.0	t e l i P o n a s a
+telivijana 1.0	t e l i v i j a n a
+tempaleta 1.0	t e m p a l e t a
+tenIsa 1.0	t e n I s a
+tenisa 1.0	t e n i s a
+tennisa 1.0	t e n n i s a
+tetramAisola 1.0	t e t r a m A i s o l a
+tilI 1.0	t i l I
+tima 1.0	t i m a
+tipaNI 1.0	t i p a N I
+tipnisa 1.0	t i p n i s a
+tippaNI 1.0	t i p p a N I
+tippannI 1.0	t i p p a n n I
+tokiyo 1.0	t o k i y o
+tololiMga 1.0	t o l o l i M g a
+toma 1.0	t o m a
+tonI 1.0	t o n I
+tonoliMga 1.0	t o n o l i M g a
+tononIla 1.0	t o n o n I l a
+tononila 1.0	t o n o n i l a
+toreMsko 1.0	t o r e M s k o
+tornAmeMta 1.0	t o r n A m e M t a
+trAMsmItara 1.0	t r A M s m I t a r a
+trAMsmiSana 1.0	t r A M s m i S a n a
+trAMsmitara 1.0	t r A M s m i t a r a
+trAParda 1.0	t r A P a r d a
+trAlI 1.0	t r A l I
+trAnsmItara 1.0	t r A n s m I t a r a
+traka 1.0	t r a k a
+traktara 1.0	t r a k t a r a
+troPI 1.0	t r o P I
+trolI 1.0	t r o l I
+tu 1.0	t u
+tukade 1.0	t u k a d e
+u 1.0	u
+uBara 1.0	u B a r a
+uCAla 1.0	u C A l a
+uMnIsa 1.0	u M n I s a
+uMnisa 1.0	u M n i s a
+uPimAlaya 1.0	u P i m A l a y a
+uTAkara 1.0	u T A k a r a
+uTAne 1.0	u T A n e
+uTAyA 1.0	u T A y A
+uTAyI 1.0	u T A y I
+uTAyegA 1.0	u T A y e g A
+uTegA 1.0	u T e g A
+uTi 1.0	u T i
+uTwA 1.0	u T w A
+uXGAtana 1.0	u X G A t a n a
+uXara 1.0	u X a r a
+ucAI 1.0	u c A I
+uccAraNa 1.0	u c c A r a N a
+uccAyoga 1.0	u c c A y o g a
+uccAyukawa 1.0	u c c A y u k a w a
+uccAyukwa 1.0	u c c A y u k w a
+ucca 1.0	u c c a
+uccaswarIya 1.0	u c c a s w a r I y a
+uccawama 1.0	u c c a w a m a
+uciwa 1.0	u c i w a
+udAna 1.0	u d A n a
+udAye 1.0	u d A y e
+udZA 1.0	u d Z A
+udZIsA 1.0	u d Z I s A
+ugravAxI 1.0	u g r a v A x I
+ugravAxIoM 1.0	u g r a v A x I o M
+ugravAxIyo 1.0	u g r a v A x I y o
+ugravAxi 1.0	u g r a v A x i
+ugravAxiyoM 1.0	u g r a v A x i y o M
+ugravAxyoM 1.0	u g r a v A x y o M
+ujjEna 1.0	u j j E n a
+ujjvala 1.0	u j j v a l a
+ullaMGana 1.0	u l l a M G a n a
+ulleKa 1.0	u l l e K a
+ulleKanIya 1.0	u l l e K a n I y a
+ulleKaniya 1.0	u l l e K a n i y a
+ulleKnIya 1.0	u l l e K n I y a
+ultA 1.0	u l t A
+umA 1.0	u m A
+umaDZa 1.0	u m a D Z a
+ummIxa 1.0	u m m I x a
+unIta 1.0	u n I t a
+una 1.0	u n a
+unaM 1.0	u n a M
+unakA 1.0	u n a k A
+unakI 1.0	u n a k I
+unake 1.0	u n a k e
+unako 1.0	u n a k o
+unameM 1.0	u n a m e M
+unase 1.0	u n a s e
+unha 1.0	u n h a
+unhe 1.0	u n h e
+unheM 1.0	u n h e M
+unhiM 1.0	u n h i M
+unhoM 1.0	u n h o M
+unhoMne 1.0	u n h o M n e
+unhone 1.0	u n h o n e
+unhoneM 1.0	u n h o n e M
+unkA 1.0	u n k A
+unkI 1.0	u n k I
+unke 1.0	u n k e
+unko 1.0	u n k o
+unmeM 1.0	u n m e M
+unnITa 1.0	u n n I T a
+unnIsa 1.0	u n n I s a
+unnawIsa 1.0	u n n a w I s a
+unnwisa 1.0	u n n w i s a
+unpara 1.0	u n p a r a
+unsaTa 1.0	u n s a T a
+unse 1.0	u n s e
+unwIsa 1.0	u n w I s a
+upAXi 1.0	u p A X i
+upAXyakRa 1.0	u p A X y a k R a
+upAXyakRe 1.0	u p A X y a k R e
+upAsanA 1.0	u p A s a n A
+upAya 1.0	u p A y a
+upAyoM 1.0	u p A y o M
+upAyukwoM 1.0	u p A y u k w o M
+upa 1.0	u p a
+upaBArwIya 1.0	u p a B A r w I y a
+upaBoga 1.0	u p a B o g a
+upaBogwA 1.0	u p a B o g w A
+upaBogwAoM 1.0	u p a B o g w A o M
+upagaraha 1.0	u p a g a r a h a
+upagrahoM 1.0	u p a g r a h o M
+upajAU 1.0	u p a j A U
+upakaraNa 1.0	u p a k a r a N a
+upalabXa 1.0	u p a l a b X a
+upanyAsa 1.0	u p a n y A s a
+upanyAsakAra 1.0	u p a n y A s a k A r a
+uparARpawi 1.0	u p a r A R p a w i
+upara 1.0	u p a r a
+upasWiwa 1.0	u p a s W i w a
+upasarga 1.0	u p a s a r g a
+upayoga 1.0	u p a y o g a
+upayukwa 1.0	u p a y u k w a
+upkarNoM 1.0	u p k a r N o M
+upkaraNa 1.0	u p k a r a N a
+uplabXI 1.0	u p l a b X I
+uplabXa 1.0	u p l a b X a
+uplaba 1.0	u p l a b a
+uprARtrapawi 1.0	u p r A R t r a p a w i
+upyoga 1.0	u p y o g a
+ura 1.0	u r a
+uriye 1.0	u r i y e
+ursa 1.0	u r s a
+urxU 1.0	u r x U
+usAmAbina 1.0	u s A m A b i n a
+usI 1.0	u s I
+usa 1.0	u s a
+usakA 1.0	u s a k A
+usake 1.0	u s a k e
+usako 1.0	u s a k o
+usameM 1.0	u s a m e M
+usase 1.0	u s a s e
+use 1.0	u s e
+uskA 1.0	u s k A
+uskI 1.0	u s k I
+uske 1.0	u s k e
+usmeM 1.0	u s m e M
+usne 1.0	u s n e
+usse 1.0	u s s e
+uwAra 1.0	u w A r a
+uwWAna 1.0	u w W A n a
+uwara 1.0	u w a r a
+uwpAwa 1.0	u w p A w a
+uwpanna 1.0	u w p a n n a
+uwpawwi 1.0	u w p a w w i
+uwwAra 1.0	u w w A r a
+uwwama 1.0	u w w a m a
+uwwarAKaMda 1.0	u w w a r A K a M d a
+uwwarAMcala 1.0	u w w a r A M c a l a
+uwwarI 1.0	u w w a r I
+uwwarIya 1.0	u w w a r I y a
+uwwara 1.0	u w w a r a
+uwwrI 1.0	u w w r I
+uxAharaNa 1.0	u x A h a r a N a
+uxGAtana 1.0	u x G A t a n a
+uxIna 1.0	u x I n a
+uxXGAtana 1.0	u x X G A t a n a
+uxaGAtana 1.0	u x a G A t a n a
+uxayapura 1.0	u x a y a p u r a
+uxgama 1.0	u x g a m a
+uxunA 1.0	u x u n A
+uxxeSa 1.0	u x x e S a
+uxxeSya 1.0	u x x e S y a
+uxyAna 1.0	u x y A n a
+uxyoga 1.0	u x y o g a
+uzcAI 1.0	u z c A I
+vAIPa 1.0	v A I P a
+vANI 1.0	v A N I
+vASA 1.0	v A S A
+vASiMgtana 1.0	v A S i M g t a n a
+vAhA 1.0	v A h A
+vAhIta 1.0	v A h I t a
+vAhaka 1.0	v A h a k a
+vAhana 1.0	v A h a n a
+vAhanoM 1.0	v A h a n o M
+vAja 1.0	v A j a
+vAjpAya 1.0	v A j p A y a
+vAjpayI 1.0	v A j p a y I
+vAjpaya 1.0	v A j p a y a
+vAjpeyI 1.0	v A j p e y I
+vAjpeya 1.0	v A j p e y a
+vAkya 1.0	v A k y a
+vAlA 1.0	v A l A
+vAlI 1.0	v A l I
+vAle 1.0	v A l e
+vAlo 1.0	v A l o
+vAloM 1.0	v A l o M
+vAmpaMWI 1.0	v A m p a M W I
+vApasI 1.0	v A p a s I
+vApasa 1.0	v A p a s a
+vApisa 1.0	v A p i s a
+vApsI 1.0	v A p s I
+vArwA 1.0	v A r w A
+vArxAwa 1.0	v A r x A w a
+vAsIyo 1.0	v A s I y o
+vAswava 1.0	v A s w a v a
+vAswavika 1.0	v A s w a v i k a
+vAswe 1.0	v A s w e
+vAta 1.0	v A t a
+vAwAnu 1.0	v A w A n u
+vAwAvaraNa 1.0	v A w A v a r a N a
+vAxA 1.0	v A x A
+vAxI 1.0	v A x I
+vAxe 1.0	v A x e
+vAxiyoM 1.0	v A x i y o M
+vAya 1.0	v A y a
+vAyu 1.0	v A y u
+vAyusenA 1.0	v A y u s e n A
+vAyxA 1.0	v A y x A
+vAyxe 1.0	v A y x e
+vEMkaya 1.0	v E M k a y a
+vERNava 1.0	v E R N a v a
+vEXAnika 1.0	v E X A n i k a
+vEjFAnika 1.0	v E j F A n i k a
+vEsA 1.0	v E s A
+vEse 1.0	v E s e
+vEvasAIka 1.0	v E v a s A I k a
+vEvasAyIka 1.0	v E v a s A y I k a
+vExika 1.0	v E x i k a
+vExya 1.0	v E x y a
+vI 1.0	v I
+vInasa 1.0	v I n a s a
+vIra 1.0	v I r a
+vIragawi 1.0	v I r a g a w i
+vIrgawI 1.0	v I r g a w I
+vIrwA 1.0	v I r w A
+vOYSiMgtana 1.0	v O Y S i M g t a n a
+vOYta 1.0	v O Y t a
+va 1.0	v a
+vaMSa 1.0	v a M S a
+vaSiRTa 1.0	v a S i R T a
+vaXa 1.0	v a X a
+vacana 1.0	v a c a n a
+vacikaraNa 1.0	v a c i k a r a N a
+vahAM 1.0	v a h A M
+vahAz 1.0	v a h A z
+vahI 1.0	v a h I
+vahIM 1.0	v a h I M
+vaha 1.0	v a h a
+vajaha 1.0	v a j a h a
+vajpAyI 1.0	v a j p A y I
+vajpeyI 1.0	v a j p e y I
+vajpeya 1.0	v a j p e y a
+vakIla 1.0	v a k I l a
+vakwAbe 1.0	v a k w A b e
+vakwa 1.0	v a k w a
+vakwabya 1.0	v a k w a b y a
+vakwavya 1.0	v a k w a v y a
+vallaBa 1.0	v a l l a B a
+vana 1.0	v a n a
+vanvAyeMge 1.0	v a n v A y e M g e
+varIRta 1.0	v a r I R t a
+varNa 1.0	v a r N a
+varNana 1.0	v a r N a n a
+varNiwa 1.0	v a r N i w a
+varRA 1.0	v a r R A
+varRIya 1.0	v a r R I y a
+varRa 1.0	v a r R a
+varRya 1.0	v a r R y a
+varSa 1.0	v a r S a
+varaxAna 1.0	v a r a x A n a
+varga 1.0	v a r g a
+variRTa 1.0	v a r i R T a
+variRta 1.0	v a r i R t a
+variyarwA 1.0	v a r i y a r w A
+varksa 1.0	v a r k s a
+varmA 1.0	v a r m A
+varma 1.0	v a r m a
+varmana 1.0	v a r m a n a
+varwamAna 1.0	v a r w a m A n a
+varwanI 1.0	v a r w a n I
+vasIma 1.0	v a s I m a
+vasIra 1.0	v a s I r a
+vasaMwa 1.0	v a s a M w a
+vasanwa 1.0	v a s a n w a
+vasuxeva 1.0	v a s u x e v a
+vaswI 1.0	v a s w I
+vaswuoM 1.0	v a s w u o M
+vavAnAcaraNa 1.0	v a v A n A c a r a N a
+vayAlIsa 1.0	v a y A l I s a
+vayAna 1.0	v a y A n a
+vayakwa 1.0	v a y a k w a
+vayu 1.0	v a y u
+ve 1.0	v e
+veM 1.0	v e M
+veNuXara 1.0	v e N u X a r a
+vega 1.0	v e g a
+velPeyara 1.0	v e l P e y a r a
+venkAyA 1.0	v e n k A y A
+venkEyyA 1.0	v e n k E y y A
+vewana 1.0	v e w a n a
+vexa 1.0	v e x a
+vexoM 1.0	v e x o M
+vhIla 1.0	v h I l a
+viBAga 1.0	v i B A g a
+viBAjana 1.0	v i B A j a n a
+viBAjiwa 1.0	v i B A j i w a
+viBInna 1.0	v i B I n n a
+viBinna 1.0	v i B i n n a
+viPala 1.0	v i P a l a
+viRAxa 1.0	v i R A x a
+viRNu 1.0	v i R N u
+viRPotakoM 1.0	v i R P o t a k o M
+viRaya 1.0	v i R a y a
+viRayoM 1.0	v i R a y o M
+viReSa 1.0	v i R e S a
+viReSako 1.0	v i R e S a k o
+viSAla 1.0	v i S A l a
+viSawa 1.0	v i S a w a
+viSeRa 1.0	v i S e R a
+viSeRagyA 1.0	v i S e R a g y A
+viSiRta 1.0	v i S i R t a
+viSrAma 1.0	v i S r A m a
+viSvAmiwra 1.0	v i S v A m i w r a
+viSvAsGAwa 1.0	v i S v A s G A w a
+viSvAsa 1.0	v i S v A s a
+viSva 1.0	v i S v a
+viSvavixyAlaya 1.0	v i S v a v i x y A l a y a
+viXAna 1.0	v i X A n a
+viXAoM 1.0	v i X A o M
+viXAyakoM 1.0	v i X A y a k o M
+viXIyoM 1.0	v i X I y o M
+viXarBa 1.0	v i X a r B a
+viXarba 1.0	v i X a r b a
+viXeyaka 1.0	v i X e y a k a
+viXvasawa 1.0	v i X v a s a w a
+viXyUwa 1.0	v i X y U w a
+vicAra 1.0	v i c A r a
+vicAraXArA 1.0	v i c A r a X A r A
+vicAraXIna 1.0	v i c A r a X I n a
+vicAriwa 1.0	v i c A r i w a
+vicAroM 1.0	v i c A r o M
+viciwra 1.0	v i c i w r a
+vidZiyoM 1.0	v i d Z i y o M
+vigyapwI 1.0	v i g y a p w I
+vigyapwi 1.0	v i g y a p w i
+vihAra 1.0	v i h A r a
+vijFAna 1.0	v i j F A n a
+vijFapwi 1.0	v i j F a p w i
+vija 1.0	v i j a
+vijaya 1.0	v i j a y a
+vikAsa 1.0	v i k A s a
+vikI 1.0	v i k I
+vikIpIdiyA 1.0	v i k I p I d i y A
+vikRawa 1.0	v i k R a w a
+vikalAMgo 1.0	v i k a l A M g o
+vikalpa 1.0	v i k a l p a
+vikasiwa 1.0	v i k a s i w a
+viketa 1.0	v i k e t a
+viki 1.0	v i k i
+vikipIdiyA 1.0	v i k i p I d i y A
+vikiyAwrA 1.0	v i k i y A w r A
+viklAMga 1.0	v i k l A M g a
+vikramAxiwya 1.0	v i k r a m A x i w y a
+vikrama 1.0	v i k r a m a
+vikruwa 1.0	v i k r u w a
+viksIwa 1.0	v i k s I w a
+vimAna 1.0	v i m A n a
+vimAno 1.0	v i m A n o
+vimAnoM 1.0	v i m A n o M
+vimarSa 1.0	v i m a r S a
+vimbaldana 1.0	v i m b a l d a n a
+vinoxa 1.0	v i n o x a
+vipakRI 1.0	v i p a k R I
+vipakRa 1.0	v i p a k R a
+virA 1.0	v i r A
+virAXAra 1.0	v i r A X A r a
+virAma 1.0	v i r A m a
+virAsawa 1.0	v i r A s a w a
+viraha 1.0	v i r a h a
+virala 1.0	v i r a l a
+viroXI 1.0	v i r o X I
+viroXa 1.0	v i r o X a
+viruXa 1.0	v i r u X a
+visPoto 1.0	v i s P o t o
+visPotoM 1.0	v i s P o t o M
+visPotokoM 1.0	v i s P o t o k o M
+visWApiwa 1.0	v i s W A p i w a
+viskriwa 1.0	v i s k r i w a
+vismaya 1.0	v i s m a y a
+visvala 1.0	v i s v a l a
+viswAra 1.0	v i s w A r a
+viswqwa 1.0	v i s w q w a
+viswriwa 1.0	v i s w r i w a
+vivAha 1.0	v i v A h a
+vivAxa 1.0	v i v A x a
+vivecana 1.0	v i v e c a n a
+viveka 1.0	v i v e k a
+viwIya 1.0	v i w I y a
+viwa 1.0	v i w a
+viwaraNa 1.0	v i w a r a N a
+viwwIya 1.0	v i w w I y a
+vixAI 1.0	v i x A I
+vixeRa 1.0	v i x e R a
+vixeSI 1.0	v i x e S I
+vixeSa 1.0	v i x e S a
+vixrohIyoM 1.0	v i x r o h I y o M
+vixroha 1.0	v i x r o h a
+vixvAna 1.0	v i x v A n a
+vixvAnoM 1.0	v i x v A n o M
+vixyA 1.0	v i x y A
+vixyuwa 1.0	v i x y u w a
+viyoga 1.0	v i y o g a
+vo 1.0	v o
+voSiMgtana 1.0	v o S i M g t a n a
+voldemOYrta 1.0	v o l d e m O Y r t a
+volteja 1.0	v o l t e j a
+vorna 1.0	v o r n a
+vorne 1.0	v o r n e
+vqkRa 1.0	v q k R a
+vqxXi 1.0	v q x X i
+vrawI 1.0	v r a w I
+vrekmena 1.0	v r e k m e n a
+vriXi 1.0	v r i X i
+vriwwa 1.0	v r i w w a
+vrukRa 1.0	v r u k R a
+vruwa 1.0	v r u w a
+vyAja 1.0	v y A j a
+vyAkaraNa 1.0	v y A k a r a N a
+vyApAra 1.0	v y A p A r a
+vyApaka 1.0	v y A p a k a
+vyApwa 1.0	v y A p w a
+vyAsa 1.0	v y A s a
+vyEta 1.0	v y E t a
+vyaMgya 1.0	v y a M g y a
+vyaMjana 1.0	v y a M j a n a
+vyakwI 1.0	v y a k w I
+vyakwa 1.0	v y a k w a
+vyakwabe 1.0	v y a k w a b e
+vyakwavya 1.0	v y a k w a v y a
+vyakwi 1.0	v y a k w i
+vyakwigawa 1.0	v y a k w i g a w a
+vyakwiyoM 1.0	v y a k w i y o M
+vyaswa 1.0	v y a s w a
+vyavAhAra 1.0	v y a v A h A r a
+vyavasAya 1.0	v y a v a s A y a
+vyavasWA 1.0	v y a v a s W A
+vyavaswA 1.0	v y a v a s w A
+vyavhAra 1.0	v y a v h A r a
+wA 1.0	w A
+wAMwrika 1.0	w A M w r i k a
+wAjA 1.0	w A j A
+wAjamahala 1.0	w A j a m a h a l a
+wAjevAlA 1.0	w A j e v A l A
+wAkI 1.0	w A k I
+wAka 1.0	w A k a
+wAkaweM 1.0	w A k a w e M
+wAki 1.0	w A k i
+wAlA 1.0	w A l A
+wAlAba 1.0	w A l A b a
+wAlIbAna 1.0	w A l I b A n a
+wAlika 1.0	w A l i k a
+wAlmela 1.0	w A l m e l a
+wApUrNa 1.0	w A p U r N a
+wApa 1.0	w A p a
+wApamAna 1.0	w A p a m A n a
+wApmAna 1.0	w A p m A n a
+wArIKa 1.0	w A r I K a
+wArIPa 1.0	w A r I P a
+wArapito 1.0	w A r a p i t o
+wAriKa 1.0	w A r i K a
+wAriKoM 1.0	w A r i K o M
+wAwA 1.0	w A w A
+wAwa 1.0	w A w a
+wE 1.0	w E
+wEnAwI 1.0	w E n A w I
+wEnAwa 1.0	w E n A w a
+wEyArI 1.0	w E y A r I
+wEyAra 1.0	w E y A r a
+wEyAriyAM 1.0	w E y A r i y A M
+wEyyAriyAM 1.0	w E y y A r i y A M
+wI 1.0	w I
+wIna 1.0	w I n a
+wInoM 1.0	w I n o M
+wInsO 1.0	w I n s O
+wIraWa 1.0	w I r a W a
+wIsa 1.0	w I s a
+wIsarA 1.0	w I s a r A
+wIsare 1.0	w I s a r e
+wIsrI 1.0	w I s r I
+wIsre 1.0	w I s r e
+wIvrawA 1.0	w I v r a w A
+wO 1.0	w O
+wOpcI 1.0	w O p c I
+wOra 1.0	w O r a
+wU 1.0	w U
+wUM 1.0	w U M
+waBI 1.0	w a B I
+waMga 1.0	w a M g a
+waMjAniyA 1.0	w a M j A n i y A
+waMva 1.0	w a M v a
+waPrI 1.0	w a P r I
+waWA 1.0	w a W A
+waWa 1.0	w a W a
+waWya 1.0	w a W y a
+waWyoM 1.0	w a W y o M
+wabAha 1.0	w a b A h a
+wabAxlA 1.0	w a b A x l A
+waba 1.0	w a b a
+wadZke 1.0	w a d Z k e
+wahawa 1.0	w a h a w a
+wahaz 1.0	w a h a z
+waka 1.0	w a k a
+wakanIkI 1.0	w a k a n I k I
+wala 1.0	w a l a
+wale 1.0	w a l e
+wama 1.0	w a m a
+wamila 1.0	w a m i l a
+wamilanAdU 1.0	w a m i l a n A d U
+wamilnAdu 1.0	w a m i l n A d u
+wanAva 1.0	w a n A v a
+wana 1.0	w a n a
+wapa 1.0	w a p a
+warAI 1.0	w a r A I
+warAIvAle 1.0	w a r A I v A l e
+warI 1.0	w a r I
+warIke 1.0	w a r I k e
+warIko 1.0	w a r I k o
+waraPa 1.0	w a r a P a
+waraha 1.0	w a r a h a
+warkIba 1.0	w a r k I b a
+wasyo 1.0	w a s y o
+watIya 1.0	w a t I y a
+wata 1.0	w a t a
+watabaMXo 1.0	w a t a b a M X o
+watabaMXoM 1.0	w a t a b a M X o M
+watavarwIya 1.0	w a t a v a r w I y a
+watorwama 1.0	w a t o r w a m a
+watvarwI 1.0	w a t v a r w I
+watvarwIya 1.0	w a t v a r w I y a
+wava 1.0	w a v a
+wawkAlIna 1.0	w a w k A l I n a
+wawkAla 1.0	w a w k A l a
+wawva 1.0	w a w v a
+wayArI 1.0	w a y A r I
+waya 1.0	w a y a
+we 1.0	w e
+weIsa 1.0	w e I s a
+weM 1.0	w e M
+weMwAlIsa 1.0	w e M w A l I s a
+wehAsika 1.0	w e h A s i k a
+wehI 1.0	w e h I
+wehi 1.0	w e h i
+wehiM 1.0	w e h i M
+weisa 1.0	w e i s a
+wejI 1.0	w e j I
+weja 1.0	w e j a
+wejpura 1.0	w e j p u r a
+wela 1.0	w e l a
+welaMgAnA 1.0	w e l a M g A n A
+weraha 1.0	w e r a h a
+werahvIM 1.0	w e r a h v I M
+wesila 1.0	w e s i l a
+wevisa 1.0	w e v i s a
+wewAlIsa 1.0	w e w A l I s a
+wewAlisa 1.0	w e w A l i s a
+wibbawa 1.0	w i b b a w a
+wijOriyo 1.0	w i j O r i y o
+wilaka 1.0	w i l a k a
+winsO 1.0	w i n s O
+wirapaMve 1.0	w i r a p a M v e
+wisa 1.0	w i s a
+wiwodI 1.0	w i w o d I
+wo 1.0	w o
+wodZa 1.0	w o d Z a
+woebA 1.0	w o e b A
+wohrA 1.0	w o h r A
+wololiMga 1.0	w o l o l i M g a
+wonoliMga 1.0	w o n o l i M g a
+wopa 1.0	w o p a
+wopcI 1.0	w o p c I
+wopeM 1.0	w o p e M
+wopoM 1.0	w o p o M
+wora 1.0	w o r a
+woyabA 1.0	w o y a b A
+wqwIya 1.0	w q w I y a
+wresaTa 1.0	w r e s a T a
+wripurA 1.0	w r i p u r A
+wuJe 1.0	w u J e
+wulanA 1.0	w u l a n A
+wulasIxAsa 1.0	w u l a s I x A s a
+wuma 1.0	w u m a
+wumhAre 1.0	w u m h A r e
+wumha 1.0	w u m h a
+wumhahi 1.0	w u m h a h i
+wuraMwa 1.0	w u r a M w a
+wuranwa 1.0	w u r a n w a
+wurawuka 1.0	w u r a w u k a
+wurkI 1.0	w u r k I
+wurwuka 1.0	w u r w u k a
+wutwe 1.0	w u t w e
+wyAga 1.0	w y A g a
+wyohAra 1.0	w y o h A r a
+xADZIkeSa 1.0	x A D Z I k e S a
+xAKila 1.0	x A K i l a
+xAMgI 1.0	x A M g I
+xAna 1.0	x A n a
+xArSanika 1.0	x A r S a n i k a
+xArjIliMga 1.0	x A r j I l i M g a
+xAvA 1.0	x A v A
+xAva 1.0	x A v a
+xAve 1.0	x A v e
+xAvoM 1.0	x A v o M
+xAyare 1.0	x A y a r e
+xAyrA 1.0	x A y r A
+xAzwa 1.0	x A z w a
+xEnika 1.0	x E n i k a
+xI 1.0	x I
+xIjiye 1.0	x I j i y e
+xIkRA 1.0	x I k R A
+xIkRiwa 1.0	x I k R i w a
+xIllI 1.0	x I l l I
+xInhA 1.0	x I n h A
+xInhi 1.0	x I n h i
+xIpa 1.0	x I p a
+xIvAra 1.0	x I v A r a
+xOda 1.0	x O d a
+xOrA 1.0	x O r A
+xOrAna 1.0	x O r A n a
+xOra 1.0	x O r a
+xOre 1.0	x O r e
+xURana 1.0	x U R a n a
+xUrI 1.0	x U r I
+xUra 1.0	x U r a
+xUraxarSana 1.0	x U r a x a r S a n a
+xUrsaMcAra 1.0	x U r s a M c A r a
+xUrxarSana 1.0	x U r x a r S a n a
+xUsarA 1.0	x U s a r A
+xUsarI 1.0	x U s a r I
+xUsare 1.0	x U s a r e
+xUsrA 1.0	x U s r A
+xUsrI 1.0	x U s r I
+xUsre 1.0	x U s r e
+xUwa 1.0	x U w a
+xaKlanxajZI 1.0	x a K l a n x a j Z I
+xaMBa 1.0	x a M B a
+xaMdavawa 1.0	x a M d a v a w a
+xaPZwara 1.0	x a P Z w a r a
+xaPnA 1.0	x a P n A
+xaPwara 1.0	x a P w a r a
+xaSamlava 1.0	x a S a m l a v a
+xabAva 1.0	x a b A v a
+xabwaka 1.0	x a b w a k a
+xakRa 1.0	x a k R a
+xakRiNI 1.0	x a k R i N I
+xakRiNa 1.0	x a k R i N a
+xalIla 1.0	x a l I l a
+xala 1.0	x a l a
+xaliwa 1.0	x a l i w a
+xaloM 1.0	x a l o M
+xama 1.0	x a m a
+xarAra 1.0	x a r A r a
+xarSana 1.0	x a r S a n a
+xarabaMgA 1.0	x a r a b a M g A
+xarasu 1.0	x a r a s u
+xargAha 1.0	x a r g A h a
+xarjA 1.0	x a r j A
+xarja 1.0	x a r j a
+xarjana 1.0	x a r j a n a
+xaroM 1.0	x a r o M
+xarvAje 1.0	x a r v A j e
+xasAnana 1.0	x a s A n a n a
+xasa 1.0	x a s a
+xasamalaga 1.0	x a s a m a l a g a
+xasamlO 1.0	x a s a m l O
+xasamlaga 1.0	x a s a m l a g a
+xasamlava 1.0	x a s a m l a v a
+xaswUra 1.0	x a s w U r a
+xaswura 1.0	x a s w u r a
+xata 1.0	x a t a
+xavAIyAM 1.0	x a v A I y A M
+xavAo 1.0	x a v A o
+xavaka 1.0	x a v a k a
+xayA 1.0	x a y A
+xayAla 1.0	x a y A l a
+xe 1.0	x e
+xeKA 1.0	x e K A
+xeKI 1.0	x e K I
+xeKa 1.0	x e K a
+xeKanA 1.0	x e K a n A
+xeKane 1.0	x e K a n e
+xeKareKa 1.0	x e K a r e K a
+xeKawA 1.0	x e K a w A
+xeKawe 1.0	x e K a w e
+xeKe 1.0	x e K e
+xeKeM 1.0	x e K e M
+xeKegA 1.0	x e K e g A
+xeKi 1.0	x e K i
+xeKie 1.0	x e K i e
+xeKreKa 1.0	x e K r e K a
+xeKwA 1.0	x e K w A
+xeKwe 1.0	x e K w e
+xeM 1.0	x e M
+xeMge 1.0	x e M g e
+xeRoM 1.0	x e R o M
+xeSa 1.0	x e S a
+xeSavAsI 1.0	x e S a v A s I
+xeSo 1.0	x e S o
+xeSoM 1.0	x e S o M
+xeSvAsI 1.0	x e S v A s I
+xeSvAsiyoM 1.0	x e S v A s i y o M
+xedZa 1.0	x e d Z a
+xegA 1.0	x e g A
+xegI 1.0	x e g I
+xehAMwa 1.0	x e h A M w a
+xehIM 1.0	x e h I M
+xehu 1.0	x e h u
+xei 1.0	x e i
+xekara 1.0	x e k a r a
+xenA 1.0	x e n A
+xena 1.0	x e n a
+xene 1.0	x e n e
+xerI 1.0	x e r I
+xera 1.0	x e r a
+xevA 1.0	x e v A
+xevI 1.0	x e v I
+xeva 1.0	x e v a
+xevahUwi 1.0	x e v a h U w i
+xevanAgarI 1.0	x e v a n A g a r I
+xevawA 1.0	x e v a w A
+xevawAoM 1.0	x e v a w A o M
+xewA 1.0	x e w A
+xewI 1.0	x e w I
+xewe 1.0	x e w e
+xiKA 1.0	x i K A
+xiKAI 1.0	x i K A I
+xiKAyI 1.0	x i K A y I
+xiSA 1.0	x i S A
+xiSAoM 1.0	x i S A o M
+xie 1.0	x i e
+xikRIwa 1.0	x i k R I w a
+xilAne 1.0	x i l A n e
+xilAyI 1.0	x i l A y I
+xila 1.0	x i l a
+xilacasvI 1.0	x i l a c a s v I
+xilcasvI 1.0	x i l c a s v I
+xillI 1.0	x i l l I
+xina 1.0	x i n a
+xinakA 1.0	x i n a k A
+xinakara 1.0	x i n a k a r a
+xino 1.0	x i n o
+xinoM 1.0	x i n o M
+xisambara 1.0	x i s a m b a r a
+xiupUla 1.0	x i u p U l a
+xivAlI 1.0	x i v A l I
+xivasa 1.0	x i v a s a
+xivya 1.0	x i v y a
+xiyA 1.0	x i y A
+xiye 1.0	x i y e
+xo 1.0	x o
+xoRI 1.0	x o R I
+xoRa 1.0	x o R a
+xoRiyoM 1.0	x o R i y o M
+xoSI 1.0	x o S I
+xoU 1.0	x o U
+xoharAyA 1.0	x o h a r A y A
+xono 1.0	x o n o
+xonoM 1.0	x o n o M
+xopahara 1.0	x o p a h a r a
+xosarA 1.0	x o s a r A
+xoswa 1.0	x o s w a
+xqDZa 1.0	x q D Z a
+xqRti 1.0	x q R t i
+xqRtikoNa 1.0	x q R t i k o N a
+xqSya 1.0	x q S y a
+xrASa 1.0	x r A S a
+xrAsa 1.0	x r A s a
+xrava 1.0	x r a v a
+xravya 1.0	x r a v y a
+xruRtAcAra 1.0	x r u R t A c A r a
+xruRtikoNa 1.0	x r u R t i k o N a
+xuHKa 1.0	x u H K a
+xuKArI 1.0	x u K A r I
+xuKa 1.0	x u K a
+xuKu 1.0	x u K u
+xuRa 1.0	x u R a
+xuRmana 1.0	x u R m a n a
+xuRta 1.0	x u R t a
+xuSmana 1.0	x u S m a n a
+xuSpracAra 1.0	x u S p r a c A r a
+xukAna 1.0	x u k A n a
+xukAneM 1.0	x u k A n e M
+xukAnxAra 1.0	x u k A n x A r a
+xuniyA 1.0	x u n i y A
+xuniyABara 1.0	x u n i y A B a r a
+xupahara 1.0	x u p a h a r a
+xurEsvAmI 1.0	x u r E s v A m I
+xurGatanAgrasWa 1.0	x u r G a t a n A g r a s W a
+xurGatnA 1.0	x u r G a t n A
+xura 1.0	x u r a
+xurga 1.0	x u r g a
+xurgaM 1.0	x u r g a M
+xurgama 1.0	x u r g a m a
+xurvyavhAra 1.0	x u r v y a v h A r a
+xurxarSana 1.0	x u r x a r S a n a
+xuryA 1.0	x u r y A
+xuryoXana 1.0	x u r y o X a n a
+xusre 1.0	x u s r e
+xuwAvAsa 1.0	x u w A v A s a
+xuwavAso 1.0	x u w a v A s o
+xvAIyoM 1.0	x v A I y o M
+xvArA 1.0	x v A r A
+xvArIkA 1.0	x v A r I k A
+xvIpa 1.0	x v I p a
+xvOrAna 1.0	x v O r A n a
+xvi 1.0	x v i
+xvija 1.0	x v i j a
+xvipa 1.0	x v i p a
+xvipakRIya 1.0	x v i p a k R I y a
+xviwIya 1.0	x v i w I y a
+yA 1.0	y A
+yAMgasI 1.0	y A M g a s I
+yAlYUsa 1.0	y A l Y U s a
+yAni 1.0	y A n i
+yAwAyAwa 1.0	y A w A y A w a
+yAwanA 1.0	y A w a n A
+yAwanAye 1.0	y A w a n A y e
+yAwanAyeM 1.0	y A w a n A y e M
+yAwnA 1.0	y A w n A
+yAwnAMye 1.0	y A w n A M y e
+yAwnAyeM 1.0	y A w n A y e M
+yAwrA 1.0	y A w r A
+yAwrI 1.0	y A w r I
+yAwriyoM 1.0	y A w r i y o M
+yAxa 1.0	y A x a
+yAxava 1.0	y A x a v a
+yUropIya 1.0	y U r o p I y a
+yUropa 1.0	y U r o p a
+yaSvIra 1.0	y a S v I r a
+yaSvaMwa 1.0	y a S v a M w a
+yahA 1.0	y a h A
+yahAM 1.0	y a h A M
+yahAz 1.0	y a h A z
+yahI 1.0	y a h I
+yahIM 1.0	y a h I M
+yahUxI 1.0	y a h U x I
+yaha 1.0	y a h a
+yajFa 1.0	y a j F a
+yajFopavIwa 1.0	y a j F o p a v I w a
+yamunA 1.0	y a m u n A
+yawrIoM 1.0	y a w r I o M
+yaxi 1.0	y a x i
+yaxyapi 1.0	y a x y a p i
+ye 1.0	y e
+yeha 1.0	y e h a
+yekarmena 1.0	y e k a r m e n a
+yo 1.0	y o
+yogI 1.0	y o g I
+yoga 1.0	y o g a
+yogarAja 1.0	y o g a r A j a
+yogaxAna 1.0	y o g a x A n a
+yogrAja 1.0	y o g r A j a
+yogxAna 1.0	y o g x A n a
+yogya 1.0	y o g y a
+yojanA 1.0	y o j a n A
+yojnA 1.0	y o j n A
+yokarmena 1.0	y o k a r m e n a
+yonAja 1.0	y o n A j a
+yonotila 1.0	y o n o t i l a
+yuga 1.0	y u g a
+yugoslAviyA 1.0	y u g o s l A v i y A
+yukeSa 1.0	y u k e S a
+yukwa 1.0	y u k w a
+yulA 1.0	y u l A
+yunAiteda 1.0	y u n A i t e d a
+yuvA 1.0	y u v A
+yuvaka 1.0	y u v a k a
+yuxXa 1.0	y u x X a
+yuxXbaMxI 1.0	y u x X b a M x I
