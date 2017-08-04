@@ -45,13 +45,13 @@ steps/nnet2/train_discriminative.sh --cmd "$decode_cmd" \
     exp/nnet4c_gpu_ali exp/nnet4c_gpu_denlats exp/nnet4c_gpu/final.mdl exp/nnet5c_mpe_gpu
 
 for epoch in 1 2 3 4; do
-   steps/nnet2/decode.sh --config conf/decode.config --cmd "$decode_cmd" --nj 20 --iter epoch$epoch \
+   steps/nnet2/decode.sh --config conf/decode.config --cmd "$decode_cmd" --nj 4 --iter epoch$epoch \
      --transform-dir exp/tri3b/decode \
      exp/tri3b/graph data/test exp/nnet5c_mpe_gpu/decode_epoch$epoch  &
 
-   steps/nnet2/decode.sh --config conf/decode.config --cmd "$decode_cmd" --nj 20 --iter epoch$epoch \
-     --transform-dir exp/tri3b/decode_ug \
-     exp/tri3b/graph_ug data/test exp/nnet5c_mpe_gpu/decode_ug_epoch$epoch &
+#   steps/nnet2/decode.sh --config conf/decode.config --cmd "$decode_cmd" --nj 20 --iter epoch$epoch \
+#     --transform-dir exp/tri3b/decode_ug \
+#     exp/tri3b/graph_ug data/test exp/nnet5c_mpe_gpu/decode_ug_epoch$epoch &
 done
 
 

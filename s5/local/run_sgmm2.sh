@@ -15,17 +15,18 @@ fi
 steps/train_sgmm2.sh --cmd "$train_cmd" 5000 7000 data/train data/lang exp/tri3b_ali exp/ubm4a/final.ubm exp/sgmm2_4a || exit 1;
 
 utils/mkgraph.sh data/lang exp/sgmm2_4a exp/sgmm2_4a/graph || exit 1;
+comment2
 
-steps/decode_sgmm2.sh --config conf/decode.config --nj 3 --cmd "$decode_cmd" \
+steps/decode_sgmm2.sh --config conf/decode.config --nj 4 --cmd "$decode_cmd" \
   --transform-dir exp/tri3b/decode  exp/sgmm2_4a/graph data/test exp/sgmm2_4a/decode || exit 1;
 
-steps/decode_sgmm2.sh --use-fmllr true --config conf/decode.config --nj 3 --cmd "$decode_cmd" \
+steps/decode_sgmm2.sh --use-fmllr true --config conf/decode.config --nj 4 --cmd "$decode_cmd" \
   --transform-dir exp/tri3b/decode  exp/sgmm2_4a/graph data/test exp/sgmm2_4a/decode_fmllr || exit 1;
 
  # Now we'll align the SGMM system to prepare for discriminative training.
- steps/align_sgmm2.sh --nj 4 --cmd "$train_cmd" --transform-dir exp/tri3b \
+ steps/align_sgmm2.sh --nj 8 --cmd "$train_cmd" --transform-dir exp/tri3b \
     --use-graphs true --use-gselect true data/train data/lang exp/sgmm2_4a exp/sgmm2_4a_ali || exit 1;
- steps/make_denlats_sgmm2.sh --nj 4 --sub-split 4 --cmd "$decode_cmd" --transform-dir exp/tri3b \
+ steps/make_denlats_sgmm2.sh --nj 8 --sub-split 8 --cmd "$decode_cmd" --transform-dir exp/tri3b \
    data/train data/lang exp/sgmm2_4a_ali exp/sgmm2_4a_denlats
  steps/train_mmi_sgmm2.sh --cmd "$decode_cmd" --transform-dir exp/tri3b --boost 0.2 \
    data/train data/lang exp/sgmm2_4a_ali exp/sgmm2_4a_denlats exp/sgmm2_4a_mmi_b0.2 
@@ -45,7 +46,7 @@ steps/decode_sgmm2.sh --use-fmllr true --config conf/decode.config --nj 3 --cmd 
 )
 wait 
 
-comment2
+#comment2
 #steps/decode_combine.sh data/test data/lang exp/tri1/decode exp/tri2a/decode exp/combine_1_2a/decode || exit 1;
 steps/decode_combine.sh data/test data/lang exp/sgmm2_4a/decode exp/tri3b_mmi/decode exp/combine_sgmm2_4a_3b/decode || exit 1;
 # combining the sgmm run and the best MMI+fMMI run.

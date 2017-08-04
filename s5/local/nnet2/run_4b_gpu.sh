@@ -25,7 +25,7 @@ parallel_opts="--gpu 1"  # This is suitable for the CLSP network, you'll likely 
 
 set -e
 
-<<comment
+#<<comment
 if [ $stage -le 0 ]; then
   # Create the training data.                                                                                                                   
   featdir=`pwd`/mfcc/nnet4b; mkdir -p $featdir
@@ -73,7 +73,7 @@ if [ $stage -le 3 ]; then
   steps/compute_cmvn_stats.sh data/test_fbank exp/make_fbank/test $featdir  
 fi
 
-comment
+#comment
 if [ $stage -le 4 ]; then
    steps/nnet2/decode.sh --config conf/decode.config --cmd "$decode_cmd" --nj 4 --feat-type raw \
      exp/tri3b/graph data/test_fbank exp/nnet4b_gpu/decode

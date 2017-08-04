@@ -38,7 +38,7 @@ if true || [ ! -f $dir/final.mdl ]; then
      --num-threads "$num_threads" \
      --minibatch-size "$minibatch_size" \
      --parallel-opts "$parallel_opts" \
-     --num-jobs-nnet 4 \
+     --num-jobs-nnet 8 \
      --num-epochs 13 --add-layers-period 1 \
      --num-hidden-layers 2 \
      --mix-up 4000 \
@@ -49,13 +49,13 @@ if true || [ ! -f $dir/final.mdl ]; then
      data/train data/lang exp/tri3b_ali $dir  || exit 1;
 fi
 
-steps/nnet2/decode.sh --config conf/decode.config --cmd "$decode_cmd" --nj 20 \
+steps/nnet2/decode.sh --config conf/decode.config --cmd "$decode_cmd" --nj 4 \
   --transform-dir exp/tri3b/decode \
   exp/tri3b/graph data/test $dir/decode  &
 
-steps/nnet2/decode.sh --config conf/decode.config --cmd "$decode_cmd" --nj 20 \
-  --transform-dir exp/tri3b/decode_ug \
-  exp/tri3b/graph_ug data/test $dir/decode_ug
+#steps/nnet2/decode.sh --config conf/decode.config --cmd "$decode_cmd" --nj 4 \
+#  --transform-dir exp/tri3b/decode_ug \
+#  exp/tri3b/graph_ug data/test $dir/decode_ug
 
 wait
 

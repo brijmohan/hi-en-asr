@@ -14,7 +14,7 @@ set -e # exit on error
 #local/rm_data_prep.sh /export/corpora5/LDC/LDC93S3A/rm_comp
 
 #local/rm_data_prep.sh /home/dpovey/data/LDC93S3A/rm_comp
-#<<comment1
+<<comment1
 
 
 utils/prepare_lang.sh data/local/dict '!SIL' data/local/lang data/lang
@@ -22,7 +22,7 @@ utils/prepare_lang.sh data/local/dict '!SIL' data/local/lang data/lang
 local/cm_prepare_lm.sh || exit 1
 local/cm_format_data.sh || exit 1
 
-#comment1
+comment1
 
 #local/rm_prepare_grammar.sh      # Traditional RM grammar (bigram word-pair)
 #local/rm_prepare_grammar_ug.sh   # Unigram grammar (gives worse results, but
@@ -53,6 +53,7 @@ co1
 #utils/combine_data.sh data/test data/test_{mar87,oct87,feb89,oct89,feb91,sep92}
 #steps/compute_cmvn_stats.sh data/test exp/make_feat/test $featdir
 
+<<comment2
 utils/subset_data_dir.sh data/train 1000 data/train.1k
 
 
@@ -153,7 +154,7 @@ utils/mkgraph.sh data/lang exp/tri3b exp/tri3b/graph
 steps/decode_fmllr.sh --config conf/decode.config --nj $tejobs --cmd "$decode_cmd" \
   exp/tri3b/graph data/test exp/tri3b/decode
 
-#comment
+comment2
 
 <<comment1
 (
@@ -163,7 +164,7 @@ steps/decode_fmllr.sh --config conf/decode.config --nj $tejobs --cmd "$decode_cm
 )
 comment1
 
-
+<<comment3
 # Align all data with LDA+MLLT+SAT system (tri3b)
 steps/align_fmllr.sh --nj $trjobs --cmd "$train_cmd" --use-graphs true \
   data/train data/lang exp/tri3b exp/tri3b_ali
@@ -190,6 +191,8 @@ steps/decode_fmllr.sh --config conf/decode.config --nj $tejobs --cmd "$decode_cm
 # Do a decoding that uses the exp/tri3b/decode directory to get transforms from.
 steps/decode.sh --config conf/decode.config --nj $tejobs --cmd "$decode_cmd" \
   --transform-dir exp/tri3b/decode  exp/tri3b/graph data/test exp/tri3b_mmi/decode2
+
+comment3
 
 # demonstration scripts for online decoding.
 # local/online/run_gmm.sh
@@ -219,6 +222,7 @@ steps/decode.sh --config conf/decode.config --nj $tejobs --cmd "$decode_cmd" \
 
 
 #first, train UBM for fMMI experiments.
+<<notneeded
 steps/train_diag_ubm.sh --silence-weight 0.5 --nj 4 --cmd "$train_cmd" \
   250 data/train data/lang exp/tri3b_ali exp/dubm3b
 
@@ -251,12 +255,14 @@ for iter in 3 4 5 6 7 8; do
    --transform-dir exp/tri3b/decode  exp/tri3b/graph data/test exp/tri3b_fmmi_d/decode_it$iter &
 done
 
+notneeded
+
 # Demo of "raw fMLLR"
-local/run_raw_fmllr.sh
+#local/run_raw_fmllr.sh
 
 
 # You don't have to run all 2 of the below, e.g. you can just run the run_sgmm2.sh
-local/run_sgmm2.sh
+#local/run_sgmm2.sh
 #local/run_sgmm2x.sh
 #comment
 # The following script depends on local/run_raw_fmllr.sh having been run.
